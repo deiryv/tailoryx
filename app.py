@@ -4,10 +4,19 @@ from typing import Literal
 import json
 import streamlit as st
 import urllib.request
+import pandas as pd
+from openai import OpenAI
+import time
 
 # Page configuration
-st.set_page_config(page_title="Coca-Cola KMA")
+st.set_page_config(page_title="TailoryX")
+dataset = []
+OPEN_AI_ENDPOINT = st.secrets["OPEN_AI_ENDPOINT"]
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+ASSISTANT_ID = st.secrets["ASSISTANT_ID"]
 
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+assistant = client.beta.assistants.retrieve(st.secrets["ASSISTANT_ID"])
 
 @dataclass
 class Message:
@@ -35,6 +44,24 @@ def initialize_session_state():
     # Define chat history
     if "history" not in st.session_state:
         st.session_state.history = []
+    # Initialise session state variables
+    if "file_uploaded" not in st.session_state:
+        st.session_state.file_uploaded = False
+
+    if "assistant_text" not in st.session_state:
+        st.session_state.assistant_text = [""]
+
+    if "code_input" not in st.session_state:
+        st.session_state.code_input = []
+
+    if "code_output" not in st.session_state:
+        st.session_state.code_output = []
+
+    if "disabled" not in st.session_state:
+        st.session_state.disabled = False
+
+    if "file" not in st.session_state:
+        st.session_state.file = ""
 
 
 def convert_history_to_json(history):
@@ -74,8 +101,7 @@ def call_promptflow(query):
     Accepts the human_prompt as a query for the LLM.
     """
     # Prompt Flow endpoint URL, associated API key, the deployment name
-    ENDPOINT_URL = st.secrets["OPEN_AI_ENDPOINT"]
-    OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+
 
     # Retreive and convert chat history
     #chat_history_list = convert_history_to_json(st.session_state.history)
@@ -86,7 +112,7 @@ def call_promptflow(query):
     "messages": [
         {"role": "user", "content": query}  # Include the user's query as a message
     ]
-}
+    }
     body = str.encode(json.dumps(data))
 
     # Provide the OpenAI API key in the header
@@ -95,11 +121,8 @@ def call_promptflow(query):
         "Authorization": f"Bearer {OPENAI_API_KEY}",
     }
 
-    # Set the OpenAI API endpoint
-    ENDPOINT_URL = "https://api.openai.com/v1/chat/completions"
-
     # Create the request
-    req = urllib.request.Request(ENDPOINT_URL, body, headers)
+    req = urllib.request.Request(OPEN_AI_ENDPOINT, body, headers)
 
     try:
       
@@ -122,50 +145,125 @@ def call_promptflow(query):
         print(error.info())
         print(error.read().decode("utf8", "ignore"))
 
-
-def get_filepaths(llm_response):
-    """
-    Returns filepaths for documents utilized in the LLM response.
-    Accepts the llm_response from the Prompt Flow endpoint.
-    """
-    filepaths = []
-    # Filter by score for filepaths
-    for obj in llm_response["documents"]:
-        if obj["score"] > 0.0152:
-            filepaths.append(obj["filepath"])
-    # Remove duplicates
-    unique_filepaths = list(set(filepaths))
-
-    return unique_filepaths
-
-
 def on_click_callback():
     """
     Manages chat history in session state and calls the LLM
     """
-    # Get the prompt from session state
     human_prompt = st.session_state.human_prompt
+    
 
     # Call the defined LLM endpoint
-    llm_response = call_promptflow(human_prompt)
+    llm_response = generate_prompt()
+    print(f"----- LLM Response {llm_response}")
 
-    # Get related file names & format response
-    #filepaths = get_filepaths(llm_response)
-    llm_answer = llm_response
     # Persist prompt and llm_response in session state
     st.session_state.history.append(Message("human", human_prompt))
-    st.session_state.history.append(Message("AI", llm_answer))
+    st.session_state.history.append(Message("AI", llm_response))
 
     # Clear prompt value
     st.session_state.human_prompt = ""
 
+    # Delete the uploaded file from OpenAI
+    client.files.delete(st.session_state.file.id)
+
+
+def load_document():
+    with st.sidebar:
+        st.image("./static/logo.png", width=200)
+    # File uploader for CSV
+        uploaded_file = st.file_uploader(":computer: Load a CSV file:", type="csv")
+
+        if uploaded_file:
+            # Read the uploaded CSV file
+            file_name = "./data/"+uploaded_file.name
+            # Initialize the datasets dictionary
+            dataset = pd.read_csv(uploaded_file)
+            dataset.to_csv(path_or_buf=file_name)
+            file = client.files.create(
+                file=open(file_name, "rb"),
+                purpose='assistants'
+            )
+            # Display the name and contents of the file
+            st.write(f"File uploaded: {file_name}")
+            st.session_state.file = file
+            st.dataframe(dataset)  # Display the content of the CSV file
+        
+    #return datasets
+
+def create_assistant():
+    # Initialise the OpenAI client, and retrieve the assistant
+    client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+    assistant = client.beta.assistants.retrieve(st.secrets["ASSISTANT_ID"])
+    return client, assistant
+
+
+
+def generate_prompt():
+    if  st.session_state.file is not None:
+        with st.status("Starting work...", expanded=False) as status_box:
+            human_prompt = st.session_state.human_prompt
+            print(f"Human prompt: {human_prompt}")
+            print(f"File {st.session_state.file.id}")
+            # Create a new thread with a message that has the uploaded file's ID
+            thread = client.beta.threads.create(
+                messages=[
+                    {
+                    "role": "user",
+                    "content": human_prompt,
+                    # Attach the new file to the message.
+                    "attachments": [
+                        { "file_id": st.session_state.file.id, "tools": [{"type": "code_interpreter"}] }
+                    ],
+                    }
+                    ]
+                )
+            # The thread now has a vector store with that file in its tool resources.
+            print(thread.tool_resources.code_interpreter)
+            print(f"Thread {thread}")
+
+            # Create a run with the new thread
+            run = client.beta.threads.runs.create(
+                thread_id=thread.id,
+                assistant_id=assistant.id,
+            )
+
+            print(f"---- Run {run}")
+
+            # Check periodically whether the run is done, and update the status
+            import time
+
+            start_time = time.time() 
+            timeout = 120 
+
+            while run.status != "completed":
+                elapsed_time = time.time() - start_time 
+
+                if elapsed_time >= timeout: 
+                    print("Tiempo excedido. Cancelando la ejecución...")
+                    client.beta.threads.runs.cancel(run.id, thread_id=thread.id)
+                    break  
+
+                time.sleep(5)
+                print(run.status)
+                status_box.update(label=f"{run.status}...", state="running")
+
+                run = client.beta.threads.runs.retrieve(thread_id=thread.id, run_id=run.id)
+
+
+            # Once the run is complete, update the status box and show the content
+            status_box.update(label="Complete", state="complete", expanded=True)
+            messages = client.beta.threads.messages.list(
+                thread_id=thread.id
+            )
+                # Get the prompt from session state
+            return messages.data[0].content[0].text.value
 
 def main():
     load_css()
     initialize_session_state()
-
-    # Setup web page text
-    st.image("./static/logo.png", width=400)
+    #assistant = create_assistant()
+    load_document()
+    
     #st.markdown(Ta, unsafe_allow_html=True)
     st.markdown(
         "<h3>Hello 💬</h3>",
