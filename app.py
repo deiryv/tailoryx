@@ -24,7 +24,7 @@ class Message:
     Class to contain & track messages
     """
 
-    origin: Literal["human", "AI"]
+    origin: Literal["human", "AI", "dataframe", "bar", "line"]
     message: str
 
 
@@ -133,10 +133,10 @@ def call_promptflow(query):
 
             # Extract the answer from the response
             answer = response_json.get("choices")[0].get("message").get("content")
-            print(response_json)
+            #print(response_json)
             # Output the answer (this can also be stored in the session state or displayed in Streamlit)
             #st.write("Response:", answer)
-            print(answer)
+            #print(answer)
             return answer
 
     except urllib.error.HTTPError as error:
@@ -150,15 +150,16 @@ def on_click_callback():
     Manages chat history in session state and calls the LLM
     """
     human_prompt = st.session_state.human_prompt
-    
+    st.session_state.history.append(Message("human", human_prompt))
 
     # Call the defined LLM endpoint
     llm_response = generate_prompt()
-    print(f"----- LLM Response {llm_response}")
+    write_response(llm_response)
+    #print(f"----- LLM Response {llm_response}")
 
     # Persist prompt and llm_response in session state
-    st.session_state.history.append(Message("human", human_prompt))
-    st.session_state.history.append(Message("AI", llm_response))
+    
+    #st.session_state.history.append(Message("AI", llm_response))
 
     # Clear prompt value
     st.session_state.human_prompt = ""
@@ -184,18 +185,76 @@ def load_document():
                 purpose='assistants'
             )
             # Display the name and contents of the file
-            st.write(f"File uploaded: {file_name}")
+            #st.write(f"File uploaded: {file_name}")
             st.session_state.file = file
-            st.dataframe(dataset)  # Display the content of the CSV file
-        
+                        # Verifica si ya existe un dataframe en el historial
+            dataframe_in_history = False
+            for message in st.session_state.history:
+                if message.origin == "dataframe":
+                    # Si ya existe, actualiza el dataframe
+                    message.message = dataset
+                    dataframe_in_history = True
+                    break
+
+            if not dataframe_in_history:
+                # Si no existe, añade el dataframe al historial
+                st.session_state.history.append(Message("dataframe", dataset))
     #return datasets
+
+def write_response(response_str: str):
+    """
+    Write a response from an agent to a Streamlit app.
+
+    Args:
+        response_dict: The response from the agent.
+
+    Returns:
+        None.
+    """
+
+      # Parse the JSON string into a Python dictionary
+    try:
+        response_dict = json.loads(response_str)
+    except json.JSONDecodeError as e:
+        st.error(f"Failed to parse JSON: {e}")
+        return
+
+    # Check if the response has the main 'answer'.
+    if "answer" in response_dict:
+        answer = response_dict["answer"]
+        st.session_state.history.append(Message("AI", answer))
+
+    # Check if there is additional information.
+    if "additional_info" in response_dict and "answer" in response_dict["additional_info"]:
+        additional_answer = response_dict["additional_info"]["answer"]
+        st.session_state.history.append(Message("AI", additional_answer))
+
+    # Check if the response is a bar chart.
+    if "bar" in response_dict:
+        data = response_dict["bar"]
+        df = pd.DataFrame(data["data"], index=data["columns"], columns=["Revenue"])
+        st.session_state.history.append(Message("bar", df))
+        # st.bar_chart(df)
+
+    # Check if the response is a line chart.
+    if "line" in response_dict:
+        data = response_dict["line"]
+        df = pd.DataFrame(data["data"], index=data["columns"], columns=["Value"])
+        st.session_state.history.append(Message("line", df))
+        st.line_chart(df)
+
+    # Check if the response is a table.
+    if "table" in response_dict:
+        data = response_dict["table"]
+        df = pd.DataFrame(data["data"], columns=data["columns"])
+        st.table(df)
+
 
 def create_assistant():
     # Initialise the OpenAI client, and retrieve the assistant
     client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
     assistant = client.beta.assistants.retrieve(st.secrets["ASSISTANT_ID"])
     return client, assistant
-
 
 
 def generate_prompt():
@@ -227,7 +286,7 @@ def generate_prompt():
                 assistant_id=assistant.id,
             )
 
-            print(f"---- Run {run}")
+            #print(f"---- Run {run}")
 
             # Check periodically whether the run is done, and update the status
             import time
@@ -252,46 +311,98 @@ def generate_prompt():
 
             # Once the run is complete, update the status box and show the content
             status_box.update(label="Complete", state="complete", expanded=True)
+            # Fetch all messages in the thread
             messages = client.beta.threads.messages.list(
                 thread_id=thread.id
             )
-                # Get the prompt from session state
-            return messages.data[0].content[0].text.value
 
+            #print(f"Complete response from Assistant: {messages}")
+            #messages.data[0].content[0].text.value
+
+            # Initialize an empty list to store the texts
+            filtered_texts = []
+
+            # Iterate through the messages to filter those with an assistant_id and extract their text
+            for message in messages.data:
+                #print(f"---- message: {message}")
+                # Only consider messages where assistant_id is not None
+                if message.assistant_id is not None:
+                    # Each message can have multiple content blocks
+                    for content_block in message.content:
+                        if content_block.type == 'text':  # Ensure we are handling text blocks
+                            # Append the text value to the list
+                            filtered_texts.append(content_block.text.value)
+
+            # Combine all the texts into one string
+            all_texts = " ".join(filtered_texts)
+
+            # Print the complete response
+            print(f" ----- Complete All text from Assistant: {all_texts}")
+
+            # Return the concatenated text
+            return all_texts
 def main():
     load_css()
     initialize_session_state()
     #assistant = create_assistant()
     load_document()
-    
-    #st.markdown(Ta, unsafe_allow_html=True)
-    st.markdown(
-        "<h3>Hello 💬</h3>",
-        unsafe_allow_html=True,
-    )
 
     # Create a container for the chat between the user & LLM
     chat_placeholder = st.container()
     # Create a form for the user prompt
     prompt_placeholder = st.form("chat-form")
 
+    message = ""
+    chatrow = ""
+    chaticon = ""
+
     # Display chat history within chat_placehoder
     with chat_placeholder:
         for chat in st.session_state.history:
-            div = f"""
-                <div class="chat-row {'' if chat.origin == 'AI' else 'row-reverse'}">
-                <img class="chat-icon" src="{'https://ask-chatbot.netlify.app/public/ai_icon.png' if chat.origin == 'AI' else 'https://ask-chatbot.netlify.app/public/user_icon.png'}" width=32 height=32>
-                <div class="chat-bubble {'ai-bubble' if chat.origin == 'AI' else 'human-bubble'}">&#8203;{chat.message}</div>
-                </div>
-                """
-            st.markdown(div, unsafe_allow_html=True)
 
-            for _ in range(3):
-                st.markdown("")
+            if chat.origin == 'dataframe':
+                #chat-row = 'row-reverse'
+                st.dataframe(chat.message)
+                
+
+            # Check if the response is a bar chart.
+            if chat.origin == 'bar':
+                # chat-row = 'row-reverse'
+                st.bar_chart(chat.message, height=500)
+                
+
+            # Check if the response is a line chart.
+            if chat.origin == 'line':
+                # chat-row = 'row-reverse'
+                st.line_chart(chat.message)
+                
+            if chat.origin == 'AI':
+                div = f"""
+                    <div class="chat-row {''}">
+                    <img class="chat-icon" src="{'https://ask-chatbot.netlify.app/public/ai_icon.png'}" width=32 height=32>
+                    <div class="chat-bubble {'ai-bubble'}">&#8203;{chat.message}</div>
+                    </div>
+                    """
+                st.markdown(div, unsafe_allow_html=True)
+
+                for _ in range(3):
+                    st.markdown("")   
+
+            elif chat.origin == 'human':
+                div = f"""
+                    <div class="chat-row {'row-reverse'}">
+                    <img class="chat-icon" src="{'https://ask-chatbot.netlify.app/public/user_icon.png'}" width=32 height=32>
+                    <div class="chat-bubble {'human-bubble'}">&#8203;{chat.message}</div>
+                    </div>
+                    """
+                st.markdown(div, unsafe_allow_html=True)
+
+                for _ in range(3):
+                    st.markdown("")
 
     # Create the user prompt within prompt_placeholder
     with prompt_placeholder:
-        st.markdown("**Chat**")
+        st.markdown("**Chat with me**")
         cols = st.columns((6, 1))
         cols[0].text_input(
             "Chat",

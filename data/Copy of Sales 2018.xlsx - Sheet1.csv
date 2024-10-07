@@ -1,0 +1,1392 @@
+,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Type,Unnamed: 6,Date,Unnamed: 8,Num,Unnamed: 10,Memo,Unnamed: 12,Name,Unnamed: 14,Item,Unnamed: 16,Qty,Unnamed: 18,Sales Price,Unnamed: 20,Amount,Unnamed: 22,Balance
+0,,Aaren Scientific Inc.,,,,,,,,,,,,,,,,,,,,,,
+1,,,M4044,,,,,,,,,,,,,,,,,,,,,
+2,,,,,,Invoice,,10/05/2018,,14054.0,,Material characterization & moldability for Pebax 4533 SA01 MED,,Aaren Scientific Inc.:M4044,,Svc:Micro Molding,,1.00,,"5,000.00",,"5,000.00",,"5,000.00"
+3,,,Total M4044,,,,,,,,,,,,,,,1.00,,,,"5,000.00",,"5,000.00"
+4,,Total Aaren Scientific Inc.,,,,,,,,,,,,,,,,1.00,,,,"5,000.00",,"5,000.00"
+5,,Adient Medical,,,,,,,,,,,,,,,,,,,,,,
+6,,,M3985,,,,,,,,,,,,,,,,,,,,,
+7,,,,,,Invoice,,07/26/2018,,13952.0,,"Onsite visit by Adient, produce (100) parts with new gate insert, change over mold to original g...",,Adient Medical:M3985,,Svc:Micro Molding,,1.00,,"7,475.00",,"7,475.00",,"7,475.00"
+8,,,Total M3985,,,,,,,,,,,,,,,1.00,,,,"7,475.00",,"7,475.00"
+9,,,M3991,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,Invoice,,07/05/2018,,13931.0,,Requalification for 5 gate insert configuration for Filter Endplate. Includes (32) Samples,,Adient Medical:M3991,,Svc:Micro Molding,,1.00,,"5,500.00",,"5,500.00",,"5,500.00"
+11,,,Total M3991,,,,,,,,,,,,,,,1.00,,,,"5,500.00",,"5,500.00"
+12,,,M3992,,,,,,,,,,,,,,,,,,,,,
+13,,,,,,Invoice,,07/13/2018,,13943.0,,Filter End Plate from new 5 gate validated mold,,Adient Medical:M3992,,Svc:Micro Molding,,"1,000.00",,8.60,,"8,600.00",,"8,600.00"
+14,,,Total M3992,,,,,,,,,,,,,,,"1,000.00",,,,"8,600.00",,"8,600.00"
+15,,Total Adient Medical,,,,,,,,,,,,,,,,"1,002.00",,,,"21,575.00",,"21,575.00"
+16,,"Align Technology, Inc.",,,,,,,,,,,,,,,,,,,,,,
+17,,,M3988,,,,,,,,,,,,,,,,,,,,,
+18,,,,,,Invoice,,07/13/2018,,13940.0,,"Set up existing MTD tooling and overmold batteries out of (1) material, up to (20) prototype sam...",,"Align Technology, Inc.:M3988",,Svc:Micro Molding,,1.00,,"5,000.00",,"5,000.00",,"5,000.00"
+19,,,Total M3988,,,,,,,,,,,,,,,1.00,,,,"5,000.00",,"5,000.00"
+20,,"Total Align Technology, Inc.",,,,,,,,,,,,,,,,1.00,,,,"5,000.00",,"5,000.00"
+21,,Allergan Inc.,,,,,,,,,,,,,,,,,,,,,,
+22,,,8498,,,,,,,,,,,,,,,,,,,,,
+23,,,,,,Invoice,,04/27/2018,,13823.0,,"Prototype inserts to produce conductive polymer electrode, includes (25) progress samples",,Allergan Inc.:8498,,Svc:Micro Molds,,0.50,,"24,550.00",,"12,275.00",,"12,275.00"
+24,,,,,,Invoice,,06/15/2018,,13896.0,,"Prototype inserts to produce conductive polymer electrode, includes (25) progress samples",,Allergan Inc.:8498,,Svc:Micro Molds,,0.50,,"24,550.00",,"12,275.00",,"24,550.00"
+25,,,Total 8498,,,,,,,,,,,,,,,1.00,,,,"24,550.00",,"24,550.00"
+26,,,M4028,,,,,,,,,,,,,,,,,,,,,
+27,,,,,,Invoice,,09/14/2018,,14024.0,,(600 pcs.) Progress Samples of conductive polymer electrode MT1 using CF-235 material,,Allergan Inc.:M4028,,Svc:Micro Molding,,1.00,,"12,100.00",,"12,100.00",,"12,100.00"
+28,,,Total M4028,,,,,,,,,,,,,,,1.00,,,,"12,100.00",,"12,100.00"
+29,,,M4029,,,,,,,,,,,,,,,,,,,,,
+30,,,,,,Invoice,,09/07/2018,,14012.0,,(600 pcs.) Progress Samples of conductive polymer electrode MT1 using CF-238 material,,Allergan Inc.:M4029,,Svc:Micro Molding,,1.00,,"7,960.00",,"7,960.00",,"7,960.00"
+31,,,Total M4029,,,,,,,,,,,,,,,1.00,,,,"7,960.00",,"7,960.00"
+32,,Total Allergan Inc.,,,,,,,,,,,,,,,,3.00,,,,"44,610.00",,"44,610.00"
+33,,Arthrex Inc.,,,,,,,,,,,,,,,,,,,,,,
+34,,,8481,,,,,,,,,,,,,,,,,,,,,
+35,,,,,,Invoice,,01/31/2018,,13679.0,,3.9mm Swivelock (100pcs) adding the .033 diameter holes in 50 pcs and perform (1) piece FAI,,Arthrex Inc.:8481,,Svc:Machining,,0.50,,"14,350.00",,"7,175.00",,"7,175.00"
+36,,,,,,Invoice,,03/09/2018,,13749.0,,3.9mm Swivelock (100pcs) adding the .033 diameter holes in 50 pcs and perform (1) piece FAI,,Arthrex Inc.:8481,,Svc:Machining,,0.50,,"14,350.00",,"7,175.00",,"14,350.00"
+37,,,Total 8481,,,,,,,,,,,,,,,1.00,,,,"14,350.00",,"14,350.00"
+38,,,M3445,,,,,,,,,,,,,,,,,,,,,
+39,,,,,,Invoice,,01/12/2018,,13634.0,,OQ/PQ-Validation activities Swivelock 3.9mm,,Arthrex Inc.:M3445,,Svc:Micro Molding,,1.00,,"9,000.00",,"9,000.00",,"9,000.00"
+40,,,Total M3445,,,,,,,,,,,,,,,1.00,,,,"9,000.00",,"9,000.00"
+41,,,M3482,,,,,,,,,,,,,,,,,,,,,
+42,,,,,,Invoice,,01/19/2018,,13648.0,,"MPI 1769 Threaded tensionable anchor-bioabsorbable part #C15627-01, MT2 Mold Trial",,Arthrex Inc.:M3482,,Svc:Micro Molding,,1.00,,"30,760.00",,"30,760.00",,"30,760.00"
+43,,,Total M3482,,,,,,,,,,,,,,,1.00,,,,"30,760.00",,"30,760.00"
+44,,,M3483,,,,,,,,,,,,,,,,,,,,,
+45,,,,,,Invoice,,06/22/2018,,13910.0,,"MPI 1769 Threaded tensionable anchor-bioabsorbable part #C15627-01, Validation-OQ/PQ activities",,Arthrex Inc.:M3483,,Svc:Micro Molding,,1.00,,"43,605.00",,"43,605.00",,"43,605.00"
+46,,,Total M3483,,,,,,,,,,,,,,,1.00,,,,"43,605.00",,"43,605.00"
+47,,,M3617,,,,,,,,,,,,,,,,,,,,,
+48,,,,,,Invoice,,06/22/2018,,13911.0,,MPI 1769-Threaded tensionable anchor-bioabsorbable part # C15627-01. -Bioabsorbable process deve...,,Arthrex Inc.:M3617,,Svc:Micro Molding,,1.00,,"14,810.00",,"14,810.00",,"14,810.00"
+49,,,Total M3617,,,,,,,,,,,,,,,1.00,,,,"14,810.00",,"14,810.00"
+50,,,M3618,,,,,,,,,,,,,,,,,,,,,
+51,,,,,,Invoice,,06/22/2018,,13912.0,,MPI 1769-Threaded tensionable anchor-bioabsorbable part # C15627-01. - Warm Up & Process Stall S...,,Arthrex Inc.:M3618,,Svc:Micro Molding,,1.00,,"19,615.00",,"19,615.00",,"19,615.00"
+52,,,Total M3618,,,,,,,,,,,,,,,1.00,,,,"19,615.00",,"19,615.00"
+53,,,M3747,,,,,,,,,,,,,,,,,,,,,
+54,,,,,,Invoice,,07/13/2018,,13941.0,,C13414-01 Rev. 0 3.9 mm Swivelock,,Arthrex Inc.:M3747,,Svc:Micro Molding,,524.00,,2.717,,"1,423.71",,"1,423.71"
+55,,,Total M3747,,,,,,,,,,,,,,,524.00,,,,"1,423.71",,"1,423.71"
+56,,,M4000,,,,,,,,,,,,,,,,,,,,,
+57,,,,,,Invoice,,11/29/2018,,14152.0,,C15627-01 Threaded Tensionable Anchor Validation Activities,,Arthrex Inc.:M4000,,Svc:Micro Molding,,1.00,,"3,600.00",,"3,600.00",,"3,600.00"
+58,,,Total M4000,,,,,,,,,,,,,,,1.00,,,,"3,600.00",,"3,600.00"
+59,,,M4018,,,,,,,,,,,,,,,,,,,,,
+60,,,,,,Invoice,,12/06/2018,,14166.0,,Threaded Tensionable Anchor C15627-01 Rev. 02,,Arthrex Inc.:M4018,,Svc:Micro Molding,,"5,000.00",,12.63,,"63,150.00",,"63,150.00"
+61,,,Total M4018,,,,,,,,,,,,,,,"5,000.00",,,,"63,150.00",,"63,150.00"
+62,,Total Arthrex Inc.,,,,,,,,,,,,,,,,"5,531.00",,,,"200,313.71",,"200,313.71"
+63,,ArthroCare Costa Rica,,,,,,,,,,,,,,,,,,,,,,
+64,,,M4103,,,,,,,,,,,,,,,,,,,,,
+65,,,,,,Invoice,,12/04/2018,,14156.0,,"MR676 Rev. R Staple, Double Barbed Bone",,ArthroCare Costa Rica:M4103,,Svc:Micro Molding,,"25,000.00",,1.89,,"47,250.00",,"47,250.00"
+66,,,Total M4103,,,,,,,,,,,,,,,"25,000.00",,,,"47,250.00",,"47,250.00"
+67,,Total ArthroCare Costa Rica,,,,,,,,,,,,,,,,"25,000.00",,,,"47,250.00",,"47,250.00"
+68,,Bard Brachytherapy Inc.,,,,,,,,,,,,,,,,,,,,,,
+69,,,M3791,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,Invoice,,02/22/2018,,13723.0,,"Bulk Needle Plug RM81030107 Rev. 3, DWG0301097 Rev. 6",,Bard Brachytherapy Inc.:M3791,,Svc:Micro Molding,,"2,000.00",,4.556,,"9,112.00",,"9,112.00"
+71,,,Total M3791,,,,,,,,,,,,,,,"2,000.00",,,,"9,112.00",,"9,112.00"
+72,,,M4053,,,,,,,,,,,,,,,,,,,,,
+73,,,,,,Invoice,,11/29/2018,,14140.0,,Bulk Needle Plug RM81030107 Rev. 4,,Bard Brachytherapy Inc.:M4053,,Svc:Micro Molding,,"2,000.00",,4.556,,"9,112.00",,"9,112.00"
+74,,,Total M4053,,,,,,,,,,,,,,,"2,000.00",,,,"9,112.00",,"9,112.00"
+75,,Total Bard Brachytherapy Inc.,,,,,,,,,,,,,,,,"4,000.00",,,,"18,224.00",,"18,224.00"
+76,,Bard Puerto Rico,,,,,,,,,,,,,,,,,,,,,,
+77,,,8487,,,,,,,,,,,,,,,,,,,,,
+78,,,,,,Invoice,,10/05/2018,,14056.0,,"Level 2/Molding system/semi-annual/lubrication & function testing, schedule maintenance",,Bard Puerto Rico:8487,,Svc:Micro Molds,,1.00,,"1,200.00",,"1,200.00",,"1,200.00"
+79,,,,,,Invoice,,10/05/2018,,14056.0,,Level 2/Molding system/annual mechanical & electrical Maintenance and calibration,,Bard Puerto Rico:8487,,Svc:Micro Molds,,1.00,,"4,800.00",,"4,800.00",,"6,000.00"
+80,,,,,,Invoice,,10/05/2018,,14056.0,,"Level 2 EOAT/semi-annual maintenace of grip cylinders, springs & lubrication",,Bard Puerto Rico:8487,,Svc:Micro Molds,,1.00,,"3,300.00",,"3,300.00",,"9,300.00"
+81,,,,,,Invoice,,10/05/2018,,14056.0,,Level 2/EOAT/annual/replace grip fingers,,Bard Puerto Rico:8487,,Svc:Micro Molds,,1.00,,"3,800.00",,"3,800.00",,"13,100.00"
+82,,,Total 8487,,,,,,,,,,,,,,,4.00,,,,"13,100.00",,"13,100.00"
+83,,,8488,,,,,,,,,,,,,,,,,,,,,
+84,,,,,,Invoice,,10/05/2018,,14057.0,,"Level 2/molding system/semiannual lubrication & function testing, scheduled maintenance",,Bard Puerto Rico:8488,,Svc:Micro Molds,,1.00,,"1,200.00",,"1,200.00",,"1,200.00"
+85,,,,,,Invoice,,10/05/2018,,14057.0,,"Level 2/EOAT/Semia-Annual Maintenance of grip cylinders, srpings & lubrication",,Bard Puerto Rico:8488,,Svc:Micro Molds,,1.00,,"3,300.00",,"3,300.00",,"4,500.00"
+86,,,Total 8488,,,,,,,,,,,,,,,2.00,,,,"4,500.00",,"4,500.00"
+87,,,M3544,,,,,,,,,,,,,,,,,,,,,
+88,,,,,,Invoice,,01/04/2018,,13625.0,,Optifix - Post Molding IV Testing and Reporting RM3790220-December 2017,,Bard Puerto Rico:M3544,,Svc:Micro Molding,,3.00,,750.00,,"2,250.00",,"2,250.00"
+89,,,Total M3544,,,,,,,,,,,,,,,3.00,,,,"2,250.00",,"2,250.00"
+90,,,M3545,,,,,,,,,,,,,,,,,,,,,
+91,,,,,,Invoice,,01/04/2018,,13624.0,,December 2017-Temperature Monitoring of Material and Product Storage  RM3793399 and RM3790220,,Bard Puerto Rico:M3545,,Svc:Micro Molding,,1.00,,800.00,,800.00,,800.00
+92,,,Total M3545,,,,,,,,,,,,,,,1.00,,,,800.00,,800.00
+93,,,M3721,,,,,,,,,,,,,,,,,,,,,
+94,,,,,,Invoice,,01/02/2018,,13619.0,,"RM3790220 Rev. 6 Tack 0.024"" Guide Wire",,Bard Puerto Rico:M3721,,Svc:Micro Molding,,"50,000.00",,0.906,,"45,300.00",,"45,300.00"
+95,,,,,,Invoice,,01/02/2018,,13619.0,,Shipping  ,,Bard Puerto Rico:M3721,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"45,310.00"
+96,,,Total M3721,,,,,,,,,,,,,,,"50,001.00",,,,"45,310.00",,"45,310.00"
+97,,,M3723,,,,,,,,,,,,,,,,,,,,,
+98,,,,,,Invoice,,01/03/2018,,13620.0,,RM3793399 Rev. 17 Tack Absorbable,,Bard Puerto Rico:M3723,,Svc:Micro Molding,,"50,000.00",,0.962,,"48,100.00",,"48,100.00"
+99,,,,,,Invoice,,01/03/2018,,13620.0,,Shipping  ,,Bard Puerto Rico:M3723,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"48,110.00"
+100,,,Total M3723,,,,,,,,,,,,,,,"50,001.00",,,,"48,110.00",,"48,110.00"
+101,,,M3724,,,,,,,,,,,,,,,,,,,,,
+102,,,,,,Invoice,,01/10/2018,,13639.0,,RM3793399 Rev. 17 Tack Absorbable,,Bard Puerto Rico:M3724,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+103,,,,,,Invoice,,01/10/2018,,13639.0,,Shipping  ,,Bard Puerto Rico:M3724,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+104,,,Total M3724,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+105,,,M3725,,,,,,,,,,,,,,,,,,,,,
+106,,,,,,Invoice,,01/17/2018,,13650.0,,RM3793399 Rev. 17 Tack Absorbable,,Bard Puerto Rico:M3725,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+107,,,,,,Invoice,,01/17/2018,,13650.0,,Shipping  ,,Bard Puerto Rico:M3725,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+108,,,Total M3725,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+109,,,M3737,,,,,,,,,,,,,,,,,,,,,
+110,,,,,,Invoice,,01/29/2018,,13673.0,,RM3793399 Rev. 17 Tack Absorbable,,Bard Puerto Rico:M3737,,Svc:Micro Molding,,"75,000.00",,0.926,,"69,450.00",,"69,450.00"
+111,,,,,,Invoice,,01/29/2018,,13673.0,,Shipping  ,,Bard Puerto Rico:M3737,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"69,460.00"
+112,,,,,,Invoice,,02/07/2018,,13691.0,,RM3793399 Rev. 17 Tack Absorbable,,Bard Puerto Rico:M3737,,Svc:Micro Molding,,"75,000.00",,0.926,,"69,450.00",,"138,910.00"
+113,,,,,,Invoice,,02/07/2018,,13691.0,,Shipping  ,,Bard Puerto Rico:M3737,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"138,920.00"
+114,,,Total M3737,,,,,,,,,,,,,,,"150,002.00",,,,"138,920.00",,"138,920.00"
+115,,,M3741,,,,,,,,,,,,,,,,,,,,,
+116,,,,,,Invoice,,01/04/2018,,13626.0,,RM3793399 Sorbafix post molding IV testing & reporting-December 2017,,Bard Puerto Rico:M3741,,Svc:Micro Molding,,2.00,,750.00,,"1,500.00",,"1,500.00"
+117,,,Total M3741,,,,,,,,,,,,,,,2.00,,,,"1,500.00",,"1,500.00"
+118,,,M3769,,,,,,,,,,,,,,,,,,,,,
+119,,,,,,Invoice,,01/04/2018,,13627.0,,RM3793783 Rev 2 Echo PS Connector,,Bard Puerto Rico:M3769,,Svc:Micro Molding,,"50,000.00",,0.702,,"35,100.00",,"35,100.00"
+120,,,,,,Invoice,,01/04/2018,,13627.0,,Shipping  ,,Bard Puerto Rico:M3769,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"35,110.00"
+121,,,Total M3769,,,,,,,,,,,,,,,"50,001.00",,,,"35,110.00",,"35,110.00"
+122,,,M3796,,,,,,,,,,,,,,,,,,,,,
+123,,,,,,Invoice,,02/26/2018,,13729.0,,"RM3793399 Rev. 17 Tack, Absorbable",,Bard Puerto Rico:M3796,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+124,,,,,,Invoice,,02/26/2018,,13729.0,,Shipping  ,,Bard Puerto Rico:M3796,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+125,,,Total M3796,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+126,,,M3810,,,,,,,,,,,,,,,,,,,,,
+127,,,,,,Invoice,,03/13/2018,,13752.0,,Echo PS Connector RM3793783 Rev 3,,Bard Puerto Rico:M3810,,Svc:Micro Molding,,"50,000.00",,0.702,,"35,100.00",,"35,100.00"
+128,,,,,,Invoice,,03/13/2018,,13752.0,,Shipping  ,,Bard Puerto Rico:M3810,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"35,110.00"
+129,,,Total M3810,,,,,,,,,,,,,,,"50,001.00",,,,"35,110.00",,"35,110.00"
+130,,,M3816,,,,,,,,,,,,,,,,,,,,,
+131,,,,,,Invoice,,01/03/2018,,13622.0,,"(200,000) Optifix RM 3790220 Rev 6",,Bard Puerto Rico:M3816,,Svc:Mico Molds/Micromolding,,"200,000.00",,0.906,,"181,200.00",,"181,200.00"
+132,,,,,,Invoice,,01/03/2018,,13622.0,,Shipping  ,,Bard Puerto Rico:M3816,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"181,210.00"
+133,,,Total M3816,,,,,,,,,,,,,,,"200,001.00",,,,"181,210.00",,"181,210.00"
+134,,,M3817,,,,,,,,,,,,,,,,,,,,,
+135,,,,,,Invoice,,02/05/2018,,13687.0,,"(100,000) Optifix RM 3790220 Rev 6",,Bard Puerto Rico:M3817,,Svc:Micro Molding,,"100,000.00",,0.906,,"90,600.00",,"90,600.00"
+136,,,,,,Invoice,,02/05/2018,,13687.0,,Shipping  ,,Bard Puerto Rico:M3817,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"90,610.00"
+137,,,Total M3817,,,,,,,,,,,,,,,"100,001.00",,,,"90,610.00",,"90,610.00"
+138,,,M3818,,,,,,,,,,,,,,,,,,,,,
+139,,,,,,Invoice,,03/05/2018,,13739.0,,"(100,000)Optifix RM 3790220 Rev 6",,Bard Puerto Rico:M3818,,Svc:Micro Molding,,"100,000.00",,0.906,,"90,600.00",,"90,600.00"
+140,,,,,,Invoice,,03/05/2018,,13739.0,,Shipping  ,,Bard Puerto Rico:M3818,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"90,610.00"
+141,,,Total M3818,,,,,,,,,,,,,,,"100,001.00",,,,"90,610.00",,"90,610.00"
+142,,,M3819,,,,,,,,,,,,,,,,,,,,,
+143,,,,,,Invoice,,04/03/2018,,13775.0,,"(75,000) Optifix RM 3790220 Rev 6",,Bard Puerto Rico:M3819,,Svc:Micro Molding,,"75,000.00",,0.906,,"67,950.00",,"67,950.00"
+144,,,,,,Invoice,,04/03/2018,,13775.0,,Shipping  ,,Bard Puerto Rico:M3819,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"67,960.00"
+145,,,Total M3819,,,,,,,,,,,,,,,"75,001.00",,,,"67,960.00",,"67,960.00"
+146,,,M3820,,,,,,,,,,,,,,,,,,,,,
+147,,,,,,Invoice,,05/02/2018,,13829.0,,"(50,000) Optifix RM 3790220 Rev 6",,Bard Puerto Rico:M3820,,Svc:Mico Molds/Micromolding,,"50,000.00",,0.906,,"45,300.00",,"45,300.00"
+148,,,Total M3820,,,,,,,,,,,,,,,"50,000.00",,,,"45,300.00",,"45,300.00"
+149,,,M3821,,,,,,,,,,,,,,,,,,,,,
+150,,,,,,Invoice,,06/05/2018,,13876.0,,Optifix RM 3790220 Rev 6,,Bard Puerto Rico:M3821,,Svc:Micro Molding,,"75,000.00",,0.906,,"67,950.00",,"67,950.00"
+151,,,Total M3821,,,,,,,,,,,,,,,"75,000.00",,,,"67,950.00",,"67,950.00"
+152,,,M3822,,,,,,,,,,,,,,,,,,,,,
+153,,,,,,Invoice,,07/09/2018,,13936.0,,"(50,000) Optifix RM 3790220 Rev 6",,Bard Puerto Rico:M3822,,Svc:Mico Molds/Micromolding,,"50,000.00",,0.906,,"45,300.00",,"45,300.00"
+154,,,,,,Invoice,,07/09/2018,,13936.0,,Shipping  ,,Bard Puerto Rico:M3822,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"45,310.00"
+155,,,Total M3822,,,,,,,,,,,,,,,"50,001.00",,,,"45,310.00",,"45,310.00"
+156,,,M3823,,,,,,,,,,,,,,,,,,,,,
+157,,,,,,Invoice,,03/06/2018,,13741.0,,"(50,000) Sorbafix Tack Absorbable RM 3793399 Rev 17",,Bard Puerto Rico:M3823,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+158,,,,,,Invoice,,03/06/2018,,13741.0,,Shipping  ,,Bard Puerto Rico:M3823,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+159,,,Total M3823,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+160,,,M3824,,,,,,,,,,,,,,,,,,,,,
+161,,,,,,Invoice,,03/20/2018,,13761.0,,"(50,000) Sorbafix Tack Absorbable RM 3793399 Rev 17",,Bard Puerto Rico:M3824,,Svc:Mico Molds/Micromolding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+162,,,,,,Invoice,,03/20/2018,,13761.0,,Shipping  ,,Bard Puerto Rico:M3824,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+163,,,Total M3824,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+164,,,M3825,,,,,,,,,,,,,,,,,,,,,
+165,,,,,,Invoice,,04/10/2018,,13785.0,,Sorbafix Tack Absorbable RM 3793399 Rev 17,,Bard Puerto Rico:M3825,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+166,,,,,,Invoice,,04/10/2018,,13785.0,,Shipping  ,,Bard Puerto Rico:M3825,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+167,,,Total M3825,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+168,,,M3826,,,,,,,,,,,,,,,,,,,,,
+169,,,,,,Invoice,,04/18/2018,,13798.0,,"(50,000) Sorbafix Tack Absorbable RM 3793399 Rev 17",,Bard Puerto Rico:M3826,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+170,,,,,,Invoice,,04/18/2018,,13798.0,,Shipping  ,,Bard Puerto Rico:M3826,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+171,,,Total M3826,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+172,,,M3827,,,,,,,,,,,,,,,,,,,,,
+173,,,,,,Invoice,,05/01/2018,,13828.0,,"(50,000) Sorbafix Tack Absorbable RM 3793399 Rev 17",,Bard Puerto Rico:M3827,,Svc:Mico Molds/Micromolding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+174,,,Total M3827,,,,,,,,,,,,,,,"50,000.00",,,,"46,300.00",,"46,300.00"
+175,,,M3828,,,,,,,,,,,,,,,,,,,,,
+176,,,,,,Invoice,,05/09/2018,,13834.0,,"(50,000) Sorbafix Tack Absorbable RM 3793399 Rev 17",,Bard Puerto Rico:M3828,,Svc:Mico Molds/Micromolding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+177,,,Total M3828,,,,,,,,,,,,,,,"50,000.00",,,,"46,300.00",,"46,300.00"
+178,,,M3829,,,,,,,,,,,,,,,,,,,,,
+179,,,,,,Invoice,,05/30/2018,,13865.0,,"(50,000) Sorbafix Tack Absorbable RM 3793399 Rev 17",,Bard Puerto Rico:M3829,,Svc:Mico Molds/Micromolding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+180,,,Total M3829,,,,,,,,,,,,,,,"50,000.00",,,,"46,300.00",,"46,300.00"
+181,,,M3830,,,,,,,,,,,,,,,,,,,,,
+182,,,,,,Invoice,,06/06/2018,,13878.0,,"(50,000) Sorbafix Tack Absorbable RM 3793399 Rev 17",,Bard Puerto Rico:M3830,,Svc:Mico Molds/Micromolding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+183,,,Total M3830,,,,,,,,,,,,,,,"50,000.00",,,,"46,300.00",,"46,300.00"
+184,,,M3831,,,,,,,,,,,,,,,,,,,,,
+185,,,,,,Invoice,,07/02/2018,,13921.0,,"(50,000) Sorbafix Tack Absorbable RM 3793399 Rev 17",,Bard Puerto Rico:M3831,,Svc:Mico Molds/Micromolding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+186,,,,,,Invoice,,07/02/2018,,13921.0,,Shipping  ,,Bard Puerto Rico:M3831,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+187,,,Total M3831,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+188,,,M3832,,,,,,,,,,,,,,,,,,,,,
+189,,,,,,Invoice,,07/09/2018,,13937.0,,"(50,000) Sorbafix Tack Absorbable RM 3793399 Rev 17",,Bard Puerto Rico:M3832,,Svc:Mico Molds/Micromolding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+190,,,,,,Invoice,,07/09/2018,,13937.0,,Shipping  ,,Bard Puerto Rico:M3832,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+191,,,Total M3832,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+192,,,M3844,,,,,,,,,,,,,,,,,,,,,
+193,,,,,,Invoice,,03/14/2018,,13754.0,,"(50,000) RM3793481 Rev 8 Permafix Tack",,Bard Puerto Rico:M3844,,Svc:Micro Molding,,"50,000.00",,0.651,,"32,550.00",,"32,550.00"
+194,,,,,,Invoice,,03/14/2018,,13754.0,,Shipping  ,,Bard Puerto Rico:M3844,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"32,560.00"
+195,,,Total M3844,,,,,,,,,,,,,,,"50,001.00",,,,"32,560.00",,"32,560.00"
+196,,,M3845,,,,,,,,,,,,,,,,,,,,,
+197,,,,,,Invoice,,05/14/2018,,13844.0,,"(50,000) Echo PS Connectors RM3793783 Rev 3",,Bard Puerto Rico:M3845,,Svc:Micro Molding,,"50,000.00",,0.702,,"35,100.00",,"35,100.00"
+198,,,,,,Invoice,,05/14/2018,,13844.0,,Shipping  ,,Bard Puerto Rico:M3845,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"35,110.00"
+199,,,Total M3845,,,,,,,,,,,,,,,"50,001.00",,,,"35,110.00",,"35,110.00"
+200,,,M3883,,,,,,,,,,,,,,,,,,,,,
+201,,,,,,Invoice,,08/06/2018,,13969.0,,"Tack, .024"" Guide Wire",,Bard Puerto Rico:M3883,,Svc:Micro Molding,,"65,000.00",,0.906,,"58,890.00",,"58,890.00"
+202,,,,,,Invoice,,08/06/2018,,13969.0,,Shipping  ,,Bard Puerto Rico:M3883,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"58,900.00"
+203,,,,,,Invoice,,08/08/2018,,13972.0,,"Tack, .024"" Guide Wire",,Bard Puerto Rico:M3883,,Svc:Micro Molding,,"60,000.00",,0.906,,"54,360.00",,"113,260.00"
+204,,,,,,Invoice,,08/08/2018,,13972.0,,Shipping  ,,Bard Puerto Rico:M3883,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"113,270.00"
+205,,,Total M3883,,,,,,,,,,,,,,,"125,002.00",,,,"113,270.00",,"113,270.00"
+206,,,M3884,,,,,,,,,,,,,,,,,,,,,
+207,,,,,,Invoice,,09/05/2018,,14011.0,,"Tack, .024"" Guide Wire",,Bard Puerto Rico:M3884,,Svc:Micro Molding,,"48,985.00",,0.906,,"44,380.41",,"44,380.41"
+208,,,,,,Invoice,,09/05/2018,,14011.0,,Shipping  ,,Bard Puerto Rico:M3884,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"44,390.41"
+209,,,Total M3884,,,,,,,,,,,,,,,"48,986.00",,,,"44,390.41",,"44,390.41"
+210,,,M3885,,,,,,,,,,,,,,,,,,,,,
+211,,,,,,Invoice,,03/05/2018,,13742.0,,Optifix post molding IV testing and reporting RM3790220-January 2018,,Bard Puerto Rico:M3885,,Svc:Micro Molding,,2.00,,750.00,,"1,500.00",,"1,500.00"
+212,,,,,,Invoice,,03/05/2018,,13745.0,,Optifix post molding IV testing and reporting RM3790220-February 2018,,Bard Puerto Rico:M3885,,Svc:Micro Molding,,4.00,,750.00,,"3,000.00",,"4,500.00"
+213,,,,,,Invoice,,06/07/2018,,13886.0,,Optifix post molding IV testing and reporting RM3790220,,Bard Puerto Rico:M3885,,Svc:Micro Molding,,2.00,,750.00,,"1,500.00",,"6,000.00"
+214,,,Total M3885,,,,,,,,,,,,,,,8.00,,,,"6,000.00",,"6,000.00"
+215,,,M3886,,,,,,,,,,,,,,,,,,,,,
+216,,,,,,Invoice,,03/05/2018,,13743.0,,Temperature monitoring of material and product storage RM3793399 and RM3790220,,Bard Puerto Rico:M3886,,Svc:Micro Molding,,1.00,,800.00,,800.00,,800.00
+217,,,,,,Invoice,,03/05/2018,,13746.0,,Temperature monitoring of material and product storage RM3793399 and RM3790220,,Bard Puerto Rico:M3886,,Svc:Micro Molding,,1.00,,800.00,,800.00,,"1,600.00"
+218,,,,,,Invoice,,04/13/2018,,13790.0,,Temperature monitoring of material and product storage RM3793399 and RM3790220,,Bard Puerto Rico:M3886,,Svc:Micro Molding,,1.00,,800.00,,800.00,,"2,400.00"
+219,,,,,,Invoice,,05/10/2018,,13841.0,,Temperature monitoring of material and product storage RM3793399 and RM3790220,,Bard Puerto Rico:M3886,,Svc:Micro Molding,,1.00,,800.00,,800.00,,"3,200.00"
+220,,,,,,Invoice,,06/07/2018,,13885.0,,Temperature monitoring of material and product storage RM3793399 and RM3790220,,Bard Puerto Rico:M3886,,Svc:Micro Molding,,1.00,,800.00,,800.00,,"4,000.00"
+221,,,,,,Invoice,,07/12/2018,,13946.0,,Temperature monitoring of material and product storage RM3793399 and RM3790220,,Bard Puerto Rico:M3886,,Svc:Micro Molding,,1.00,,800.00,,800.00,,"4,800.00"
+222,,,,,,Invoice,,08/06/2018,,13974.0,,Temperature monitoring of material and product storage RM3793399 and RM3790220,,Bard Puerto Rico:M3886,,Svc:Micro Molding,,1.00,,800.00,,800.00,,"5,600.00"
+223,,,,,,Invoice,,09/06/2018,,14014.0,,Temperature monitoring of material and product storage RM3793399 and RM3790220,,Bard Puerto Rico:M3886,,Svc:Micro Molding,,1.00,,800.00,,800.00,,"6,400.00"
+224,,,,,,Invoice,,10/08/2018,,14058.0,,Temperature monitoring of material and product storage RM3793399 and RM3790220,,Bard Puerto Rico:M3886,,Svc:Micro Molding,,1.00,,800.00,,800.00,,"7,200.00"
+225,,,,,,Invoice,,11/13/2018,,14123.0,,Temperature monitoring of material and product storage RM3793399 and RM3790220,,Bard Puerto Rico:M3886,,Svc:Micro Molding,,1.00,,800.00,,800.00,,"8,000.00"
+226,,,,,,Invoice,,12/11/2018,,14171.0,,Temperature monitoring of material and product storage RM3793399 and RM3790220,,Bard Puerto Rico:M3886,,Svc:Micro Molding,,1.00,,800.00,,800.00,,"8,800.00"
+227,,,Total M3886,,,,,,,,,,,,,,,11.00,,,,"8,800.00",,"8,800.00"
+228,,,M3887,,,,,,,,,,,,,,,,,,,,,
+229,,,,,,Invoice,,03/05/2018,,13744.0,,Sorbafix-post molding IV testing and reporting RM3793399-January 2018,,Bard Puerto Rico:M3887,,Svc:Micro Molding,,5.00,,750.00,,"3,750.00",,"3,750.00"
+230,,,,,,Invoice,,03/05/2018,,13747.0,,Sorbafix-post molding IV testing and reporting RM3793399-February 2018,,Bard Puerto Rico:M3887,,Svc:Micro Molding,,1.00,,750.00,,750.00,,"4,500.00"
+231,,,,,,Invoice,,04/13/2018,,13791.0,,Sorbafix-post molding IV testing and reporting RM3793399,,Bard Puerto Rico:M3887,,Svc:Micro Molding,,4.00,,750.00,,"3,000.00",,"7,500.00"
+232,,,,,,Invoice,,05/10/2018,,13842.0,,Sorbafix-post molding IV testing and reporting RM3793399,,Bard Puerto Rico:M3887,,Svc:Micro Molding,,4.00,,750.00,,"3,000.00",,"10,500.00"
+233,,,,,,Invoice,,07/12/2018,,13947.0,,Sorbafix-post molding IV testing and reporting RM3793399,,Bard Puerto Rico:M3887,,Svc:Micro Molding,,2.00,,750.00,,"1,500.00",,"12,000.00"
+234,,,,,,Invoice,,08/06/2018,,13975.0,,Sorbafix-post molding IV testing and reporting RM3793399,,Bard Puerto Rico:M3887,,Svc:Micro Molding,,3.00,,750.00,,"2,250.00",,"14,250.00"
+235,,,,,,Invoice,,09/06/2018,,14015.0,,Sorbafix-post molding IV testing and reporting RM3793399,,Bard Puerto Rico:M3887,,Svc:Micro Molding,,2.00,,750.00,,"1,500.00",,"15,750.00"
+236,,,,,,Invoice,,10/08/2018,,14059.0,,Sorbafix-post molding IV testing and reporting RM3793399,,Bard Puerto Rico:M3887,,Svc:Micro Molding,,1.00,,750.00,,750.00,,"16,500.00"
+237,,,,,,Invoice,,11/20/2018,,14134.0,,Sorbafix-post molding IV testing and reporting RM3793399,,Bard Puerto Rico:M3887,,Svc:Micro Molding,,5.00,,750.00,,"3,750.00",,"20,250.00"
+238,,,,,,Invoice,,12/11/2018,,14172.0,,Sorbafix-post molding IV testing and reporting RM3793399,,Bard Puerto Rico:M3887,,Svc:Micro Molding,,3.00,,750.00,,"2,250.00",,"22,500.00"
+239,,,Total M3887,,,,,,,,,,,,,,,30.00,,,,"22,500.00",,"22,500.00"
+240,,,M3900,,,,,,,,,,,,,,,,,,,,,
+241,,,,,,Invoice,,04/23/2018,,13810.0,,Permafix Tack RM3793481,,Bard Puerto Rico:M3900,,Svc:Micro Molding,,"50,000.00",,0.651,,"32,550.00",,"32,550.00"
+242,,,,,,Invoice,,04/23/2018,,13810.0,,Shipping  ,,Bard Puerto Rico:M3900,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"32,560.00"
+243,,,Total M3900,,,,,,,,,,,,,,,"50,001.00",,,,"32,560.00",,"32,560.00"
+244,,,M3907,,,,,,,,,,,,,,,,,,,,,
+245,,,,,,Invoice,,08/06/2018,,13968.0,,Echo PS Connector,,Bard Puerto Rico:M3907,,Svc:Micro Molding,,"50,000.00",,0.702,,"35,100.00",,"35,100.00"
+246,,,,,,Invoice,,08/06/2018,,13968.0,,Shipping  ,,Bard Puerto Rico:M3907,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"35,110.00"
+247,,,Total M3907,,,,,,,,,,,,,,,"50,001.00",,,,"35,110.00",,"35,110.00"
+248,,,M3948,,,,,,,,,,,,,,,,,,,,,
+249,,,,,,Invoice,,10/10/2018,,14061.0,,Echo Connectors RM3793783 Rev. 3,,Bard Puerto Rico:M3948,,Svc:Micro Molding,,"50,000.00",,0.702,,"35,100.00",,"35,100.00"
+250,,,,,,Invoice,,10/10/2018,,14061.0,,Shipping  ,,Bard Puerto Rico:M3948,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"35,110.00"
+251,,,Total M3948,,,,,,,,,,,,,,,"50,001.00",,,,"35,110.00",,"35,110.00"
+252,,,M3964,,,,,,,,,,,,,,,,,,,,,
+253,,,,,,Invoice,,06/25/2018,,13916.0,,Tack Absorbable RM3793399 Rev. 17,,Bard Puerto Rico:M3964,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+254,,,Total M3964,,,,,,,,,,,,,,,"50,000.00",,,,"46,300.00",,"46,300.00"
+255,,,M3965,,,,,,,,,,,,,,,,,,,,,
+256,,,,,,Invoice,,08/01/2018,,13964.0,,Tack Absorbable RM3793399 Rev. 17,,Bard Puerto Rico:M3965,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+257,,,,,,Invoice,,08/01/2018,,13964.0,,Shipping  ,,Bard Puerto Rico:M3965,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+258,,,Total M3965,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+259,,,M3966,,,,,,,,,,,,,,,,,,,,,
+260,,,,,,Invoice,,08/06/2018,,13967.0,,Tack Absorbable RM3793399 Rev. 17,,Bard Puerto Rico:M3966,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+261,,,,,,Invoice,,08/06/2018,,13967.0,,Shipping  ,,Bard Puerto Rico:M3966,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+262,,,Total M3966,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+263,,,M3967,,,,,,,,,,,,,,,,,,,,,
+264,,,,,,Invoice,,08/14/2018,,13982.0,,Tack Absorbable RM3793399 Rev. 17,,Bard Puerto Rico:M3967,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+265,,,,,,Invoice,,08/14/2018,,13982.0,,Shipping  ,,Bard Puerto Rico:M3967,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+266,,,Total M3967,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+267,,,M3975,,,,,,,,,,,,,,,,,,,,,
+268,,,,,,Invoice,,09/25/2018,,14034.0,,Retaining Ring RM0300904 Rev. 0,,Bard Puerto Rico:M3975,,Svc:Micro Molding,,"3,000.00",,1.424,,"4,272.00",,"4,272.00"
+269,,,,,,Invoice,,09/25/2018,,14034.0,,Shipping  ,,Bard Puerto Rico:M3975,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"4,282.00"
+270,,,Total M3975,,,,,,,,,,,,,,,"3,001.00",,,,"4,282.00",,"4,282.00"
+271,,,M3984,,,,,,,,,,,,,,,,,,,,,
+272,,,,,,Invoice,,08/13/2018,,13980.0,," Anchor, Adjustable RM0300935 Rev. 2",,Bard Puerto Rico:M3984,,Svc:Micro Molding,,"6,000.00",,1.654,,"9,924.00",,"9,924.00"
+273,,,,,,Invoice,,08/13/2018,,13980.0,,Shipping  ,,Bard Puerto Rico:M3984,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"9,934.00"
+274,,,Total M3984,,,,,,,,,,,,,,,"6,001.00",,,,"9,934.00",,"9,934.00"
+275,,,M4001,,,,,,,,,,,,,,,,,,,,,
+276,,,,,,Invoice,,12/05/2018,,14155.0,,Echo PS Connector RM3793783,,Bard Puerto Rico:M4001,,Svc:Micro Molding,,"50,000.00",,0.702,,"35,100.00",,"35,100.00"
+277,,,,,,Invoice,,12/05/2018,,14155.0,,Shipping  ,,Bard Puerto Rico:M4001,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"35,110.00"
+278,,,Total M4001,,,,,,,,,,,,,,,"50,001.00",,,,"35,110.00",,"35,110.00"
+279,,,M4002,,,,,,,,,,,,,,,,,,,,,
+280,,,,,,Invoice,,08/29/2018,,13995.0,,"Anchor, Fixed RM0300859 Rev. 2",,Bard Puerto Rico:M4002,,Svc:Micro Molding,,"3,500.00",,2.001,,"7,003.50",,"7,003.50"
+281,,,,,,Invoice,,08/29/2018,,13995.0,,Shipping  ,,Bard Puerto Rico:M4002,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"7,013.50"
+282,,,Total M4002,,,,,,,,,,,,,,,"3,501.00",,,,"7,013.50",,"7,013.50"
+283,,,M4030,,,,,,,,,,,,,,,,,,,,,
+284,,,,,,Invoice,,08/27/2018,,13993.0,,"Tack Absorbable, RM3793399 Rev. 17",,Bard Puerto Rico:M4030,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+285,,,,,,Invoice,,08/27/2018,,13993.0,,Shipping  ,,Bard Puerto Rico:M4030,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+286,,,Total M4030,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+287,,,M4031,,,,,,,,,,,,,,,,,,,,,
+288,,,,,,Invoice,,09/04/2018,,14003.0,,"Tack Absorbable, RM3793399 Rev. 17",,Bard Puerto Rico:M4031,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+289,,,,,,Invoice,,09/04/2018,,14003.0,,Shipping  ,,Bard Puerto Rico:M4031,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+290,,,Total M4031,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+291,,,M4038,,,,,,,,,,,,,,,,,,,,,
+292,,,,,,Invoice,,09/11/2018,,14018.0,,"Tack Absorbable, RM3793399 Rev. 17",,Bard Puerto Rico:M4038,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+293,,,,,,Invoice,,09/11/2018,,14018.0,,Shipping  ,,Bard Puerto Rico:M4038,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+294,,,Total M4038,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+295,,,M4039,,,,,,,,,,,,,,,,,,,,,
+296,,,,,,Invoice,,09/24/2018,,14033.0,,"Tack Absorbable, RM3793399 Rev. 17",,Bard Puerto Rico:M4039,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+297,,,,,,Invoice,,09/24/2018,,14033.0,,Shipping  ,,Bard Puerto Rico:M4039,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+298,,,Total M4039,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+299,,,M4057,,,,,,,,,,,,,,,,,,,,,
+300,,,,,,Invoice,,10/15/2018,,14068.0,,Tack Absorbable RM3793399 Rev 17,,Bard Puerto Rico:M4057,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+301,,,,,,Invoice,,10/15/2018,,14068.0,,Shipping  ,,Bard Puerto Rico:M4057,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+302,,,Total M4057,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+303,,,M4058,,,,,,,,,,,,,,,,,,,,,
+304,,,,,,Invoice,,10/22/2018,,14083.0,,Tack Absorbable RM3793399 Rev 17,,Bard Puerto Rico:M4058,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+305,,,,,,Invoice,,10/22/2018,,14083.0,,Shipping  ,,Bard Puerto Rico:M4058,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+306,,,Total M4058,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+307,,,M4059,,,,,,,,,,,,,,,,,,,,,
+308,,,,,,Invoice,,10/29/2018,,14093.0,,Tack Absorbable RM3793399 Rev 17,,Bard Puerto Rico:M4059,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+309,,,,,,Invoice,,10/29/2018,,14093.0,,Shipping  ,,Bard Puerto Rico:M4059,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+310,,,Total M4059,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+311,,,M4060,,,,,,,,,,,,,,,,,,,,,
+312,,,,,,Invoice,,11/05/2018,,14104.0,,Tack Absorbable RM3793399 Rev 17,,Bard Puerto Rico:M4060,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+313,,,,,,Invoice,,11/05/2018,,14104.0,,Shipping  ,,Bard Puerto Rico:M4060,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+314,,,Total M4060,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+315,,,M4074,,,,,,,,,,,,,,,,,,,,,
+316,,,,,,Invoice,,11/12/2018,,14120.0,,"RM3793399 Rev. 17 Tack, Absorbable",,Bard Puerto Rico:M4074,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+317,,,,,,Invoice,,11/12/2018,,14120.0,,Shipping  ,,Bard Puerto Rico:M4074,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+318,,,Total M4074,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+319,,,M4075,,,,,,,,,,,,,,,,,,,,,
+320,,,,,,Invoice,,11/20/2018,,14132.0,,"RM3793399 Rev. 17 Tack, Absorbable",,Bard Puerto Rico:M4075,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+321,,,,,,Invoice,,11/20/2018,,14132.0,,Shipping  ,,Bard Puerto Rico:M4075,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+322,,,Total M4075,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+323,,,M4076,,,,,,,,,,,,,,,,,,,,,
+324,,,,,,Invoice,,11/28/2018,,14143.0,,"RM3793399 Rev. 17 Tack, Absorbable",,Bard Puerto Rico:M4076,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+325,,,,,,Invoice,,11/28/2018,,14143.0,,Shipping  ,,Bard Puerto Rico:M4076,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+326,,,Total M4076,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+327,,,M4077,,,,,,,,,,,,,,,,,,,,,
+328,,,,,,Invoice,,12/05/2018,,14157.0,,"RM3793399 Rev. 17 Tack, Absorbable",,Bard Puerto Rico:M4077,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+329,,,,,,Invoice,,12/05/2018,,14157.0,,Shipping  ,,Bard Puerto Rico:M4077,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+330,,,Total M4077,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+331,,,M4111,,,,,,,,,,,,,,,,,,,,,
+332,,,,,,Invoice,,12/10/2018,,14167.0,,"RM3793399 Rev. 17 Tack, Absorbable",,Bard Puerto Rico:M4111,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+333,,,,,,Invoice,,12/10/2018,,14167.0,,Shipping  ,,Bard Puerto Rico:M4111,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+334,,,Total M4111,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+335,,,M4112,,,,,,,,,,,,,,,,,,,,,
+336,,,,,,Invoice,,12/17/2018,,14181.0,,"RM3793399 Rev. 17 Tack, Absorbable",,Bard Puerto Rico:M4112,,Svc:Micro Molding,,"50,000.00",,0.926,,"46,300.00",,"46,300.00"
+337,,,,,,Invoice,,12/17/2018,,14181.0,,Shipping  ,,Bard Puerto Rico:M4112,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"46,310.00"
+338,,,Total M4112,,,,,,,,,,,,,,,"50,001.00",,,,"46,310.00",,"46,310.00"
+339,,Total Bard Puerto Rico,,,,,,,,,,,,,,,,"3,036,595.00",,,,"2,770,969.91",,"2,770,969.91"
+340,,Becton Dickinson Penel Ltd,,,,,,,,,,,,,,,,,,,,,,
+341,,,M3913,,,,,,,,,,,,,,,,,,,,,
+342,,,,,,Invoice,,04/20/2018,,13800.0,,"Piston Manifold (300) separated samples included in 50,000. Buy spec 10000180035 Rev. 6 DWG #100...",,Becton Dickinson Penel Ltd:M3913,,Svc:Micro Molding,,"50,000.00",,0.286,,"14,300.00",,"14,300.00"
+343,,,Total M3913,,,,,,,,,,,,,,,"50,000.00",,,,"14,300.00",,"14,300.00"
+344,,,M3914,,,,,,,,,,,,,,,,,,,,,
+345,,,,,,Invoice,,04/20/2018,,13801.0,,"Pump Bottom (300) separated samples included in 50,000. Buy spec 10000180036 Rev. 7 DWG #1000077...",,Becton Dickinson Penel Ltd:M3914,,Svc:Micro Molding,,"50,000.00",,0.278,,"13,900.00",,"13,900.00"
+346,,,Total M3914,,,,,,,,,,,,,,,"50,000.00",,,,"13,900.00",,"13,900.00"
+347,,,M3919,,,,,,,,,,,,,,,,,,,,,
+348,,,,,,Invoice,,04/27/2018,,13816.0,,"Introducer Hub with Lead Ins (300) Separate samples included in 100,000. Buy spec 10000343611 Re...",,Becton Dickinson Penel Ltd:M3919,,Svc:Micro Molding,,"100,000.00",,0.149,,"14,900.00",,"14,900.00"
+349,,,Total M3919,,,,,,,,,,,,,,,"100,000.00",,,,"14,900.00",,"14,900.00"
+350,,,M3927,,,,,,,,,,,,,,,,,,,,,
+351,,,,,,Invoice,,04/27/2018,,13818.0,,Release Collar-separate 300 samples with shipment. Buy spec 10000179861 Rev. 6 DWG #10000101463 ...,,Becton Dickinson Penel Ltd:M3927,,Svc:Micro Molding,,"50,000.00",,0.143,,"7,150.00",,"7,150.00"
+352,,,,,,Invoice,,05/08/2018,,13832.0,,Release Collar-separate 300 samples with shipment. Buy spec 10000179861 Rev. 6 DWG #10000101463 ...,,Becton Dickinson Penel Ltd:M3927,,Svc:Micro Molding,,"50,000.00",,0.143,,"7,150.00",,"14,300.00"
+353,,,,,,Credit Memo,,06/14/2018,,13897.0,,bank fees for wire transfer,,Becton Dickinson Penel Ltd:M3927,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,"14,275.00"
+354,,,Total M3927,,,,,,,,,,,,,,,"99,999.00",,,,"14,275.00",,"14,275.00"
+355,,,M3954,,,,,,,,,,,,,,,,,,,,,
+356,,,,,,Invoice,,05/31/2018,,13870.0,,Piston Manifold Buy Spec 100000180035 Rev. 6 Version F DWG # 10000076986 Rev. 8 Version J  *Sepa...,,Becton Dickinson Penel Ltd:M3954,,Svc:Micro Molding,,"30,000.00",,0.267,,"8,010.00",,"8,010.00"
+357,,,,,,Invoice,,06/19/2018,,13905.0,,Piston Manifold Buy Spec 100000180035 Rev. 6 Version F DWG # 10000076986 Rev. 8 Version J  *Sepa...,,Becton Dickinson Penel Ltd:M3954,,Svc:Micro Molding,,"100,000.00",,0.267,,"26,700.00",,"34,710.00"
+358,,,,,,Credit Memo,,07/03/2018,,13929.0,,credit issued for bank fees incurred during wire transfer,,Becton Dickinson Penel Ltd:M3954,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,"34,685.00"
+359,,,,,,Credit Memo,,08/06/2018,,13971.0,,Credit issued for bank fees incurred during wire transfer,,Becton Dickinson Penel Ltd:M3954,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,"34,660.00"
+360,,,Total M3954,,,,,,,,,,,,,,,"129,998.00",,,,"34,660.00",,"34,660.00"
+361,,,M4047,,,,,,,,,,,,,,,,,,,,,
+362,,,,,,Invoice,,09/13/2018,,14025.0,,Pump Bottom DWG 10000077188 Rev. 7 Ver. I.  Buy Spec 10000180036 Ver. H Rev. 8,,Becton Dickinson Penel Ltd:M4047,,Svc:Micro Molding,,"70,300.00",,0.278,,"19,543.40",,"19,543.40"
+363,,,,,,Credit Memo,,10/25/2018,,14088.0,,Credit issued for bank fees incurred during wire transfer,,Becton Dickinson Penel Ltd:M4047,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,"19,518.40"
+364,,,Total M4047,,,,,,,,,,,,,,,"70,299.00",,,,"19,518.40",,"19,518.40"
+365,,,M4052,,,,,,,,,,,,,,,,,,,,,
+366,,,,,,Invoice,,09/28/2018,,14040.0,,Release Collar Buy Spec 10000179861 Ver. F Rev. 6   DWG 10000101463 Ver. G Rev. 5. Separate 300 ...,,Becton Dickinson Penel Ltd:M4052,,Svc:Micro Molding,,"70,000.00",,0.162,,"11,340.00",,"11,340.00"
+367,,,,,,Credit Memo,,10/29/2018,,14095.0,,bank fees incurred during wire transfer,,Becton Dickinson Penel Ltd:M4052,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,"11,315.00"
+368,,,Total M4052,,,,,,,,,,,,,,,"69,999.00",,,,"11,315.00",,"11,315.00"
+369,,,M4080,,,,,,,,,,,,,,,,,,,,,
+370,,,,,,Invoice,,10/24/2018,,14084.0,,Pump Bottom DWG10000077188 Rev. 7 Vers. I-No buy spec needed,,Becton Dickinson Penel Ltd:M4080,,Svc:Micro Molding,,"50,300.00",,0.278,,"13,983.40",,"13,983.40"
+371,,,,,,Credit Memo,,11/26/2018,,14137.0,,bank fees for wire transfer,,Becton Dickinson Penel Ltd:M4080,,Svc:Attended - Labor:100 Prepare for H.T.,,-1.00,,25.00,,-25.00,,"13,958.40"
+372,,,Total M4080,,,,,,,,,,,,,,,"50,299.00",,,,"13,958.40",,"13,958.40"
+373,,,M4083,,,,,,,,,,,,,,,,,,,,,
+374,,,,,,Invoice,,11/08/2018,,14110.0,,DWG 10000101463 Rev. 5 Ver. G Release Collar. Separate (300 pcs) advanced samples.  No buy spec ...,,Becton Dickinson Penel Ltd:M4083,,Svc:Micro Molding,,"30,000.00",,0.198,,"5,940.00",,"5,940.00"
+375,,,,,,Credit Memo,,12/10/2018,,14169.0,,Credit issued for bank fees incurred during wire transfer,,Becton Dickinson Penel Ltd:M4083,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,"5,915.00"
+376,,,Total M4083,,,,,,,,,,,,,,,"29,999.00",,,,"5,915.00",,"5,915.00"
+377,,,M4107,,,,,,,,,,,,,,,,,,,,,
+378,,,,,,Invoice,,11/29/2018,,14147.0,,Pump Bottom-SAP #50023635 Buy spec 10000180036 Rev. 9 Ver. I and MTD waiver #181105-1-R2. Separa...,,Becton Dickinson Penel Ltd:M4107,,Svc:Micro Molding,,"100,300.00",,0.258,,"25,877.40",,"25,877.40"
+379,,,Total M4107,,,,,,,,,,,,,,,"100,300.00",,,,"25,877.40",,"25,877.40"
+380,,,M4108,,,,,,,,,,,,,,,,,,,,,
+381,,,,,,Invoice,,11/29/2018,,14145.0,,Piston Manifold SAP #500023633 Buy spec 10000180035 Rev. 8 Ver. H and MTD waiver #181105-3-R2. S...,,Becton Dickinson Penel Ltd:M4108,,Svc:Micro Molding,,"120,300.00",,0.267,,"32,120.10",,"32,120.10"
+382,,,Total M4108,,,,,,,,,,,,,,,"120,300.00",,,,"32,120.10",,"32,120.10"
+383,,,M4109,,,,,,,,,,,,,,,,,,,,,
+384,,,,,,Invoice,,11/29/2018,,14144.0,,Introducer Hub with Lead Ins. SAP #5000236239 Buy spec 10000343611 Rev. 5 Ver. E and MTD waiver ...,,Becton Dickinson Penel Ltd:M4109,,Svc:Micro Molding,,"150,300.00",,0.149,,"22,394.70",,"22,394.70"
+385,,,Total M4109,,,,,,,,,,,,,,,"150,300.00",,,,"22,394.70",,"22,394.70"
+386,,,M4110,,,,,,,,,,,,,,,,,,,,,
+387,,,,,,Invoice,,12/11/2018,,14170.0,,Release Collar SAP #500023625 Buy spec 10000179861 Rev. 8 Ver. I and MTD waiver #181105-4-R2. Se...,,Becton Dickinson Penel Ltd:M4110,,Svc:Micro Molding,,"150,300.00",,0.143,,"21,492.90",,"21,492.90"
+388,,,Total M4110,,,,,,,,,,,,,,,"150,300.00",,,,"21,492.90",,"21,492.90"
+389,,Total Becton Dickinson Penel Ltd,,,,,,,,,,,,,,,,"1,171,793.00",,,,"244,626.90",,"244,626.90"
+390,,"Becton, Dickinson and Company",,,,,,,,,,,,,,,,,,,,,,
+391,,,8334,,,,,,,,,,,,,,,,,,,,,
+392,,,,,,Invoice,,06/05/2018,,13879.0,,"Item 00030, 20% validation 4 cav release collar, quote 9623A",,"Becton, Dickinson and Company:8334",,Svc:Micro Molds,,1.00,,"35,000.00",,"35,000.00",,"35,000.00"
+393,,,Total 8334,,,,,,,,,,,,,,,1.00,,,,"35,000.00",,"35,000.00"
+394,,,8468,,,,,,,,,,,,,,,,,,,,,
+395,,,,,,Invoice,,01/12/2018,,13640.0,,Modify existing 4 cavity and spare cavities for introducer hub with lead ins. Includes sampling ...,,"Becton, Dickinson and Company:8468",,Svc:Micro Molds,,1.00,,"26,140.00",,"26,140.00",,"26,140.00"
+396,,,Total 8468,,,,,,,,,,,,,,,1.00,,,,"26,140.00",,"26,140.00"
+397,,,8515,,,,,,,,,,,,,,,,,,,,,
+398,,,,,,Invoice,,08/17/2018,,13987.0,,"Modify existing inserts in MTD frame to produce cruciform Piston. Includes (1,000) progress samples",,"Becton, Dickinson and Company:8515",,Svc:Micro Molds,,0.50,,"15,895.00",,"7,947.50",,"7,947.50"
+399,,,,,,Invoice,,10/12/2018,,14060.0,,"Modify existing inserts in MTD frame to produce cruciform Piston. Includes (1,000) progress samples",,"Becton, Dickinson and Company:8515",,Svc:Micro Molds,,0.50,,"15,895.00",,"7,947.50",,"15,895.00"
+400,,,Total 8515,,,,,,,,,,,,,,,1.00,,,,"15,895.00",,"15,895.00"
+401,,,M3083,,,,,,,,,,,,,,,,,,,,,
+402,,,,,,Invoice,,06/05/2018,,13880.0,,"Item 00020, 50% down validation swatch rel. col, quote 9626A, process development/Mold Trial 2 (...",,"Becton, Dickinson and Company:M3083",,Svc:Micro Molding,,0.50,,"21,800.00",,"10,900.00",,"10,900.00"
+403,,,Total M3083,,,,,,,,,,,,,,,0.50,,,,"10,900.00",,"10,900.00"
+404,,,M3793,,,,,,,,,,,,,,,,,,,,,
+405,,,,,,Invoice,,01/12/2018,,13635.0,,"Setup Swatch Piston Manifold tooling to produce (1,000) parts from each material FHR-P5083N4-A F...",,"Becton, Dickinson and Company:M3793",,Svc:Micro Molding,,1.00,,"6,450.00",,"6,450.00",,"6,450.00"
+406,,,Total M3793,,,,,,,,,,,,,,,1.00,,,,"6,450.00",,"6,450.00"
+407,,,M3794,,,,,,,,,,,,,,,,,,,,,
+408,,,,,,Invoice,,01/12/2018,,13637.0,,"Setup Swatch Pump Bottom tooling to produce (1,000) parts from each material FHR-P5083N4-A FHR-P...",,"Becton, Dickinson and Company:M3794",,Svc:Micro Molding,,1.00,,"6,325.00",,"6,325.00",,"6,325.00"
+409,,,Total M3794,,,,,,,,,,,,,,,1.00,,,,"6,325.00",,"6,325.00"
+410,,,M3798,,,,,,,,,,,,,,,,,,,,,
+411,,,,,,Invoice,,01/12/2018,,13638.0,,"(1,000 pcs.) Swatch Pump Bottom tooling to produce parts from each material-Zeonex 690R and Topa...",,"Becton, Dickinson and Company:M3798",,Svc:Micro Molding,,1.00,,"11,740.00",,"11,740.00",,"11,740.00"
+412,,,Total M3798,,,,,,,,,,,,,,,1.00,,,,"11,740.00",,"11,740.00"
+413,,,M3799,,,,,,,,,,,,,,,,,,,,,
+414,,,,,,Invoice,,01/12/2018,,13636.0,,"(1,000 pcs.) Swatch Piston Manifold tooling to produce parts from each material-Zeonex 690R and ...",,"Becton, Dickinson and Company:M3799",,Svc:Micro Molding,,1.00,,"12,480.00",,"12,480.00",,"12,480.00"
+415,,,Total M3799,,,,,,,,,,,,,,,1.00,,,,"12,480.00",,"12,480.00"
+416,,,M3841,,,,,,,,,,,,,,,,,,,,,
+417,,,,,,Invoice,,02/02/2018,,13684.0,,"(120,000) Introducer Hub with Lead Ins PN#100000332169 Rev 1",,"Becton, Dickinson and Company:M3841",,Svc:Micro Molding,,"120,000.00",,0.15,,"18,000.00",,"18,000.00"
+418,,,Total M3841,,,,,,,,,,,,,,,"120,000.00",,,,"18,000.00",,"18,000.00"
+419,,,M3851,,,,,,,,,,,,,,,,,,,,,
+420,,,,,,Invoice,,02/09/2018,,13696.0,,"(60,000) Pump Bottom PN10000077188  Ver 1 Rev 7",,"Becton, Dickinson and Company:M3851",,Svc:Micro Molding,,"60,000.00",,0.32,,"19,200.00",,"19,200.00"
+421,,,Total M3851,,,,,,,,,,,,,,,"60,000.00",,,,"19,200.00",,"19,200.00"
+422,,,M3860,,,,,,,,,,,,,,,,,,,,,
+423,,,,,,Invoice,,02/09/2018,,13695.0,,Introducer Hub with Lead Ins,,"Becton, Dickinson and Company:M3860",,Svc:Micro Molding,,"20,000.00",,0.15,,"3,000.00",,"3,000.00"
+424,,,Total M3860,,,,,,,,,,,,,,,"20,000.00",,,,"3,000.00",,"3,000.00"
+425,,,M3862,,,,,,,,,,,,,,,,,,,,,
+426,,,,,,Invoice,,02/09/2018,,13694.0,,Introducer Hub without Lead Ins,,"Becton, Dickinson and Company:M3862",,Svc:Micro Molding,,"56,435.00",,0.15,,"8,465.25",,"8,465.25"
+427,,,Total M3862,,,,,,,,,,,,,,,"56,435.00",,,,"8,465.25",,"8,465.25"
+428,,,M3880,,,,,,,,,,,,,,,,,,,,,
+429,,,,,,Invoice,,04/13/2018,,13784.0,,Swatch Piston Manifold using Durastar MN631,,"Becton, Dickinson and Company:M3880",,Svc:Micro Molding,,"1,000.00",,4.57,,"4,570.00",,"4,570.00"
+430,,,Total M3880,,,,,,,,,,,,,,,"1,000.00",,,,"4,570.00",,"4,570.00"
+431,,,M3881,,,,,,,,,,,,,,,,,,,,,
+432,,,,,,Invoice,,03/09/2018,,13740.0,,Swatch Pump Bottom using Durastar MN631,,"Becton, Dickinson and Company:M3881",,Svc:Micro Molding,,"1,000.00",,4.57,,"4,570.00",,"4,570.00"
+433,,,Total M3881,,,,,,,,,,,,,,,"1,000.00",,,,"4,570.00",,"4,570.00"
+434,,,M3940,,,,,,,,,,,,,,,,,,,,,
+435,,,,,,Invoice,,04/27/2018,,13817.0,,Pump Bottom 10000077188 Ver. I Rev. 7,,"Becton, Dickinson and Company:M3940",,Svc:Micro Molding,,"10,000.00",,0.43,,"4,300.00",,"4,300.00"
+436,,,Total M3940,,,,,,,,,,,,,,,"10,000.00",,,,"4,300.00",,"4,300.00"
+437,,,M3946,,,,,,,,,,,,,,,,,,,,,
+438,,,,,,Invoice,,05/31/2018,,13860.0,,Piston Manifold 10000076986 Rev. 8 Ver. J,,"Becton, Dickinson and Company:M3946",,Svc:Micro Molding,,"20,000.00",,0.33,,"6,600.00",,"6,600.00"
+439,,,Total M3946,,,,,,,,,,,,,,,"20,000.00",,,,"6,600.00",,"6,600.00"
+440,,,M3947,,,,,,,,,,,,,,,,,,,,,
+441,,,,,,Invoice,,05/18/2018,,13854.0,,Pump Bottom 10000077188 Rev. 7 Ver. I,,"Becton, Dickinson and Company:M3947",,Svc:Micro Molding,,"20,000.00",,0.43,,"8,600.00",,"8,600.00"
+442,,,Total M3947,,,,,,,,,,,,,,,"20,000.00",,,,"8,600.00",,"8,600.00"
+443,,,M4036,,,,,,,,,,,,,,,,,,,,,
+444,,,,,,Invoice,,10/05/2018,,14043.0,,"Cruciform Piston with alternative (Topas) material. Includes (1,000 pcs.) Progress Samples",,"Becton, Dickinson and Company:M4036",,Svc:Micro Molding,,1.00,,"7,400.00",,"7,400.00",,"7,400.00"
+445,,,Total M4036,,,,,,,,,,,,,,,1.00,,,,"7,400.00",,"7,400.00"
+446,,,M4064,,,,,,,,,,,,,,,,,,,,,
+447,,,,,,Invoice,,09/28/2018,,14036.0,,Pump Bottom 10000077188 Ver. I Rev. 7,,"Becton, Dickinson and Company:M4064",,Svc:Micro Molding,,"10,000.00",,0.43,,"4,300.00",,"4,300.00"
+448,,,Total M4064,,,,,,,,,,,,,,,"10,000.00",,,,"4,300.00",,"4,300.00"
+449,,"Total Becton, Dickinson and Company",,,,,,,,,,,,,,,,"318,443.50",,,,"213,935.25",,"213,935.25"
+450,,Boston Scientific-Marlborough,,,,,,,,,,,,,,,,,,,,,,
+451,,,8472,,,,,,,,,,,,,,,,,,,,,
+452,,,,,,Invoice,,01/12/2018,,13644.0,,"Add new set of inserts to existing Yoke, Long tool (MT1) configuration-10 50570991 #08 Rev. 06",,Boston Scientific-Marlborough:8472,,Svc:Micro Molds,,0.50,,"9,770.00",,"4,885.00",,"4,885.00"
+453,,,Total 8472,,,,,,,,,,,,,,,0.50,,,,"4,885.00",,"4,885.00"
+454,,,8473,,,,,,,,,,,,,,,,,,,,,
+455,,,,,,Invoice,,01/12/2018,,13643.0,,"Item #0030 add new inserts to existing yoke, long tooling part # 50570991 Rev. 05 configuration-...",,Boston Scientific-Marlborough:8473,,Svc:Micro Molds,,0.50,,"13,055.00",,"6,527.50",,"6,527.50"
+456,,,Total 8473,,,,,,,,,,,,,,,0.50,,,,"6,527.50",,"6,527.50"
+457,,,8502,,,,,,,,,,,,,,,,,,,,,
+458,,,,,,Invoice,,05/14/2018,,13846.0,,"Add new inserts and modify cavities to existing Yoke, Long left-right configuration-3. Includes ...",,Boston Scientific-Marlborough:8502,,Svc:Micro Molds,,0.50,,"12,420.00",,"6,210.00",,"6,210.00"
+459,,,,,,Invoice,,05/31/2018,,13869.0,,"Add new inserts and modify cavities to existing Yoke, Long left-right configuration-3. Includes ...",,Boston Scientific-Marlborough:8502,,Svc:Micro Molds,,0.50,,"12,420.00",,"6,210.00",,"12,420.00"
+460,,,Total 8502,,,,,,,,,,,,,,,1.00,,,,"12,420.00",,"12,420.00"
+461,,,M3784,,,,,,,,,,,,,,,,,,,,,
+462,,,,,,Invoice,,01/12/2018,,13645.0,,"Item #0020 Molded Samples part #50570991 #8 Rev. 06 (1,000 pcs.) Configuration -10",,Boston Scientific-Marlborough:M3784,,Svc:Micro Molding,,1.00,,"5,494.00",,"5,494.00",,"5,494.00"
+463,,,Total M3784,,,,,,,,,,,,,,,1.00,,,,"5,494.00",,"5,494.00"
+464,,Total Boston Scientific-Marlborough,,,,,,,,,,,,,,,,3.00,,,,"29,326.50",,"29,326.50"
+465,,Boston Scientific-Spencer,,,,,,,,,,,,,,,,,,,,,,
+466,,,8495,,,,,,,,,,,,,,,,,,,,,
+467,,,,,,Invoice,,04/20/2018,,13807.0,,Expedited rebuild (2) cavity tooling for Distal Cap Overmolded,,Boston Scientific-Spencer:8495,,Svc:Mold Repair,,1.00,,"41,050.00",,"41,050.00",,"41,050.00"
+468,,,Total 8495,,,,,,,,,,,,,,,1.00,,,,"41,050.00",,"41,050.00"
+469,,,8499,,,,,,,,,,,,,,,,,,,,,
+470,,,,,,Invoice,,05/11/2018,,13843.0,,Rebuild Lumen hole core pins for (2) cavity Distal Cap,,Boston Scientific-Spencer:8499,,Svc:Micro Molds,,1.00,,"3,100.00",,"3,100.00",,"3,100.00"
+471,,,Total 8499,,,,,,,,,,,,,,,1.00,,,,"3,100.00",,"3,100.00"
+472,,,M3640,,,,,,,,,,,,,,,,,,,,,
+473,,,,,,Invoice,,01/19/2018,,13653.0,,"P/N 50482128-01 Rev. 03  Distal cap overmold, .044 pocket",,Boston Scientific-Spencer:M3640,,Svc:Micro Molding,,441.00,,12.37,,"5,455.17",,"5,455.17"
+474,,,Total M3640,,,,,,,,,,,,,,,441.00,,,,"5,455.17",,"5,455.17"
+475,,,M3739,,,,,,,,,,,,,,,,,,,,,
+476,,,,,,Credit Memo,,01/19/2018,,13654.0,,short payment,,Boston Scientific-Spencer:M3739,,Svc:Micro Molding,,-1.00,,7.68,,-7.68,,-7.68
+477,,,,,,Credit Memo,,01/19/2018,,13655.0,,short payment,,Boston Scientific-Spencer:M3739,,Svc:Micro Molding,,-1.00,,7.49,,-7.49,,-15.17
+478,,,,,,Credit Memo,,01/19/2018,,13656.0,,short payment,,Boston Scientific-Spencer:M3739,,Svc:Micro Molding,,-1.00,,10.52,,-10.52,,-25.69
+479,,,,,,Credit Memo,,01/19/2018,,13657.0,,short payment,,Boston Scientific-Spencer:M3739,,Svc:Micro Molding,,-1.00,,12.41,,-12.41,,-38.10
+480,,,,,,Credit Memo,,01/19/2018,,13658.0,,short payment,,Boston Scientific-Spencer:M3739,,Svc:Micro Molding,,-1.00,,14.58,,-14.58,,-52.68
+481,,,Total M3739,,,,,,,,,,,,,,,-5.00,,,,-52.68,,-52.68
+482,,,M3773,,,,,,,,,,,,,,,,,,,,,
+483,,,,,,Invoice,,02/09/2018,,13693.0,,"50482128-01 Distal Cap Overmold, .044 Pocket",,Boston Scientific-Spencer:M3773,,Svc:Micro Molding,,500.00,,12.37,,"6,185.00",,"6,185.00"
+484,,,Total M3773,,,,,,,,,,,,,,,500.00,,,,"6,185.00",,"6,185.00"
+485,,,M3804,,,,,,,,,,,,,,,,,,,,,
+486,,,,,,Invoice,,02/02/2018,,13683.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,"1,839.00",,7.3009,,"13,426.36",,"13,426.36"
+487,,,,,,Invoice,,02/22/2018,,13720.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,"2,194.00",,7.3009,,"16,018.17",,"29,444.53"
+488,,,,,,Invoice,,03/16/2018,,13750.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,"4,573.00",,7.3009,,"33,387.02",,"62,831.55"
+489,,,,,,Invoice,,05/04/2018,,13830.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,"2,939.00",,7.3009,,"21,457.35",,"84,288.89"
+490,,,,,,Invoice,,05/11/2018,,13840.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,919.00,,7.3009,,"6,709.53",,"90,998.42"
+491,,,,,,Invoice,,05/18/2018,,13855.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,"3,912.00",,7.3009,,"28,561.12",,"119,559.54"
+492,,,,,,Invoice,,05/31/2018,,13863.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,"1,232.00",,7.3009,,"8,994.71",,"128,554.25"
+493,,,,,,Invoice,,06/22/2018,,13900.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,820.00,,7.3009,,"5,986.74",,"134,540.99"
+494,,,,,,Invoice,,07/13/2018,,13944.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,"2,528.00",,7.3009,,"18,456.68",,"152,997.66"
+495,,,,,,Invoice,,07/26/2018,,13954.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,"2,448.00",,7.3009,,"17,872.60",,"170,870.26"
+496,,,,,,Invoice,,08/17/2018,,13986.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,"2,964.00",,7.3009,,"21,639.87",,"192,510.13"
+497,,,,,,Invoice,,09/07/2018,,14009.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,"1,910.00",,7.3009,,"13,944.72",,"206,454.85"
+498,,,,,,Invoice,,09/14/2018,,14021.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,"2,423.00",,7.3009,,"17,690.08",,"224,144.93"
+499,,,,,,Invoice,,10/12/2018,,14065.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,"2,115.00",,7.3009,,"15,441.40",,"239,586.33"
+500,,,,,,Invoice,,10/31/2018,,14097.0,,"Distal Cap, Overmolded 90830030-01 Rev. A",,Boston Scientific-Spencer:M3804,,Svc:Micro Molding,,184.00,,7.30082,,"1,343.35",,"240,929.69"
+501,,,Total M3804,,,,,,,,,,,,,,,"33,000.00",,,,"240,929.69",,"240,929.69"
+502,,,M3854,,,,,,,,,,,,,,,,,,,,,
+503,,,,,,Invoice,,02/28/2018,,13731.0,,(500pcs) Distal Cap Overmolded .044 Pocket,,Boston Scientific-Spencer:M3854,,Svc:Micro Molding,,500.00,,12.37,,"6,185.00",,"6,185.00"
+504,,,Total M3854,,,,,,,,,,,,,,,500.00,,,,"6,185.00",,"6,185.00"
+505,,,M3855,,,,,,,,,,,,,,,,,,,,,
+506,,,,,,Invoice,,02/28/2018,,13733.0,,Distal Cap Overmolded .044 Pocket,,Boston Scientific-Spencer:M3855,,Svc:Mico Molds/Micromolding,,500.00,,12.37,,"6,185.00",,"6,185.00"
+507,,,,,,Invoice,,03/23/2018,,13763.0,,Distal Cap Overmolded .044 Pocket,,Boston Scientific-Spencer:M3855,,Svc:Mico Molds/Micromolding,,500.00,,12.37,,"6,185.00",,"12,370.00"
+508,,,Total M3855,,,,,,,,,,,,,,,"1,000.00",,,,"12,370.00",,"12,370.00"
+509,,,M3856,,,,,,,,,,,,,,,,,,,,,
+510,,,,,,Invoice,,04/06/2018,,13781.0,,"(1,000) Distal Cap Overmolded .044 Pocket",,Boston Scientific-Spencer:M3856,,Svc:Mico Molds/Micromolding,,"1,000.00",,12.37,,"12,370.00",,"12,370.00"
+511,,,Total M3856,,,,,,,,,,,,,,,"1,000.00",,,,"12,370.00",,"12,370.00"
+512,,,M3857,,,,,,,,,,,,,,,,,,,,,
+513,,,,,,Invoice,,04/13/2018,,13789.0,,"(1,000) Distal Cap Overmolded .044 Pocket",,Boston Scientific-Spencer:M3857,,Svc:Mico Molds/Micromolding,,"1,000.00",,12.37,,"12,370.00",,"12,370.00"
+514,,,Total M3857,,,,,,,,,,,,,,,"1,000.00",,,,"12,370.00",,"12,370.00"
+515,,,M3858,,,,,,,,,,,,,,,,,,,,,
+516,,,,,,Invoice,,04/27/2018,,13815.0,,Distal Cap Overmolded .044 Pocket,,Boston Scientific-Spencer:M3858,,Svc:Mico Molds/Micromolding,,"1,000.00",,12.37,,"12,370.00",,"12,370.00"
+517,,,Total M3858,,,,,,,,,,,,,,,"1,000.00",,,,"12,370.00",,"12,370.00"
+518,,,M3859,,,,,,,,,,,,,,,,,,,,,
+519,,,,,,Invoice,,05/04/2018,,13825.0,,"(1,000) Distal Cap Overmolded .044 Pocket",,Boston Scientific-Spencer:M3859,,Svc:Mico Molds/Micromolding,,"1,000.00",,12.37,,"12,370.00",,"12,370.00"
+520,,,Total M3859,,,,,,,,,,,,,,,"1,000.00",,,,"12,370.00",,"12,370.00"
+521,,,M3903,,,,,,,,,,,,,,,,,,,,,
+522,,,,,,Invoice,,03/23/2018,,13766.0,,Distal Cap Overmolded .044 Pocket DWG #50482128 Rev. 03 Reaming process validation,,Boston Scientific-Spencer:M3903,,Svc:Micro Molding,,1.00,,"5,790.00",,"5,790.00",,"5,790.00"
+523,,,Total M3903,,,,,,,,,,,,,,,1.00,,,,"5,790.00",,"5,790.00"
+524,,,M3929,,,,,,,,,,,,,,,,,,,,,
+525,,,,,,Invoice,,04/20/2018,,13802.0,,Requalification activities for Distal Cap Overmolded tooling,,Boston Scientific-Spencer:M3929,,Svc:Micro Molding,,1.00,,"8,920.00",,"8,920.00",,"8,920.00"
+526,,,Total M3929,,,,,,,,,,,,,,,1.00,,,,"8,920.00",,"8,920.00"
+527,,,M3932,,,,,,,,,,,,,,,,,,,,,
+528,,,,,,Invoice,,04/13/2018,,13788.0,,Distal Cap Overmolded 90830030-01 Rev. A,,Boston Scientific-Spencer:M3932,,Svc:Micro Molding,,400.00,,7.3009,,"2,920.36",,"2,920.36"
+529,,,Total M3932,,,,,,,,,,,,,,,400.00,,,,"2,920.36",,"2,920.36"
+530,,,M3933,,,,,,,,,,,,,,,,,,,,,
+531,,,,,,Invoice,,04/20/2018,,13794.0,,Distal Cap Overmolded 90830030-01 Rev. A,,Boston Scientific-Spencer:M3933,,Svc:Micro Molding,,"1,600.00",,7.3009,,"11,681.44",,"11,681.44"
+532,,,Total M3933,,,,,,,,,,,,,,,"1,600.00",,,,"11,681.44",,"11,681.44"
+533,,,M3942,,,,,,,,,,,,,,,,,,,,,
+534,,,,,,Invoice,,04/27/2018,,13813.0,,Distal Cap Overmolded 90830030-01 Rev. A,,Boston Scientific-Spencer:M3942,,Svc:Micro Molding,,"1,000.00",,7.3009,,"7,300.90",,"7,300.90"
+535,,,,,,Invoice,,04/27/2018,,13819.0,,Distal Cap Overmolded 90830030-01 Rev. A,,Boston Scientific-Spencer:M3942,,Svc:Micro Molding,,"3,000.00",,7.3009,,"21,902.70",,"29,203.60"
+536,,,Total M3942,,,,,,,,,,,,,,,"4,000.00",,,,"29,203.60",,"29,203.60"
+537,,,M3944,,,,,,,,,,,,,,,,,,,,,
+538,,,,,,Invoice,,05/11/2018,,13836.0,,Requalification activities,,Boston Scientific-Spencer:M3944,,Svc:Micro Molding,,1.00,,"8,920.00",,"8,920.00",,"8,920.00"
+539,,,Total M3944,,,,,,,,,,,,,,,1.00,,,,"8,920.00",,"8,920.00"
+540,,,M3951,,,,,,,,,,,,,,,,,,,,,
+541,,,,,,Invoice,,05/31/2018,,13871.0,,New ring vendor qualification activities. Mold component requalification,,Boston Scientific-Spencer:M3951,,Svc:Micro Molding,,1.00,,"8,290.00",,"8,290.00",,"8,290.00"
+542,,,Total M3951,,,,,,,,,,,,,,,1.00,,,,"8,290.00",,"8,290.00"
+543,,,M4011,,,,,,,,,,,,,,,,,,,,,
+544,,,,,,Invoice,,10/31/2018,,14098.0,,"Distal Cap Overmolded, 90830030-01 Rev. A",,Boston Scientific-Spencer:M4011,,Svc:Micro Molding,,"2,216.00",,7.3009,,"16,178.79",,"16,178.79"
+545,,,,,,Invoice,,11/08/2018,,14108.0,,"Distal Cap Overmolded, 90830030-01 Rev. A",,Boston Scientific-Spencer:M4011,,Svc:Micro Molding,,"2,784.00",,7.3009,,"20,325.71",,"36,504.50"
+546,,,Total M4011,,,,,,,,,,,,,,,"5,000.00",,,,"36,504.50",,"36,504.50"
+547,,,M4037,,,,,,,,,,,,,,,,,,,,,
+548,,,,,,Invoice,,08/24/2018,,13990.0,,"Distal Cap .044 Pocket, 50482128-01 Rev. A",,Boston Scientific-Spencer:M4037,,Svc:Micro Molding,,"1,835.00",,7.9705,,"14,625.87",,"14,625.87"
+549,,,,,,Invoice,,10/12/2018,,14063.0,,"Distal Cap .044 Pocket, 50482128-01 Rev. A",,Boston Scientific-Spencer:M4037,,Svc:Micro Molding,,400.00,,7.9705,,"3,188.20",,"17,814.07"
+550,,,,,,Invoice,,10/12/2018,,14066.0,,"Distal Cap .044 Pocket, 50482128-01 Rev. A",,Boston Scientific-Spencer:M4037,,Svc:Micro Molding,,378.00,,7.9705,,"3,012.85",,"20,826.92"
+551,,,,,,Invoice,,10/19/2018,,14069.0,,"Distal Cap .044 Pocket, 50482128-01 Rev. A",,Boston Scientific-Spencer:M4037,,Svc:Micro Molding,,570.00,,7.9705,,"4,543.19",,"25,370.10"
+552,,,,,,Invoice,,10/19/2018,,14072.0,,"Distal Cap .044 Pocket, 50482128-01 Rev. A",,Boston Scientific-Spencer:M4037,,Svc:Micro Molding,,577.00,,7.9705,,"4,598.98",,"29,969.08"
+553,,,,,,Invoice,,10/19/2018,,14073.0,,"Distal Cap .044 Pocket, 50482128-01 Rev. A",,Boston Scientific-Spencer:M4037,,Svc:Micro Molding,,670.00,,7.9705,,"5,340.24",,"35,309.32"
+554,,,,,,Invoice,,10/19/2018,,14076.0,,"Distal Cap .044 Pocket, 50482128-01 Rev. A",,Boston Scientific-Spencer:M4037,,Svc:Micro Molding,,399.00,,7.9705,,"3,180.23",,"38,489.54"
+555,,,,,,Invoice,,10/19/2018,,14081.0,,"Distal Cap .044 Pocket, 50482128-01 Rev. A",,Boston Scientific-Spencer:M4037,,Svc:Micro Molding,,804.00,,7.9705,,"6,408.28",,"44,897.83"
+556,,,,,,Invoice,,11/15/2018,,14125.0,,"Distal Cap .044 Pocket, 50482128-01 Rev. A",,Boston Scientific-Spencer:M4037,,Svc:Micro Molding,,"1,317.00",,7.9705,,"10,497.15",,"55,394.98"
+557,,,,,,Invoice,,12/06/2018,,14158.0,,"Distal Cap .044 Pocket, 50482128-01 Rev. A",,Boston Scientific-Spencer:M4037,,Svc:Micro Molding,,"3,000.00",,7.9705,,"23,911.50",,"79,306.48"
+558,,,Total M4037,,,,,,,,,,,,,,,"9,950.00",,,,"79,306.48",,"79,306.48"
+559,,,M4102,,,,,,,,,,,,,,,,,,,,,
+560,,,,,,Invoice,,12/13/2018,,14175.0,,"90830030-01 Rev. A   Distal Cap, Overmolded",,Boston Scientific-Spencer:M4102,,Svc:Micro Molding,,"2,000.00",,7.523,,"15,046.00",,"15,046.00"
+561,,,Total M4102,,,,,,,,,,,,,,,"2,000.00",,,,"15,046.00",,"15,046.00"
+562,,Total Boston Scientific-Spencer,,,,,,,,,,,,,,,,"62,392.00",,,,"571,284.55",,"571,284.55"
+563,,Boston Scientific Cork Limited,,,,,,,,,,,,,,,,,,,,,,
+564,,,M3781,,,,,,,,,,,,,,,,,,,,,
+565,,,,,,Credit Memo,,03/12/2018,,13753.0,,credit issued for bank fees incurred during wire transfer,,Boston Scientific Cork Limited:M3781,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,-25.00
+566,,,Total M3781,,,,,,,,,,,,,,,-1.00,,,,-25.00,,-25.00
+567,,,M4007,,,,,,,,,,,,,,,,,,,,,
+568,,,,,,Invoice,,09/17/2018,,14027.0,,Rounded Tip 90761955-01 Rev. A,,Boston Scientific Cork Limited:M4007,,Svc:Micro Molding,,"2,500.00",,1.17,,"2,925.00",,"2,925.00"
+569,,,,,,Credit Memo,,11/06/2018,,14109.0,,Credit issued for bank fees incurred during transfer,,Boston Scientific Cork Limited:M4007,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,"2,900.00"
+570,,,Total M4007,,,,,,,,,,,,,,,"2,499.00",,,,"2,900.00",,"2,900.00"
+571,,Total Boston Scientific Cork Limited,,,,,,,,,,,,,,,,"2,498.00",,,,"2,875.00",,"2,875.00"
+572,,Boston Scientific de Costa Rica SRL,,,,,,,,,,,,,,,,,,,,,,
+573,,,M3802,,,,,,,,,,,,,,,,,,,,,
+574,,,,,,Invoice,,01/29/2018,,13674.0,,Tension Breakers 91114279-01 Rev. A,,Boston Scientific de Costa Rica SRL:M3802,,Svc:Micro Molding,,"12,500.00",,0.379,,"4,737.50",,"4,737.50"
+575,,,,,,Invoice,,02/26/2018,,13726.0,,Tension Breakers 91114279-01 Rev. A,,Boston Scientific de Costa Rica SRL:M3802,,Svc:Micro Molding,,"12,500.00",,0.379,,"4,737.50",,"9,475.00"
+576,,,,,,Invoice,,03/29/2018,,13770.0,,Tension Breakers 91114279-01 Rev. A,,Boston Scientific de Costa Rica SRL:M3802,,Svc:Micro Molding,,"50,000.00",,0.379,,"18,950.00",,"28,425.00"
+577,,,,,,Invoice,,04/27/2018,,13814.0,,Tension Breakers 91114279-01 Rev. A,,Boston Scientific de Costa Rica SRL:M3802,,Svc:Micro Molding,,"12,500.00",,0.379,,"4,737.50",,"33,162.50"
+578,,,,,,Invoice,,05/30/2018,,13868.0,,Tension Breakers 91114279-01 Rev. A,,Boston Scientific de Costa Rica SRL:M3802,,Svc:Micro Molding,,"15,000.00",,0.379,,"5,685.00",,"38,847.50"
+579,,,,,,Invoice,,06/28/2018,,13918.0,,Tension Breakers 91114279-01 Rev. A,,Boston Scientific de Costa Rica SRL:M3802,,Svc:Micro Molding,,"20,000.00",,0.379,,"7,580.00",,"46,427.50"
+580,,,,,,Invoice,,07/26/2018,,13951.0,,Tension Breakers 91114279-01 Rev. A,,Boston Scientific de Costa Rica SRL:M3802,,Svc:Micro Molding,,"30,000.00",,0.379,,"11,370.00",,"57,797.50"
+581,,,,,,Invoice,,08/30/2018,,14002.0,,Tension Breakers 91114279-01 Rev. A,,Boston Scientific de Costa Rica SRL:M3802,,Svc:Micro Molding,,"45,000.00",,0.379,,"17,055.00",,"74,852.50"
+582,,,,,,Invoice,,09/24/2018,,14030.0,,Tension Breakers 91114279-01 Rev. A,,Boston Scientific de Costa Rica SRL:M3802,,Svc:Micro Molding,,"75,000.00",,0.379,,"28,425.00",,"103,277.50"
+583,,,,,,Invoice,,10/25/2018,,14089.0,,Tension Breakers 91114279-01 Rev. A,,Boston Scientific de Costa Rica SRL:M3802,,Svc:Micro Molding,,"75,000.00",,0.379,,"28,425.00",,"131,702.50"
+584,,,,,,Invoice,,11/26/2018,,14135.0,,Tension Breakers 91114279-01 Rev. A,,Boston Scientific de Costa Rica SRL:M3802,,Svc:Micro Molding,,"75,000.00",,0.379,,"28,425.00",,"160,127.50"
+585,,,,,,Invoice,,12/26/2018,,14188.0,,Tension Breakers 91114279-01 Rev. A,,Boston Scientific de Costa Rica SRL:M3802,,Svc:Micro Molding,,"125,000.00",,0.379,,"47,375.00",,"207,502.50"
+586,,,Total M3802,,,,,,,,,,,,,,,"547,500.00",,,,"207,502.50",,"207,502.50"
+587,,Total Boston Scientific de Costa Rica SRL,,,,,,,,,,,,,,,,"547,500.00",,,,"207,502.50",,"207,502.50"
+588,,Boston Scientific Limited-Galway,,,,,,,,,,,,,,,,,,,,,,
+589,,,M3756,,,,,,,,,,,,,,,,,,,,,
+590,,,,,,Credit Memo,,02/21/2018,,13724.0,,Credit issue for bank fees incurred during wire transfer,,Boston Scientific Limited-Galway:M3756,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,-25.00
+591,,,Total M3756,,,,,,,,,,,,,,,-1.00,,,,-25.00,,-25.00
+592,,,M3757,,,,,,,,,,,,,,,,,,,,,
+593,,,,,,Invoice,,02/21/2018,,13716.0,,Implant Retainer Hot Axios DWG # 00975-01 Rev. C,,Boston Scientific Limited-Galway:M3757,,Svc:Micro Molding,,"2,500.00",,1.429,,"3,572.50",,"3,572.50"
+594,,,,,,Credit Memo,,04/13/2018,,13792.0,,credit issued for bank fees incurred during wire transfer,,Boston Scientific Limited-Galway:M3757,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,"3,547.50"
+595,,,Total M3757,,,,,,,,,,,,,,,"2,499.00",,,,"3,547.50",,"3,547.50"
+596,,,M3906,,,,,,,,,,,,,,,,,,,,,
+597,,,,,,Invoice,,04/23/2018,,13803.0,,Implant Retainer Hot Axios,,Boston Scientific Limited-Galway:M3906,,Svc:Micro Molding,,"6,000.00",,1.429,,"8,574.00",,"8,574.00"
+598,,,,,,Credit Memo,,06/12/2018,,13893.0,,Credit issued for fees incurred during wire transfer,,Boston Scientific Limited-Galway:M3906,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,"8,549.00"
+599,,,Total M3906,,,,,,,,,,,,,,,"5,999.00",,,,"8,549.00",,"8,549.00"
+600,,,M4023,,,,,,,,,,,,,,,,,,,,,
+601,,,,,,Invoice,,09/04/2018,,14006.0,,Implant Retainer Hot Axios 00975-01 Rev. C,,Boston Scientific Limited-Galway:M4023,,Svc:Micro Molding,,"6,000.00",,1.429,,"8,574.00",,"8,574.00"
+602,,,,,,Credit Memo,,10/29/2018,,14096.0,,bank fees incurred during wire transfer,,Boston Scientific Limited-Galway:M4023,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,"8,549.00"
+603,,,Total M4023,,,,,,,,,,,,,,,"5,999.00",,,,"8,549.00",,"8,549.00"
+604,,Total Boston Scientific Limited-Galway,,,,,,,,,,,,,,,,"14,496.00",,,,"20,620.50",,"20,620.50"
+605,,Civa Tech Oncology,,,,,,,,,,,,,,,,,,,,,,
+606,,,M4022,,,,,,,,,,,,,,,,,,,,,
+607,,,,,,Invoice,,09/05/2018,,14013.0,,CivaDot molding (PEEK bucket) CSH-260.2,,Civa Tech Oncology:M4022,,Svc:Micro Molding,,"5,000.00",,2.493,,"12,465.00",,"12,465.00"
+608,,,,,,Invoice,,10/05/2018,,14044.0,,CivaDot molding (PEEK bucket) CSH-260.2,,Civa Tech Oncology:M4022,,Svc:Micro Molding,,"5,000.00",,2.493,,"12,465.00",,"24,930.00"
+609,,,Total M4022,,,,,,,,,,,,,,,"10,000.00",,,,"24,930.00",,"24,930.00"
+610,,Total Civa Tech Oncology,,,,,,,,,,,,,,,,"10,000.00",,,,"24,930.00",,"24,930.00"
+611,,ConMed Linvatec,,,,,,,,,,,,,,,,,,,,,,
+612,,,M3808,,,,,,,,,,,,,,,,,,,,,
+613,,,,,,Invoice,,01/19/2018,,13659.0,,1.8 mm Suture Cleat A71-023-406 Rev. AK,,ConMed Linvatec:M3808,,Svc:Micro Molding,,"4,000.00",,2.194,,"8,776.00",,"8,776.00"
+614,,,,,,Invoice,,01/26/2018,,13662.0,,1.8 mm Suture Cleat A71-023-406 Rev. AK,,ConMed Linvatec:M3808,,Svc:Micro Molding,,"2,000.00",,2.194,,"4,388.00",,"13,164.00"
+615,,,Total M3808,,,,,,,,,,,,,,,"6,000.00",,,,"13,164.00",,"13,164.00"
+616,,,M3811,,,,,,,,,,,,,,,,,,,,,
+617,,,,,,Invoice,,01/26/2018,,13663.0,,1.8mm Suture Cleat A71-023-406 Rev AK,,ConMed Linvatec:M3811,,Svc:Micro Molding,,"6,000.00",,2.194,,"13,164.00",,"13,164.00"
+618,,,Total M3811,,,,,,,,,,,,,,,"6,000.00",,,,"13,164.00",,"13,164.00"
+619,,,M3812,,,,,,,,,,,,,,,,,,,,,
+620,,,,,,Invoice,,02/09/2018,,13690.0,,1.8mm Suture cleat A17-023-406 Rev AK,,ConMed Linvatec:M3812,,Svc:Micro Molding,,"6,000.00",,2.194,,"13,164.00",,"13,164.00"
+621,,,Total M3812,,,,,,,,,,,,,,,"6,000.00",,,,"13,164.00",,"13,164.00"
+622,,,M3813,,,,,,,,,,,,,,,,,,,,,
+623,,,,,,Invoice,,02/16/2018,,13707.0,,1.8mm Suture cleat A17-023-406 Rev AK,,ConMed Linvatec:M3813,,Svc:Micro Molding,,"6,000.00",,2.194,,"13,164.00",,"13,164.00"
+624,,,Total M3813,,,,,,,,,,,,,,,"6,000.00",,,,"13,164.00",,"13,164.00"
+625,,,M3814,,,,,,,,,,,,,,,,,,,,,
+626,,,,,,Invoice,,02/16/2018,,13708.0,,1.8mm Suture cleat A17-023-406 Rev AK,,ConMed Linvatec:M3814,,Svc:Micro Molding,,"6,000.00",,2.194,,"13,164.00",,"13,164.00"
+627,,,Total M3814,,,,,,,,,,,,,,,"6,000.00",,,,"13,164.00",,"13,164.00"
+628,,,M3850,,,,,,,,,,,,,,,,,,,,,
+629,,,,,,Invoice,,02/22/2018,,13725.0,,Perform DOE Study for Suture Cleat,,ConMed Linvatec:M3850,,Svc:Micro Molding,,1.00,,"12,250.00",,"12,250.00",,"12,250.00"
+630,,,Total M3850,,,,,,,,,,,,,,,1.00,,,,"12,250.00",,"12,250.00"
+631,,,M3867,,,,,,,,,,,,,,,,,,,,,
+632,,,,,,Invoice,,02/16/2018,,13709.0,,1.8 mm Suture Cleat,,ConMed Linvatec:M3867,,Svc:Micro Molding,,"5,500.00",,2.194,,"12,067.00",,"12,067.00"
+633,,,Total M3867,,,,,,,,,,,,,,,"5,500.00",,,,"12,067.00",,"12,067.00"
+634,,,M3920,,,,,,,,,,,,,,,,,,,,,
+635,,,,,,Invoice,,04/06/2018,,13777.0,,Suture Cleat 1.8 mm,,ConMed Linvatec:M3920,,Svc:Micro Molding,,"7,150.00",,2.054,,"14,686.10",,"14,686.10"
+636,,,Total M3920,,,,,,,,,,,,,,,"7,150.00",,,,"14,686.10",,"14,686.10"
+637,,,M3921,,,,,,,,,,,,,,,,,,,,,
+638,,,,,,Invoice,,04/20/2018,,13797.0,,Suture Cleat 1.8 mm,,ConMed Linvatec:M3921,,Svc:Micro Molding,,"7,150.00",,2.054,,"14,686.10",,"14,686.10"
+639,,,Total M3921,,,,,,,,,,,,,,,"7,150.00",,,,"14,686.10",,"14,686.10"
+640,,,M3922,,,,,,,,,,,,,,,,,,,,,
+641,,,,,,Invoice,,05/04/2018,,13826.0,,Suture Cleat 1.8 mm,,ConMed Linvatec:M3922,,Svc:Micro Molding,,"7,150.00",,2.054,,"14,686.10",,"14,686.10"
+642,,,Total M3922,,,,,,,,,,,,,,,"7,150.00",,,,"14,686.10",,"14,686.10"
+643,,,M3923,,,,,,,,,,,,,,,,,,,,,
+644,,,,,,Invoice,,05/18/2018,,13849.0,,Suture Cleat 1.8 mm,,ConMed Linvatec:M3923,,Svc:Micro Molding,,"7,150.00",,2.054,,"14,686.10",,"14,686.10"
+645,,,Total M3923,,,,,,,,,,,,,,,"7,150.00",,,,"14,686.10",,"14,686.10"
+646,,,M3924,,,,,,,,,,,,,,,,,,,,,
+647,,,,,,Invoice,,05/31/2018,,13867.0,,Suture Cleat 1.8 mm,,ConMed Linvatec:M3924,,Svc:Micro Molding,,"7,150.00",,2.054,,"14,686.10",,"14,686.10"
+648,,,Total M3924,,,,,,,,,,,,,,,"7,150.00",,,,"14,686.10",,"14,686.10"
+649,,,M3925,,,,,,,,,,,,,,,,,,,,,
+650,,,,,,Invoice,,07/05/2018,,13924.0,,Suture Cleat 1.8 mm,,ConMed Linvatec:M3925,,Svc:Micro Molding,,"7,150.00",,2.054,,"14,686.10",,"14,686.10"
+651,,,Total M3925,,,,,,,,,,,,,,,"7,150.00",,,,"14,686.10",,"14,686.10"
+652,,,M3926,,,,,,,,,,,,,,,,,,,,,
+653,,,,,,Invoice,,07/05/2018,,13925.0,,Suture Cleat 1.8 mm,,ConMed Linvatec:M3926,,Svc:Micro Molding,,"7,100.00",,2.054,,"14,583.40",,"14,583.40"
+654,,,Total M3926,,,,,,,,,,,,,,,"7,100.00",,,,"14,583.40",,"14,583.40"
+655,,,M4049,,,,,,,,,,,,,,,,,,,,,
+656,,,,,,Invoice,,09/28/2018,,14035.0,,Suture Cleat A71-023-406 Rev. AL,,ConMed Linvatec:M4049,,Svc:Micro Molding,,300.00,,2.452,,735.60,,735.60
+657,,,,,,Invoice,,10/05/2018,,14053.0,,Suture Cleat A71-023-406 Rev. AL,,ConMed Linvatec:M4049,,Svc:Micro Molding,,"6,700.00",,2.452,,"16,428.40",,"17,164.00"
+658,,,Total M4049,,,,,,,,,,,,,,,"7,000.00",,,,"17,164.00",,"17,164.00"
+659,,,M4050,,,,,,,,,,,,,,,,,,,,,
+660,,,,,,Invoice,,11/21/2018,,14129.0,,Suture Cleat A71-023-406 Rev. AL,,ConMed Linvatec:M4050,,Svc:Micro Molding,,"7,000.00",,2.452,,"17,164.00",,"17,164.00"
+661,,,Total M4050,,,,,,,,,,,,,,,"7,000.00",,,,"17,164.00",,"17,164.00"
+662,,,M4051,,,,,,,,,,,,,,,,,,,,,
+663,,,,,,Invoice,,10/26/2018,,14091.0,,Suture Cleat A71-023-406 Rev. AL,,ConMed Linvatec:M4051,,Svc:Micro Molding,,"7,000.00",,2.452,,"17,164.00",,"17,164.00"
+664,,,Total M4051,,,,,,,,,,,,,,,"7,000.00",,,,"17,164.00",,"17,164.00"
+665,,,M4086,,,,,,,,,,,,,,,,,,,,,
+666,,,,,,Invoice,,12/06/2018,,14165.0,,A71-023-406 Rev. AL 1.8 mm Suture Cleats,,ConMed Linvatec:M4086,,Svc:Micro Molding,,"7,000.00",,2.452,,"17,164.00",,"17,164.00"
+667,,,Total M4086,,,,,,,,,,,,,,,"7,000.00",,,,"17,164.00",,"17,164.00"
+668,,,M4087,,,,,,,,,,,,,,,,,,,,,
+669,,,,,,Invoice,,12/21/2018,,14177.0,,A71-023-406 Rev. AL 1.8 mm Suture Cleats,,ConMed Linvatec:M4087,,Svc:Micro Molding,,"7,000.00",,2.452,,"17,164.00",,"17,164.00"
+670,,,Total M4087,,,,,,,,,,,,,,,"7,000.00",,,,"17,164.00",,"17,164.00"
+671,,,M4088,,,,,,,,,,,,,,,,,,,,,
+672,,,,,,Invoice,,12/28/2018,,14189.0,,A71-023-406 Rev. AL 1.8 mm Suture Cleats,,ConMed Linvatec:M4088,,Svc:Micro Molding,,"7,000.00",,2.452,,"17,164.00",,"17,164.00"
+673,,,Total M4088,,,,,,,,,,,,,,,"7,000.00",,,,"17,164.00",,"17,164.00"
+674,,Total ConMed Linvatec,,,,,,,,,,,,,,,,"127,501.00",,,,"295,821.00",,"295,821.00"
+675,,Covidien,,,,,,,,,,,,,,,,,,,,,,
+676,,,8471,,,,,,,,,,,,,,,,,,,,,
+677,,,,,,Invoice,,01/12/2018,,13641.0,,D75799-3 and D75799-4 Hinge Inserts for L7tool. (25) samples for each material,,Covidien:8471,,Svc:Molds Misc,,0.50,,"17,590.00",,"8,795.00",,"8,795.00"
+678,,,Total 8471,,,,,,,,,,,,,,,0.50,,,,"8,795.00",,"8,795.00"
+679,,,8476,,,,,,,,,,,,,,,,,,,,,
+680,,,,,,Invoice,,01/31/2018,,13678.0,,Inserts in MTD owned frame to produce Polymer Clip 3D cad file (d75799_L7) using Ultem material....,,Covidien:8476,,Svc:Micro Molding,,0.50,,"52,170.00",,"26,085.00",,"26,085.00"
+681,,,,,,Invoice,,02/02/2018,,13682.0,,Inserts in MTD owned frame to produce Polymer Clip 3D cad file (d75799_L7) using Ultem material....,,Covidien:8476,,Svc:Micro Molding,,0.50,,"52,170.00",,"26,085.00",,"52,170.00"
+682,,,Total 8476,,,,,,,,,,,,,,,1.00,,,,"52,170.00",,"52,170.00"
+683,,,M3774,,,,,,,,,,,,,,,,,,,,,
+684,,,,,,Invoice,,01/12/2018,,13646.0,,"Inspection summary for Polymer Clip for (3) pieces Ultem CT scan, (3) pieces Acetal CT scan, bri...",,Covidien:M3774,,Svc:Micro Molding,,1.00,,"3,150.00",,"3,150.00",,"3,150.00"
+685,,,Total M3774,,,,,,,,,,,,,,,1.00,,,,"3,150.00",,"3,150.00"
+686,,,M3805,,,,,,,,,,,,,,,,,,,,,
+687,,,,,,Invoice,,02/02/2018,,13686.0,,Process development/MT2 for 1 material type (500) Progress Samples,,Covidien:M3805,,Svc:Micro Molding,,1.00,,"7,520.00",,"7,520.00",,"7,520.00"
+688,,,Total M3805,,,,,,,,,,,,,,,1.00,,,,"7,520.00",,"7,520.00"
+689,,,M3840,,,,,,,,,,,,,,,,,,,,,
+690,,,,,,Invoice,,02/09/2018,,13698.0,,"(2,000) MT2 Samples L7 Mold Ultem Material",,Covidien:M3840,,Svc:Mico Molds/Micromolding,,1.00,,"9,945.00",,"9,945.00",,"9,945.00"
+691,,,Total M3840,,,,,,,,,,,,,,,1.00,,,,"9,945.00",,"9,945.00"
+692,,,M3863,,,,,,,,,,,,,,,,,,,,,
+693,,,,,,Invoice,,02/09/2018,,13699.0,,"(2,000) White Ultem Material Samples for L7 Polymer Clip",,Covidien:M3863,,Svc:Micro Molding,,1.00,,"6,920.00",,"6,920.00",,"6,920.00"
+694,,,Total M3863,,,,,,,,,,,,,,,1.00,,,,"6,920.00",,"6,920.00"
+695,,,M3960,,,,,,,,,,,,,,,,,,,,,
+696,,,,,,Invoice,,06/08/2018,,13882.0,,"1077881 Rev. D Tack, Long Absorbatack",,Covidien:M3960,,Svc:Micro Molding,,"38,216.00",,0.723,,"27,630.17",,"27,630.17"
+697,,,Total M3960,,,,,,,,,,,,,,,"38,216.00",,,,"27,630.17",,"27,630.17"
+698,,,M3968,,,,,,,,,,,,,,,,,,,,,
+699,,,,,,Invoice,,06/08/2018,,13881.0,,Tack Long Absorbatack PN1077881 Rev D,,Covidien:M3968,,Svc:Micro Molding,,"41,784.00",,0.723,,"30,209.83",,"30,209.83"
+700,,,Total M3968,,,,,,,,,,,,,,,"41,784.00",,,,"30,209.83",,"30,209.83"
+701,,,M3980,,,,,,,,,,,,,,,,,,,,,
+702,,,,,,Invoice,,06/22/2018,,13904.0,,"Tack, Long Absorbatack 1077881 Rev. D DWG 3026416 Rev. D",,Covidien:M3980,,Svc:Micro Molding,,"80,000.00",,0.723,,"57,840.00",,"57,840.00"
+703,,,Total M3980,,,,,,,,,,,,,,,"80,000.00",,,,"57,840.00",,"57,840.00"
+704,,,M3987,,,,,,,,,,,,,,,,,,,,,
+705,,,,,,Invoice,,06/29/2018,,13913.0,,"Tack, Long, Absorbatack 1077881 Rev. D",,Covidien:M3987,,Svc:Micro Molding,,"80,000.00",,0.723,,"57,840.00",,"57,840.00"
+706,,,Total M3987,,,,,,,,,,,,,,,"80,000.00",,,,"57,840.00",,"57,840.00"
+707,,,M3993,,,,,,,,,,,,,,,,,,,,,
+708,,,,,,Invoice,,07/13/2018,,13935.0,,"Long, Tack Absorbatack 1077881 Rev D",,Covidien:M3993,,Svc:Mico Molds/Micromolding,,"80,000.00",,0.723,,"57,840.00",,"57,840.00"
+709,,,Total M3993,,,,,,,,,,,,,,,"80,000.00",,,,"57,840.00",,"57,840.00"
+710,,,M3994,,,,,,,,,,,,,,,,,,,,,
+711,,,,,,Invoice,,07/31/2018,,13955.0,,"Tack, Long Absorbatack 1077881",,Covidien:M3994,,Svc:Micro Molding,,"40,474.00",,0.723,,"29,262.70",,"29,262.70"
+712,,,Total M3994,,,,,,,,,,,,,,,"40,474.00",,,,"29,262.70",,"29,262.70"
+713,,,M3995,,,,,,,,,,,,,,,,,,,,,
+714,,,,,,Invoice,,07/31/2018,,13956.0,,"Tack, Long Absorbatack 1077881",,Covidien:M3995,,Svc:Micro Molding,,"39,506.00",,0.723,,"28,562.84",,"28,562.84"
+715,,,Total M3995,,,,,,,,,,,,,,,"39,506.00",,,,"28,562.84",,"28,562.84"
+716,,,M4061,,,,,,,,,,,,,,,,,,,,,
+717,,,,,,Invoice,,09/28/2018,,14041.0,,"1077881 Rev. D Tack, Long, Absorbatack",,Covidien:M4061,,Svc:Micro Molding,,"72,006.00",,0.723,,"52,060.34",,"52,060.34"
+718,,,Total M4061,,,,,,,,,,,,,,,"72,006.00",,,,"52,060.34",,"52,060.34"
+719,,,M4062,,,,,,,,,,,,,,,,,,,,,
+720,,,,,,Invoice,,09/28/2018,,14042.0,,"1077881 Rev. D Tack, Long, Absorbatack",,Covidien:M4062,,Svc:Micro Molding,,"7,994.00",,0.723,,"5,779.66",,"5,779.66"
+721,,,Total M4062,,,,,,,,,,,,,,,"7,994.00",,,,"5,779.66",,"5,779.66"
+722,,,M4063,,,,,,,,,,,,,,,,,,,,,
+723,,,,,,Invoice,,10/26/2018,,14085.0,,"1077881 Rev. D Tack, Long, Absorbatack",,Covidien:M4063,,Svc:Micro Molding,,"48,021.00",,0.723,,"34,719.18",,"34,719.18"
+724,,,Total M4063,,,,,,,,,,,,,,,"48,021.00",,,,"34,719.18",,"34,719.18"
+725,,,M4068,,,,,,,,,,,,,,,,,,,,,
+726,,,,,,Invoice,,10/26/2018,,14086.0,,"1077881 Rev. D Tack, Long, Absorbatack",,Covidien:M4068,,Svc:Micro Molding,,"31,970.00",,0.723,,"23,114.31",,"23,114.31"
+727,,,Total M4068,,,,,,,,,,,,,,,"31,970.00",,,,"23,114.31",,"23,114.31"
+728,,,M4069,,,,,,,,,,,,,,,,,,,,,
+729,,,,,,Invoice,,11/08/2018,,14114.0,,"1077881 Rev. D Tack, Long, Absorbatack",,Covidien:M4069,,Svc:Micro Molding,,"32,087.00",,0.723,,"23,198.90",,"23,198.90"
+730,,,Total M4069,,,,,,,,,,,,,,,"32,087.00",,,,"23,198.90",,"23,198.90"
+731,,,M4070,,,,,,,,,,,,,,,,,,,,,
+732,,,,,,Invoice,,11/08/2018,,14115.0,,"1077881 Rev. D Tack, Long, Absorbatack",,Covidien:M4070,,Svc:Micro Molding,,"47,913.00",,0.723,,"34,641.10",,"34,641.10"
+733,,,Total M4070,,,,,,,,,,,,,,,"47,913.00",,,,"34,641.10",,"34,641.10"
+734,,,M4073,,,,,,,,,,,,,,,,,,,,,
+735,,,,,,Invoice,,12/06/2018,,14159.0,,"1077881 Rev. D Tack, Long, Absorbatack",,Covidien:M4073,,Svc:Micro Molding,,"80,000.00",,0.723,,"57,840.00",,"57,840.00"
+736,,,Total M4073,,,,,,,,,,,,,,,"80,000.00",,,,"57,840.00",,"57,840.00"
+737,,,M4121,,,,,,,,,,,,,,,,,,,,,
+738,,,,,,Invoice,,12/13/2018,,14173.0,,"1077881 Rev. D Tack, Long, Absorbatack",,Covidien:M4121,,Svc:Micro Molding,,"80,000.00",,0.723,,"57,840.00",,"57,840.00"
+739,,,Total M4121,,,,,,,,,,,,,,,"80,000.00",,,,"57,840.00",,"57,840.00"
+740,,Total Covidien,,,,,,,,,,,,,,,,"799,976.50",,,,"666,879.03",,"666,879.03"
+741,,"Cyndrx, LLC",,,,,,,,,,,,,,,,,,,,,,
+742,,,8489,,,,,,,,,,,,,,,,,,,,,
+743,,,,,,Invoice,,03/23/2018,,13759.0,,Modify existing inserts to modify break feature of distal seal to .32 mm. Includes (200) progres...,,"Cyndrx, LLC:8489",,Svc:Molds Misc,,1.00,,"8,500.00",,"8,500.00",,"8,500.00"
+744,,,Total 8489,,,,,,,,,,,,,,,1.00,,,,"8,500.00",,"8,500.00"
+745,,,M3893,,,,,,,,,,,,,,,,,,,,,
+746,,,,,,Invoice,,03/16/2018,,13756.0,,Floating Foot DWG ABS-0021,,"Cyndrx, LLC:M3893",,Svc:Micro Molding,,"1,000.00",,9.75,,"9,750.00",,"9,750.00"
+747,,,Total M3893,,,,,,,,,,,,,,,"1,000.00",,,,"9,750.00",,"9,750.00"
+748,,,M3894,,,,,,,,,,,,,,,,,,,,,
+749,,,,,,Invoice,,03/16/2018,,13755.0,,Proximal Seal DWG ABS-0017,,"Cyndrx, LLC:M3894",,Svc:Micro Molding,,"1,000.00",,9.75,,"9,750.00",,"9,750.00"
+750,,,Total M3894,,,,,,,,,,,,,,,"1,000.00",,,,"9,750.00",,"9,750.00"
+751,,,M3956,,,,,,,,,,,,,,,,,,,,,
+752,,,,,,Invoice,,05/31/2018,,13866.0,,Distal Seal ABS-0009 Rev. 4-Set up current Distal Seal tooling to run (800) parts from existing ...,,"Cyndrx, LLC:M3956",,Svc:Micro Molding,,1.00,,"9,996.00",,"9,996.00",,"9,996.00"
+753,,,Total M3956,,,,,,,,,,,,,,,1.00,,,,"9,996.00",,"9,996.00"
+754,,,M4093,,,,,,,,,,,,,,,,,,,,,
+755,,,,,,Invoice,,11/15/2018,,14117.0,,ABS-0017 Rev. 0 Proximal Seal,,"Cyndrx, LLC:M4093",,Svc:Micro Molding,,"1,000.00",,9.745,,"9,745.00",,"9,745.00"
+756,,,Total M4093,,,,,,,,,,,,,,,"1,000.00",,,,"9,745.00",,"9,745.00"
+757,,,M4094,,,,,,,,,,,,,,,,,,,,,
+758,,,,,,Invoice,,11/15/2018,,14118.0,,Floating Foot-includes laser marking,,"Cyndrx, LLC:M4094",,Svc:Micro Molding,,"1,000.00",,9.564,,"9,564.00",,"9,564.00"
+759,,,Total M4094,,,,,,,,,,,,,,,"1,000.00",,,,"9,564.00",,"9,564.00"
+760,,,M4095,,,,,,,,,,,,,,,,,,,,,
+761,,,,,,Invoice,,11/15/2018,,14119.0,,ABS-0009 Rev. 4 Distal Seals,,"Cyndrx, LLC:M4095",,Svc:Micro Molding,,"1,000.00",,9.953,,"9,953.00",,"9,953.00"
+762,,,Total M4095,,,,,,,,,,,,,,,"1,000.00",,,,"9,953.00",,"9,953.00"
+763,,"Total Cyndrx, LLC",,,,,,,,,,,,,,,,"5,002.00",,,,"67,258.00",,"67,258.00"
+764,,Endogastric Solutions,,,,,,,,,,,,,,,,,,,,,,
+765,,,M3790,,,,,,,,,,,,,,,,,,,,,
+766,,,,,,Invoice,,01/26/2018,,13667.0,,Fastener 7.5 mm C02002-02 Rev. E,,Endogastric Solutions:M3790,,Svc:Micro Molding,,"10,000.00",,0.91,,"9,100.00",,"9,100.00"
+767,,,,,,Invoice,,02/22/2018,,13719.0,,Fastener 7.5 mm C02002-02 Rev. E,,Endogastric Solutions:M3790,,Svc:Micro Molding,,"10,000.00",,0.91,,"9,100.00",,"18,200.00"
+768,,,,,,Invoice,,03/23/2018,,13760.0,,Fastener 7.5 mm C02002-02 Rev. E,,Endogastric Solutions:M3790,,Svc:Micro Molding,,"10,000.00",,0.91,,"9,100.00",,"27,300.00"
+769,,,Total M3790,,,,,,,,,,,,,,,"30,000.00",,,,"27,300.00",,"27,300.00"
+770,,,M3916,,,,,,,,,,,,,,,,,,,,,
+771,,,,,,Invoice,,05/31/2018,,13862.0,,C02002-02 Rev. E Fasteners 7.5 mm,,Endogastric Solutions:M3916,,Svc:Micro Molding,,"2,000.00",,0.91,,"1,820.00",,"1,820.00"
+772,,,,,,Invoice,,06/08/2018,,13887.0,,C02002-02 Rev. E Fasteners 7.5 mm,,Endogastric Solutions:M3916,,Svc:Micro Molding,,"18,000.00",,0.91,,"16,380.00",,"18,200.00"
+773,,,Total M3916,,,,,,,,,,,,,,,"20,000.00",,,,"18,200.00",,"18,200.00"
+774,,,M3917,,,,,,,,,,,,,,,,,,,,,
+775,,,,,,Invoice,,06/08/2018,,13888.0,,C02002-02 Rev. E Fasteners 7.5 mm,,Endogastric Solutions:M3917,,Svc:Micro Molding,,"20,000.00",,0.91,,"18,200.00",,"18,200.00"
+776,,,Total M3917,,,,,,,,,,,,,,,"20,000.00",,,,"18,200.00",,"18,200.00"
+777,,,M3918,,,,,,,,,,,,,,,,,,,,,
+778,,,,,,Invoice,,06/22/2018,,13903.0,,C02002-02 Rev. E Fasteners 7.5 mm,,Endogastric Solutions:M3918,,Svc:Micro Molding,,"20,000.00",,0.91,,"18,200.00",,"18,200.00"
+779,,,Total M3918,,,,,,,,,,,,,,,"20,000.00",,,,"18,200.00",,"18,200.00"
+780,,,M4054,,,,,,,,,,,,,,,,,,,,,
+781,,,,,,Invoice,,09/28/2018,,14037.0,,Fastener 7.5mm C02002-02 Rev E,,Endogastric Solutions:M4054,,Svc:Micro Molding,,"20,000.00",,0.91,,"18,200.00",,"18,200.00"
+782,,,Total M4054,,,,,,,,,,,,,,,"20,000.00",,,,"18,200.00",,"18,200.00"
+783,,,M4055,,,,,,,,,,,,,,,,,,,,,
+784,,,,,,Invoice,,10/26/2018,,14092.0,,Fastener 7.5mm C02002-02 Rev E,,Endogastric Solutions:M4055,,Svc:Micro Molding,,"20,000.00",,0.91,,"18,200.00",,"18,200.00"
+785,,,Total M4055,,,,,,,,,,,,,,,"20,000.00",,,,"18,200.00",,"18,200.00"
+786,,Total Endogastric Solutions,,,,,,,,,,,,,,,,"130,000.00",,,,"118,300.00",,"118,300.00"
+787,,Engineered Products Inc.,,,,,,,,,,,,,,,,,,,,,,
+788,,,8522,,,,,,,,,,,,,,,,,,,,,
+789,,,,,,Invoice,,10/19/2018,,14075.0,,Overmolding Trial with MTD owned test inserts.  10 Samples per material-chronoflex and grilamid,,Engineered Products Inc.:8522,,Svc:Micro Molds,,1.00,,"5,000.00",,"5,000.00",,"5,000.00"
+790,,,Total 8522,,,,,,,,,,,,,,,1.00,,,,"5,000.00",,"5,000.00"
+791,,Total Engineered Products Inc.,,,,,,,,,,,,,,,,1.00,,,,"5,000.00",,"5,000.00"
+792,,"FibroGen, Inc.",,,,,,,,,,,,,,,,,,,,,,
+793,,,8477,,,,,,,,,,,,,,,,,,,,,
+794,,,,,,Invoice,,01/12/2018,,13633.0,,"Visit GFE to evaluate tooling, disassembly of tooling and packaging, assembly of tooling & IQ of...",,"FibroGen, Inc.:8477",,Svc:Micro Molds,,0.50,,"7,500.00",,"3,750.00",,"3,750.00"
+795,,,Total 8477,,,,,,,,,,,,,,,0.50,,,,"3,750.00",,"3,750.00"
+796,,,M3809,,,,,,,,,,,,,,,,,,,,,
+797,,,,,,Invoice,,02/16/2018,,13710.0,,"Process development/MT2 for (1) material type for Micron Lens (32) Progress Samples, summary rep...",,"FibroGen, Inc.:M3809",,Svc:Micro Molding,,1.00,,"7,360.00",,"7,360.00",,"7,360.00"
+798,,,Total M3809,,,,,,,,,,,,,,,1.00,,,,"7,360.00",,"7,360.00"
+799,,"Total FibroGen, Inc.",,,,,,,,,,,,,,,,1.50,,,,"11,110.00",,"11,110.00"
+800,,Fresenius Medical,,,,,,,,,,,,,,,,,,,,,,
+801,,,M3653,,,,,,,,,,,,,,,,,,,,,
+802,,,,,,Invoice,,02/09/2018,,13697.0,,#280465 Rev. 1,,Fresenius Medical:M3653,,Svc:Micro Molding,,1.00,,"5,870.00",,"5,870.00",,"5,870.00"
+803,,,Total M3653,,,,,,,,,,,,,,,1.00,,,,"5,870.00",,"5,870.00"
+804,,Total Fresenius Medical,,,,,,,,,,,,,,,,1.00,,,,"5,870.00",,"5,870.00"
+805,,Freudenberg Medical,,,,,,,,,,,,,,,,,,,,,,
+806,,,M3758,,,,,,,,,,,,,,,,,,,,,
+807,,,,,,Invoice,,01/05/2018,,13629.0,,Tension Breaker PN1002049 Rev B,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"8,080.00"
+808,,,,,,Invoice,,01/19/2018,,13652.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"16,160.00"
+809,,,,,,Invoice,,01/31/2018,,13676.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"24,240.00"
+810,,,,,,Invoice,,02/09/2018,,13689.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"32,320.00"
+811,,,,,,Invoice,,02/16/2018,,13706.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"40,400.00"
+812,,,,,,Invoice,,02/22/2018,,13722.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"48,480.00"
+813,,,,,,Invoice,,03/02/2018,,13736.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"56,560.00"
+814,,,,,,Invoice,,03/09/2018,,13748.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"64,640.00"
+815,,,,,,Invoice,,03/16/2018,,13758.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"72,720.00"
+816,,,,,,Invoice,,03/23/2018,,13765.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"80,800.00"
+817,,,,,,Invoice,,04/06/2018,,13780.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"88,880.00"
+818,,,,,,Invoice,,04/13/2018,,13787.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"96,960.00"
+819,,,,,,Invoice,,04/27/2018,,13811.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"105,040.00"
+820,,,,,,Invoice,,04/30/2018,,13821.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"113,120.00"
+821,,,,,,Invoice,,05/11/2018,,13835.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"121,200.00"
+822,,,,,,Invoice,,05/18/2018,,13845.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"129,280.00"
+823,,,,,,Invoice,,05/24/2018,,13859.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"137,360.00"
+824,,,,,,Invoice,,06/08/2018,,13873.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"145,440.00"
+825,,,,,,Invoice,,06/08/2018,,13884.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"153,520.00"
+826,,,,,,Invoice,,06/15/2018,,13898.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"161,600.00"
+827,,,,,,Invoice,,06/29/2018,,13914.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"169,680.00"
+828,,,,,,Invoice,,07/13/2018,,13938.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"177,760.00"
+829,,,,,,Invoice,,07/13/2018,,13945.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"185,840.00"
+830,,,,,,Invoice,,07/26/2018,,13949.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"193,920.00"
+831,,,,,,Invoice,,08/02/2018,,13965.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"202,000.00"
+832,,,,,,Invoice,,08/10/2018,,13977.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"210,080.00"
+833,,,,,,Invoice,,08/17/2018,,13985.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"218,160.00"
+834,,,,,,Invoice,,08/31/2018,,13996.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"226,240.00"
+835,,,,,,Invoice,,09/07/2018,,14008.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"234,320.00"
+836,,,,,,Invoice,,09/14/2018,,14026.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"242,400.00"
+837,,,,,,Invoice,,09/28/2018,,14032.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"250,480.00"
+838,,,,,,Invoice,,10/05/2018,,14045.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"258,560.00"
+839,,,,,,Invoice,,10/12/2018,,14062.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"266,640.00"
+840,,,,,,Invoice,,10/12/2018,,14064.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"274,720.00"
+841,,,,,,Invoice,,10/26/2018,,14087.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"282,800.00"
+842,,,,,,Invoice,,11/01/2018,,14101.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"40,000.00",,0.202,,"8,080.00",,"290,880.00"
+843,,,,,,Invoice,,11/08/2018,,14112.0,,Tension Breaker PN1002049,,Freudenberg Medical:M3758,,Svc:Micro Molding,,"30,000.00",,0.202,,"6,060.00",,"296,940.00"
+844,,,Total M3758,,,,,,,,,,,,,,,"1,470,000.00",,,,"296,940.00",,"296,940.00"
+845,,,M4097,,,,,,,,,,,,,,,,,,,,,
+846,,,,,,Invoice,,11/15/2018,,14127.0,,1002049 Rev. B Tension Breaker,,Freudenberg Medical:M4097,,Svc:Micro Molding,,"50,000.00",,0.199,,"9,950.00",,"9,950.00"
+847,,,,,,Invoice,,11/29/2018,,14136.0,,1002049 Rev. B Tension Breaker,,Freudenberg Medical:M4097,,Svc:Micro Molding,,"50,000.00",,0.199,,"9,950.00",,"19,900.00"
+848,,,,,,Invoice,,12/13/2018,,14168.0,,1002049 Rev. B Tension Breaker,,Freudenberg Medical:M4097,,Svc:Micro Molding,,"50,000.00",,0.199,,"9,950.00",,"29,850.00"
+849,,,,,,Invoice,,12/21/2018,,14183.0,,1002049 Rev. B Tension Breaker,,Freudenberg Medical:M4097,,Svc:Micro Molding,,"50,000.00",,0.199,,"9,950.00",,"39,800.00"
+850,,,Total M4097,,,,,,,,,,,,,,,"200,000.00",,,,"39,800.00",,"39,800.00"
+851,,Total Freudenberg Medical,,,,,,,,,,,,,,,,"1,670,000.00",,,,"336,740.00",,"336,740.00"
+852,,Glaukos Corp,,,,,,,,,,,,,,,,,,,,,,
+853,,,M3806,,,,,,,,,,,,,,,,,,,,,
+854,,,,,,Invoice,,01/05/2018,,13628.0,,"Set up and run (1) customer supplied TPU material in MTD owned tooling, grind runners to produce...",,Glaukos Corp:M3806,,Svc:Micro Molding,,1.00,,"5,000.00",,"5,000.00",,"5,000.00"
+855,,,Total M3806,,,,,,,,,,,,,,,1.00,,,,"5,000.00",,"5,000.00"
+856,,Total Glaukos Corp,,,,,,,,,,,,,,,,1.00,,,,"5,000.00",,"5,000.00"
+857,,Impel Neuropharma,,,,,,,,,,,,,,,,,,,,,,
+858,,,M3835,,,,,,,,,,,,,,,,,,,,,
+859,,,,,,Invoice,,01/31/2018,,13675.0,,"(15,500 pcs.) Nozzle, Front Loaded",,Impel Neuropharma:M3835,,Svc:Micro Molding,,"15,500.00",,1.317,,"20,413.50",,"20,413.50"
+860,,,Total M3835,,,,,,,,,,,,,,,"15,500.00",,,,"20,413.50",,"20,413.50"
+861,,,M3849,,,,,,,,,,,,,,,,,,,,,
+862,,,,,,Invoice,,02/16/2018,,13705.0,,"(2,500) Nozzle Front Loaded 00138-01 Rev C",,Impel Neuropharma:M3849,,Svc:Mico Molds/Micromolding,,"2,500.00",,2.65,,"6,625.00",,"6,625.00"
+863,,,Total M3849,,,,,,,,,,,,,,,"2,500.00",,,,"6,625.00",,"6,625.00"
+864,,Total Impel Neuropharma,,,,,,,,,,,,,,,,"18,000.00",,,,"27,038.50",,"27,038.50"
+865,,Intersect ENT,,,,,,,,,,,,,,,,,,,,,,
+866,,,M3839,,,,,,,,,,,,,,,,,,,,,
+867,,,,,,Invoice,,02/16/2018,,13701.0,,IV Range Expansion Cap Ribbon Fiber DWG#00220,,Intersect ENT:M3839,,Svc:Micro Molding,,1.00,,"15,490.00",,"15,490.00",,"15,490.00"
+868,,,Total M3839,,,,,,,,,,,,,,,1.00,,,,"15,490.00",,"15,490.00"
+869,,,M3868,,,,,,,,,,,,,,,,,,,,,
+870,,,,,,Invoice,,03/02/2018,,13735.0,,"Cap, Ribbon Fiber S8",,Intersect ENT:M3868,,Svc:Micro Molding,,"2,000.00",,2.157,,"4,314.00",,"4,314.00"
+871,,,,,,Invoice,,03/16/2018,,13751.0,,"Cap, Ribbon Fiber S8",,Intersect ENT:M3868,,Svc:Micro Molding,,"12,300.00",,2.157,,"26,531.10",,"30,845.10"
+872,,,Total M3868,,,,,,,,,,,,,,,"14,300.00",,,,"30,845.10",,"30,845.10"
+873,,,M3905,,,,,,,,,,,,,,,,,,,,,
+874,,,,,,Invoice,,04/20/2018,,13806.0,,"Cap, Ribbon Fiber",,Intersect ENT:M3905,,Svc:Micro Molding,,"23,348.00",,2.054,,"47,956.79",,"47,956.79"
+875,,,Total M3905,,,,,,,,,,,,,,,"23,348.00",,,,"47,956.79",,"47,956.79"
+876,,,M3986,,,,,,,,,,,,,,,,,,,,,
+877,,,,,,Invoice,,12/13/2018,,14174.0,,"Cap, Ribbon Fiber, 00220 Rev. T",,Intersect ENT:M3986,,Svc:Micro Molding,,"20,000.00",,2.08,,"41,600.00",,"41,600.00"
+878,,,Total M3986,,,,,,,,,,,,,,,"20,000.00",,,,"41,600.00",,"41,600.00"
+879,,Total Intersect ENT,,,,,,,,,,,,,,,,"57,649.00",,,,"135,891.89",,"135,891.89"
+880,,L-3 Insight Technology,,,,,,,,,,,,,,,,,,,,,,
+881,,,M3782,,,,,,,,,,,,,,,,,,,,,
+882,,,,,,Invoice,,02/02/2018,,13685.0,,"Retainer, Lens, Visible Laser LAM-140",,L-3 Insight Technology:M3782,,Svc:Micro Molding,,"25,000.00",,0.597,,"14,925.00",,"14,925.00"
+883,,,Total M3782,,,,,,,,,,,,,,,"25,000.00",,,,"14,925.00",,"14,925.00"
+884,,,M3861,,,,,,,,,,,,,,,,,,,,,
+885,,,,,,Invoice,,04/06/2018,,13772.0,,"LAM-140 Retainer, Lens, Visible Laser",,L-3 Insight Technology:M3861,,Svc:Micro Molding,,"50,000.00",,0.597,,"29,850.00",,"29,850.00"
+886,,,Total M3861,,,,,,,,,,,,,,,"50,000.00",,,,"29,850.00",,"29,850.00"
+887,,,M4056,,,,,,,,,,,,,,,,,,,,,
+888,,,,,,Invoice,,10/19/2018,,14077.0,,"LAM-140 Rev 3 Retainer, Lens,Visible Laser",,L-3 Insight Technology:M4056,,Svc:Micro Molding,,"25,000.00",,0.597,,"14,925.00",,"14,925.00"
+889,,,Total M4056,,,,,,,,,,,,,,,"25,000.00",,,,"14,925.00",,"14,925.00"
+890,,Total L-3 Insight Technology,,,,,,,,,,,,,,,,"100,000.00",,,,"59,700.00",,"59,700.00"
+891,,"Laramed Solutions, Inc.",,,,,,,,,,,,,,,,,,,,,,
+892,,,M3941,,,,,,,,,,,,,,,,,,,,,
+893,,,,,,Invoice,,04/20/2018,,13809.0,,Versaflex material bought by MTD to be reimbursed by Laramed.  Unused resin to be sent to Laramed.,,"Laramed Solutions, Inc.:M3941",,Svc:Micro Molding,,1.00,,379.00,,379.00,,379.00
+894,,,Total M3941,,,,,,,,,,,,,,,1.00,,,,379.00,,379.00
+895,,"Total Laramed Solutions, Inc.",,,,,,,,,,,,,,,,1.00,,,,379.00,,379.00
+896,,"LayerBio, Inc.",,,,,,,,,,,,,,,,,,,,,,
+897,,,8516,,,,,,,,,,,,,,,,,,,,,
+898,,,,,,Invoice,,09/21/2018,,14029.0,,Micropill Fixture,,"LayerBio, Inc.:8516",,Svc:Micro Molds,,0.50,,"16,000.00",,"8,000.00",,"8,000.00"
+899,,,,,,Invoice,,10/12/2018,,14067.0,,Micropill Fixture,,"LayerBio, Inc.:8516",,Svc:Micro Molds,,0.50,,"16,000.00",,"8,000.00",,"16,000.00"
+900,,,Total 8516,,,,,,,,,,,,,,,1.00,,,,"16,000.00",,"16,000.00"
+901,,"Total LayerBio, Inc.",,,,,,,,,,,,,,,,1.00,,,,"16,000.00",,"16,000.00"
+902,,Lighthouse Imaging LLC,,,,,,,,,,,,,,,,,,,,,,
+903,,,M3842,,,,,,,,,,,,,,,,,,,,,
+904,,,,,,Invoice,,01/24/2018,,13668.0,,"(1,000) Optics Housing PN 8001686",,Lighthouse Imaging LLC:M3842,,Svc:Micro Molding,,"1,000.00",,7.807,,"7,807.00",,"7,807.00"
+905,,,Total M3842,,,,,,,,,,,,,,,"1,000.00",,,,"7,807.00",,"7,807.00"
+906,,,M3843,,,,,,,,,,,,,,,,,,,,,
+907,,,,,,Invoice,,01/24/2018,,13669.0,,"(1,000) LED Cover PN#8001687",,Lighthouse Imaging LLC:M3843,,Svc:Micro Molding,,"1,000.00",,6.391,,"6,391.00",,"6,391.00"
+908,,,Total M3843,,,,,,,,,,,,,,,"1,000.00",,,,"6,391.00",,"6,391.00"
+909,,,M4015,,,,,,,,,,,,,,,,,,,,,
+910,,,,,,Invoice,,07/31/2018,,13961.0,,VL2 Cable Cap 8001501 Rev. C,,Lighthouse Imaging LLC:M4015,,Svc:Micro Molding,,"5,000.00",,2.31,,"11,550.00",,"11,550.00"
+911,,,Total M4015,,,,,,,,,,,,,,,"5,000.00",,,,"11,550.00",,"11,550.00"
+912,,,M4071,,,,,,,,,,,,,,,,,,,,,
+913,,,,,,Invoice,,10/04/2018,,14049.0,,8001686 Rev. J Optics Housing,,Lighthouse Imaging LLC:M4071,,Svc:Micro Molding,,"1,500.00",,6.986,,"10,479.00",,"10,479.00"
+914,,,Total M4071,,,,,,,,,,,,,,,"1,500.00",,,,"10,479.00",,"10,479.00"
+915,,,M4072,,,,,,,,,,,,,,,,,,,,,
+916,,,,,,Invoice,,10/04/2018,,14050.0,,8001687 Rev. G LED Cover,,Lighthouse Imaging LLC:M4072,,Svc:Micro Molding,,"1,500.00",,5.471,,"8,206.50",,"8,206.50"
+917,,,Total M4072,,,,,,,,,,,,,,,"1,500.00",,,,"8,206.50",,"8,206.50"
+918,,Total Lighthouse Imaging LLC,,,,,,,,,,,,,,,,"10,000.00",,,,"44,433.50",,"44,433.50"
+919,,Microdul AG,,,,,,,,,,,,,,,,,,,,,,
+920,,,M3930,,,,,,,,,,,,,,,,,,,,,
+921,,,,,,Invoice,,04/20/2018,,13796.0,,Battery Cap 6040050965 Rev. A,,Microdul AG:M3930,,Svc:Micro Molding,,"1,100.00",,6.2827,,"6,910.97",,"6,910.97"
+922,,,,,,Invoice,,04/20/2018,,13796.0,,Shipping  ,,Microdul AG:M3930,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"6,920.97"
+923,,,,,,Credit Memo,,05/16/2018,,13853.0,,Shipping  ,,Microdul AG:M3930,,Freight (Shipping  ),,-1.00,,10.00,,-10.00,,"6,910.97"
+924,,,Total M3930,,,,,,,,,,,,,,,"1,100.00",,,,"6,910.97",,"6,910.97"
+925,,Total Microdul AG,,,,,,,,,,,,,,,,"1,100.00",,,,"6,910.97",,"6,910.97"
+926,,NeuraMedica,,,,,,,,,,,,,,,,,,,,,,
+927,,,M4008,,,,,,,,,,,,,,,,,,,,,
+928,,,,,,Invoice,,09/10/2018,,14020.0,,Set up to run (500) grams of Glycoprene 6829 to produce Notched Dural Clip,,NeuraMedica:M4008,,Svc:Micro Molding,,1.00,,"9,465.00",,"9,465.00",,"9,465.00"
+929,,,Total M4008,,,,,,,,,,,,,,,1.00,,,,"9,465.00",,"9,465.00"
+930,,,M4014,,,,,,,,,,,,,,,,,,,,,
+931,,,,,,Invoice,,08/24/2018,,13992.0,,Perform (7) variable annealing DOE for Dural Clip,,NeuraMedica:M4014,,Svc:Micro Molding,,1.00,,"2,700.00",,"2,700.00",,"2,700.00"
+932,,,Total M4014,,,,,,,,,,,,,,,1.00,,,,"2,700.00",,"2,700.00"
+933,,Total NeuraMedica,,,,,,,,,,,,,,,,2.00,,,,"12,165.00",,"12,165.00"
+934,,Nordson Medical Design and Development,,,,,,,,,,,,,,,,,,,,,,
+935,,,M3771,,,,,,,,,,,,,,,,,,,,,
+936,,,,,,Invoice,,04/20/2018,,13808.0,,"(1) Center wire process development, mold trial 2 (MT2)",,Nordson Medical Design and Development:M3771,,Svc:Micro Molding,,1.00,,"22,410.00",,"22,410.00",,"22,410.00"
+937,,,Total M3771,,,,,,,,,,,,,,,1.00,,,,"22,410.00",,"22,410.00"
+938,,,M3772,,,,,,,,,,,,,,,,,,,,,
+939,,,,,,Invoice,,06/08/2018,,13875.0,,(1) Center wire validation activities OQ/PQ activities,,Nordson Medical Design and Development:M3772,,Svc:Micro Molding,,1.00,,"20,620.00",,"20,620.00",,"20,620.00"
+940,,,,,,Invoice,,06/08/2018,,13875.0,,Shipping  ,,Nordson Medical Design and Development:M3772,,Freight (Shipping  ),,1.00,,24.59,,24.59,,"20,644.59"
+941,,,Total M3772,,,,,,,,,,,,,,,2.00,,,,"20,644.59",,"20,644.59"
+942,,,M3846,,,,,,,,,,,,,,,,,,,,,
+943,,,,,,Invoice,,01/29/2018,,13672.0,,(150 pcs) Extended MT2 Nominal run for Center wire Overmolded,,Nordson Medical Design and Development:M3846,,Svc:Micro Molding,,1.00,,"8,441.00",,"8,441.00",,"8,441.00"
+944,,,Total M3846,,,,,,,,,,,,,,,1.00,,,,"8,441.00",,"8,441.00"
+945,,,M3847,,,,,,,,,,,,,,,,,,,,,
+946,,,,,,Invoice,,03/23/2018,,13762.0,,Center wire overmolded assemblies using MT2 nominal process inlcudes 500pcs Engineering samples,,Nordson Medical Design and Development:M3847,,Svc:Mico Molds/Micromolding,,1.00,,"22,577.00",,"22,577.00",,"22,577.00"
+947,,,Total M3847,,,,,,,,,,,,,,,1.00,,,,"22,577.00",,"22,577.00"
+948,,,M3969,,,,,,,,,,,,,,,,,,,,,
+949,,,,,,Invoice,,06/15/2018,,13895.0,,Center Wire Overmolded 147-24060-00 Rev. A,,Nordson Medical Design and Development:M3969,,Svc:Micro Molding,,"1,065.00",,17.424,,"18,556.56",,"18,556.56"
+950,,,,,,Invoice,,06/22/2018,,13908.0,,Center Wire Overmolded 147-24060-00 Rev. A,,Nordson Medical Design and Development:M3969,,Svc:Micro Molding,,"1,119.00",,17.424,,"19,497.46",,"38,054.02"
+951,,,,,,Invoice,,06/29/2018,,13919.0,,Center Wire Overmolded 147-24060-00 Rev. A,,Nordson Medical Design and Development:M3969,,Svc:Micro Molding,,"1,018.00",,17.424,,"17,737.63",,"55,791.65"
+952,,,,,,Invoice,,07/05/2018,,13923.0,,Center Wire Overmolded 147-24060-00 Rev. A,,Nordson Medical Design and Development:M3969,,Svc:Micro Molding,,"1,018.00",,17.424,,"17,737.63",,"73,529.28"
+953,,,,,,Invoice,,07/13/2018,,13939.0,,Center Wire Overmolded 147-24060-00 Rev. A,,Nordson Medical Design and Development:M3969,,Svc:Micro Molding,,"2,789.00",,17.424,,"48,595.54",,"122,124.82"
+954,,,,,,Invoice,,07/26/2018,,13950.0,,Center Wire Overmolded 147-24060-00 Rev. B,,Nordson Medical Design and Development:M3969,,Svc:Micro Molding,,"1,077.00",,17.424,,"18,765.65",,"140,890.46"
+955,,,,,,Invoice,,09/07/2018,,14016.0,,Center Wire Overmolded 147-24060-00 Rev. C,,Nordson Medical Design and Development:M3969,,Svc:Micro Molding,,87.00,,17.42391,,"1,515.88",,"142,406.34"
+956,,,Total M3969,,,,,,,,,,,,,,,"8,173.00",,,,"142,406.34",,"142,406.34"
+957,,,M3970,,,,,,,,,,,,,,,,,,,,,
+958,,,,,,Invoice,,09/07/2018,,14017.0,,Center Wire Overmolded 147-24060-00 Rev. C,,Nordson Medical Design and Development:M3970,,Svc:Micro Molding,,198.00,,17.424,,"3,449.95",,"3,449.95"
+959,,,,,,Invoice,,09/14/2018,,14019.0,,Center Wire Overmolded 147-24060-00 Rev. C,,Nordson Medical Design and Development:M3970,,Svc:Micro Molding,,"1,409.00",,17.424,,"24,550.42",,"28,000.37"
+960,,,,,,Invoice,,09/21/2018,,14028.0,,Center Wire Overmolded 147-24060-00 Rev. C,,Nordson Medical Design and Development:M3970,,Svc:Micro Molding,,"1,578.00",,17.424,,"27,495.07",,"55,495.44"
+961,,,,,,Invoice,,09/28/2018,,14031.0,,Center Wire Overmolded 147-24060-00 Rev. C,,Nordson Medical Design and Development:M3970,,Svc:Micro Molding,,"1,815.00",,17.424,,"31,624.56",,"87,120.00"
+962,,,Total M3970,,,,,,,,,,,,,,,"5,000.00",,,,"87,120.00",,"87,120.00"
+963,,,M3971,,,,,,,,,,,,,,,,,,,,,
+964,,,,,,Invoice,,10/19/2018,,14074.0,,Center Wire Overmolded 147-24060-00 Rev. C,,Nordson Medical Design and Development:M3971,,Svc:Micro Molding,,898.00,,17.424,,"15,646.75",,"15,646.75"
+965,,,,,,Invoice,,10/31/2018,,14099.0,,Center Wire Overmolded 147-24060-00 Rev. C,,Nordson Medical Design and Development:M3971,,Svc:Micro Molding,,"2,828.00",,17.424,,"49,275.07",,"64,921.82"
+966,,,,,,Invoice,,11/29/2018,,14150.0,,Center Wire Overmolded 147-24060-00 Rev. C,,Nordson Medical Design and Development:M3971,,Svc:Micro Molding,,"1,274.00",,17.424,,"22,198.18",,"87,120.00"
+967,,,Total M3971,,,,,,,,,,,,,,,"5,000.00",,,,"87,120.00",,"87,120.00"
+968,,,M3972,,,,,,,,,,,,,,,,,,,,,
+969,,,,,,Invoice,,11/29/2018,,14151.0,,Center Wire Overmolded 147-24060-00 Rev. C,,Nordson Medical Design and Development:M3972,,Svc:Micro Molding,,"3,984.00",,17.424,,"69,417.22",,"69,417.22"
+970,,,,,,Invoice,,12/21/2018,,14186.0,,Center Wire Overmolded 147-24060-00 Rev. C,,Nordson Medical Design and Development:M3972,,Svc:Micro Molding,,"1,016.00",,17.424,,"17,702.78",,"87,120.00"
+971,,,Total M3972,,,,,,,,,,,,,,,"5,000.00",,,,"87,120.00",,"87,120.00"
+972,,Total Nordson Medical Design and Development,,,,,,,,,,,,,,,,"23,178.00",,,,"477,838.93",,"477,838.93"
+973,,Optikos Corporation,,,,,,,,,,,,,,,,,,,,,,
+974,,,M4090,,,,,,,,,,,,,,,,,,,,,
+975,,,,,,Invoice,,11/29/2018,,14142.0,,"050-01040AFF Rev. A Optics Block, RV optic assy, phase II",,Optikos Corporation:M4090,,Svc:Micro Molding,,"1,100.00",,9.92,,"10,912.00",,"10,912.00"
+976,,,Total M4090,,,,,,,,,,,,,,,"1,100.00",,,,"10,912.00",,"10,912.00"
+977,,,M4091,,,,,,,,,,,,,,,,,,,,,
+978,,,,,,Invoice,,12/21/2018,,14185.0,,"050-01040AFF Rev. A Optics Block, RV optic assy, phase II",,Optikos Corporation:M4091,,Svc:Micro Molding,,"1,000.00",,9.92,,"9,920.00",,"9,920.00"
+979,,,Total M4091,,,,,,,,,,,,,,,"1,000.00",,,,"9,920.00",,"9,920.00"
+980,,Total Optikos Corporation,,,,,,,,,,,,,,,,"2,100.00",,,,"20,832.00",,"20,832.00"
+981,,"Opus KSD, Inc.",,,,,,,,,,,,,,,,,,,,,,
+982,,,M3669,,,,,,,,,,,,,,,,,,,,,
+983,,,,,,Invoice,,02/02/2018,,13680.0,,GRD Staples-4 cavity,,"Opus KSD, Inc.:M3669",,Svc:Micro Molding,,"159,218.00",,0.685,,"109,064.33",,"109,064.33"
+984,,,,,,Invoice,,02/02/2018,,13680.0,,Shipping  ,,"Opus KSD, Inc.:M3669",,Freight (Shipping  ),,1.00,,98.48,,98.48,,"109,162.81"
+985,,,,,,Invoice,,12/21/2018,,14182.0,,GRD Staples-4 cavity p/n 400170,,"Opus KSD, Inc.:M3669",,Svc:Micro Molding,,"90,782.00",,0.685,,"62,185.67",,"171,348.48"
+986,,,Total M3669,,,,,,,,,,,,,,,"250,001.00",,,,"171,348.48",,"171,348.48"
+987,,"Total Opus KSD, Inc.",,,,,,,,,,,,,,,,"250,001.00",,,,"171,348.48",,"171,348.48"
+988,,OraVu,,,,,,,,,,,,,,,,,,,,,,
+989,,,M3614,,,,,,,,,,,,,,,,,,,,,
+990,,,,,,Invoice,,02/16/2018,,13711.0,,Overmolding process development-Sheath assembly,,OraVu:M3614,,Svc:Micro Molding,,1.00,,"7,340.00",,"7,340.00",,"7,340.00"
+991,,,Total M3614,,,,,,,,,,,,,,,1.00,,,,"7,340.00",,"7,340.00"
+992,,,M3615,,,,,,,,,,,,,,,,,,,,,
+993,,,,,,Invoice,,08/31/2018,,14000.0,,Validation OQ/PQ activities-Sheath assembly,,OraVu:M3615,,Svc:Micro Molding,,1.00,,"40,000.00",,"40,000.00",,"40,000.00"
+994,,,Total M3615,,,,,,,,,,,,,,,1.00,,,,"40,000.00",,"40,000.00"
+995,,Total OraVu,,,,,,,,,,,,,,,,2.00,,,,"47,340.00",,"47,340.00"
+996,,Philips Ultrasound Inc.,,,,,,,,,,,,,,,,,,,,,,
+997,,,8483,,,,,,,,,,,,,,,,,,,,,
+998,,,,,,Invoice,,03/02/2018,,13737.0,,"Tooling Modification for Pebax Tip to increase part length by 1mm, includes (25) Engineering Sam...",,Philips Ultrasound Inc.:8483,,Svc:Machining,,1.00,,"20,700.00",,"20,700.00",,"20,700.00"
+999,,,Total 8483,,,,,,,,,,,,,,,1.00,,,,"20,700.00",,"20,700.00"
+1000,,,M3763,,,,,,,,,,,,,,,,,,,,,
+1001,,,,,,Invoice,,10/19/2018,,14079.0,,Process Development validation (1),,Philips Ultrasound Inc.:M3763,,Svc:Micro Molding,,1.00,,"11,185.00",,"11,185.00",,"11,185.00"
+1002,,,Total M3763,,,,,,,,,,,,,,,1.00,,,,"11,185.00",,"11,185.00"
+1003,,,M3792,,,,,,,,,,,,,,,,,,,,,
+1004,,,,,,Invoice,,02/28/2018,,13732.0,,Progress samples p/n 453561881351 Pebax Tip MT2 for 1 material type,,Philips Ultrasound Inc.:M3792,,Svc:Micro Molding,,1.00,,"13,155.00",,"13,155.00",,"13,155.00"
+1005,,,Total M3792,,,,,,,,,,,,,,,1.00,,,,"13,155.00",,"13,155.00"
+1006,,,M3909,,,,,,,,,,,,,,,,,,,,,
+1007,,,,,,Invoice,,03/23/2018,,13764.0,,Pebax Tip P/N 453561881351,,Philips Ultrasound Inc.:M3909,,Svc:Micro Molding,,500.00,,26.31,,"13,155.00",,"13,155.00"
+1008,,,Total M3909,,,,,,,,,,,,,,,500.00,,,,"13,155.00",,"13,155.00"
+1009,,,M3934,,,,,,,,,,,,,,,,,,,,,
+1010,,,,,,Invoice,,04/27/2018,,13822.0,,Pebax Tip 453561881351 Rev. M,,Philips Ultrasound Inc.:M3934,,Svc:Micro Molding,,40.00,,34.83,,"1,393.20",,"1,393.20"
+1011,,,,,,Invoice,,05/18/2018,,13852.0,,Pebax Tip 453561881351 Rev. M,,Philips Ultrasound Inc.:M3934,,Svc:Micro Molding,,960.00,,34.83,,"33,436.80",,"34,830.00"
+1012,,,Total M3934,,,,,,,,,,,,,,,"1,000.00",,,,"34,830.00",,"34,830.00"
+1013,,,M3952,,,,,,,,,,,,,,,,,,,,,
+1014,,,,,,Invoice,,05/11/2018,,13839.0,,Pebax Tip 453561881351 Rev. M,,Philips Ultrasound Inc.:M3952,,Svc:Micro Molding,,200.00,,34.83,,"6,966.00",,"6,966.00"
+1015,,,,,,Invoice,,05/18/2018,,13856.0,,Pebax Tip 453561881351 Rev. M,,Philips Ultrasound Inc.:M3952,,Svc:Micro Molding,,800.00,,34.83,,"27,864.00",,"34,830.00"
+1016,,,Total M3952,,,,,,,,,,,,,,,"1,000.00",,,,"34,830.00",,"34,830.00"
+1017,,,M3989,,,,,,,,,,,,,,,,,,,,,
+1018,,,,,,Invoice,,06/26/2018,,13920.0,,Perform Hipot MSA for Pebax Tip per Philips protocol,,Philips Ultrasound Inc.:M3989,,Svc:Micro Molding,,1.00,,"7,700.00",,"7,700.00",,"7,700.00"
+1019,,,Total M3989,,,,,,,,,,,,,,,1.00,,,,"7,700.00",,"7,700.00"
+1020,,,M4003,,,,,,,,,,,,,,,,,,,,,
+1021,,,,,,Invoice,,07/30/2018,,13960.0,,Perform K2 window thickness GR & R for Pebax Tip 453561881351 Rev. P,,Philips Ultrasound Inc.:M4003,,Svc:Micro Molding,,1.00,,"5,600.00",,"5,600.00",,"5,600.00"
+1022,,,Total M4003,,,,,,,,,,,,,,,1.00,,,,"5,600.00",,"5,600.00"
+1023,,,M4032,,,,,,,,,,,,,,,,,,,,,
+1024,,,,,,Invoice,,09/14/2018,,14023.0,,Pebax Tip 453561881351 Rev. Q,,Philips Ultrasound Inc.:M4032,,Svc:Micro Molding,,500.00,,39.98,,"19,990.00",,"19,990.00"
+1025,,,Total M4032,,,,,,,,,,,,,,,500.00,,,,"19,990.00",,"19,990.00"
+1026,,,M4033,,,,,,,,,,,,,,,,,,,,,
+1027,,,,,,Invoice,,11/15/2018,,14122.0,,Pebax Tip 453561881351 Rev. Q,,Philips Ultrasound Inc.:M4033,,Svc:Micro Molding,,200.00,,39.98,,"7,996.00",,"7,996.00"
+1028,,,,,,Invoice,,12/13/2018,,14180.0,,Pebax Tip 453561881351 Rev. Q,,Philips Ultrasound Inc.:M4033,,Svc:Micro Molding,,800.00,,39.98,,"31,984.00",,"39,980.00"
+1029,,,Total M4033,,,,,,,,,,,,,,,"1,000.00",,,,"39,980.00",,"39,980.00"
+1030,,,M4034,,,,,,,,,,,,,,,,,,,,,
+1031,,,,,,Invoice,,10/19/2018,,14080.0,,Process development validation additional funds *Billing purposes only*,,Philips Ultrasound Inc.:M4034,,Svc:Micro Molding,,1.00,,"32,880.00",,"32,880.00",,"32,880.00"
+1032,,,Total M4034,,,,,,,,,,,,,,,1.00,,,,"32,880.00",,"32,880.00"
+1033,,,M4085,,,,,,,,,,,,,,,,,,,,,
+1034,,,,,,Invoice,,11/01/2018,,14100.0,,Charge to procure the last 55 lb bag of Pebax 3533 SA01 MED from current lot used during validation,,Philips Ultrasound Inc.:M4085,,Svc:Micro Molding,,1.00,,"3,500.00",,"3,500.00",,"3,500.00"
+1035,,,Total M4085,,,,,,,,,,,,,,,1.00,,,,"3,500.00",,"3,500.00"
+1036,,,M4098,,,,,,,,,,,,,,,,,,,,,
+1037,,,,,,Invoice,,11/08/2018,,14106.0,,3D Proscan of K2 window thickness metrology for capability analysis. Includes re-run of PQ1 part...,,Philips Ultrasound Inc.:M4098,,Svc:Micro Molding,,1.00,,"6,575.00",,"6,575.00",,"6,575.00"
+1038,,,Total M4098,,,,,,,,,,,,,,,1.00,,,,"6,575.00",,"6,575.00"
+1039,,,M4099,,,,,,,,,,,,,,,,,,,,,
+1040,,,,,,Invoice,,11/29/2018,,14149.0,,MRE Molar Mass Analysis,,Philips Ultrasound Inc.:M4099,,Svc:Micro Molding,,1.00,,"3,600.00",,"3,600.00",,"3,600.00"
+1041,,,Total M4099,,,,,,,,,,,,,,,1.00,,,,"3,600.00",,"3,600.00"
+1042,,Total Philips Ultrasound Inc.,,,,,,,,,,,,,,,,"4,009.00",,,,"247,680.00",,"247,680.00"
+1043,,Portal Instruments,,,,,,,,,,,,,,,,,,,,,,
+1044,,,8496,,,,,,,,,,,,,,,,,,,,,
+1045,,,,,,Invoice,,04/25/2018,,13812.0,,Single cavity inserts to produce Nozzle 102218,,Portal Instruments:8496,,Svc:Micro Molds,,0.50,,"51,560.00",,"25,780.00",,"25,780.00"
+1046,,,,,,Invoice,,05/31/2018,,13872.0,,Single cavity inserts to produce Nozzle 102218,,Portal Instruments:8496,,Svc:Micro Molds,,0.50,,"51,560.00",,"25,780.00",,"51,560.00"
+1047,,,Total 8496,,,,,,,,,,,,,,,1.00,,,,"51,560.00",,"51,560.00"
+1048,,,8512,,,,,,,,,,,,,,,,,,,,,
+1049,,,,,,Invoice,,07/30/2018,,13959.0,,(1) Run until mold is stabilized (32) pc capability study (3) pc FAI,,Portal Instruments:8512,,Svc:Micro Molds,,0.50,,"30,750.00",,"15,375.00",,"15,375.00"
+1050,,,Total 8512,,,,,,,,,,,,,,,0.50,,,,"15,375.00",,"15,375.00"
+1051,,,M3950,,,,,,,,,,,,,,,,,,,,,
+1052,,,,,,Invoice,,06/08/2018,,13883.0,,Process development/MT2 for (1) material type. Includes (32) progress samples for Nozzle 102298,,Portal Instruments:M3950,,Svc:Micro Molding,,1.00,,"6,040.00",,"6,040.00",,"6,040.00"
+1053,,,Total M3950,,,,,,,,,,,,,,,1.00,,,,"6,040.00",,"6,040.00"
+1054,,,M4066,,,,,,,,,,,,,,,,,,,,,
+1055,,,,,,Invoice,,10/05/2018,,14046.0,,"102298 Rev. 2 Prime Barrel Nozzle, COP 5000",,Portal Instruments:M4066,,Svc:Micro Molding,,"3,000.00",,3.092,,"9,276.00",,"9,276.00"
+1056,,,Total M4066,,,,,,,,,,,,,,,"3,000.00",,,,"9,276.00",,"9,276.00"
+1057,,,M4067,,,,,,,,,,,,,,,,,,,,,
+1058,,,,,,Invoice,,10/05/2018,,14047.0,,"Prime Barrel Nozzle, Celcon M90",,Portal Instruments:M4067,,Svc:Micro Molding,,500.00,,13.74,,"6,870.00",,"6,870.00"
+1059,,,Total M4067,,,,,,,,,,,,,,,500.00,,,,"6,870.00",,"6,870.00"
+1060,,,M4101,,,,,,,,,,,,,,,,,,,,,
+1061,,,,,,Invoice,,11/15/2018,,14126.0,,102298 Rev. 2-Admin1 Prime Barrel Nozzles,,Portal Instruments:M4101,,Svc:Micro Molding,,"1,000.00",,6.664,,"6,664.00",,"6,664.00"
+1062,,,Total M4101,,,,,,,,,,,,,,,"1,000.00",,,,"6,664.00",,"6,664.00"
+1063,,,M4142,,,,,,,,,,,,,,,,,,,,,
+1064,,,,,,Invoice,,12/13/2018,,14178.0,,Miscellaneous engineering time and NREs for Nozzle program,,Portal Instruments:M4142,,Svc:Micro Molding,,1.00,,"152,600.00",,"152,600.00",,"152,600.00"
+1065,,,Total M4142,,,,,,,,,,,,,,,1.00,,,,"152,600.00",,"152,600.00"
+1066,,,M4143,,,,,,,,,,,,,,,,,,,,,
+1067,,,,,,Invoice,,12/21/2018,,14184.0,,102298 Rev. 2-Admin 1 Prime Barrel Nozzle,,Portal Instruments:M4143,,Svc:Micro Molding,,"10,000.00",,1.517,,"15,170.00",,"15,170.00"
+1068,,,Total M4143,,,,,,,,,,,,,,,"10,000.00",,,,"15,170.00",,"15,170.00"
+1069,,Total Portal Instruments,,,,,,,,,,,,,,,,"14,503.50",,,,"263,555.00",,"263,555.00"
+1070,,Refine LLC,,,,,,,,,,,,,,,,,,,,,,
+1071,,,8513,,,,,,,,,,,,,,,,,,,,,
+1072,,,,,,Invoice,,08/07/2018,,13976.0,,"Inserts in MTD frame to produce Anchor, Molded including MT1. (25) progress samples. SR002 Rev. 02",,Refine LLC:8513,,Svc:Micro Molds,,0.50,,"31,220.00",,"15,610.00",,"15,610.00"
+1073,,,,,,Invoice,,08/31/2018,,14001.0,,"Inserts in MTD frame to produce Anchor, Molded including MT1. (25) progress samples. SR002 Rev. 02",,Refine LLC:8513,,Svc:Micro Molds,,0.50,,"31,220.00",,"15,610.00",,"31,220.00"
+1074,,,Total 8513,,,,,,,,,,,,,,,1.00,,,,"31,220.00",,"31,220.00"
+1075,,,8526,,,,,,,,,,,,,,,,,,,,,
+1076,,,,,,Invoice,,11/15/2018,,14116.0,,"Manufacture new inserts to produce Anchor, Molded SR001 Rev. 3",,Refine LLC:8526,,Svc:Micro Molds,,1.00,,"19,780.00",,"19,780.00",,"19,780.00"
+1077,,,Total 8526,,,,,,,,,,,,,,,1.00,,,,"19,780.00",,"19,780.00"
+1078,,,M4019,,,,,,,,,,,,,,,,,,,,,
+1079,,,,,,Invoice,,09/28/2018,,14039.0,,Process development/MT2 for Molded Anchor SR001 Rev. 02,,Refine LLC:M4019,,Svc:Micro Molding,,1.00,,"6,420.00",,"6,420.00",,"6,420.00"
+1080,,,,,,Invoice,,09/28/2018,,14039.0,,Shipping  ,,Refine LLC:M4019,,Freight (Shipping  ),,1.00,,94.87,,94.87,,"6,514.87"
+1081,,,Total M4019,,,,,,,,,,,,,,,2.00,,,,"6,514.87",,"6,514.87"
+1082,,,M4089,,,,,,,,,,,,,,,,,,,,,
+1083,,,,,,Invoice,,12/06/2018,,14154.0,,Molded Anchor parts SR001 Rev. 3,,Refine LLC:M4089,,Svc:Micro Molding,,"2,500.00",,2.544,,"6,360.00",,"6,360.00"
+1084,,,Total M4089,,,,,,,,,,,,,,,"2,500.00",,,,"6,360.00",,"6,360.00"
+1085,,Total Refine LLC,,,,,,,,,,,,,,,,"2,504.00",,,,"63,874.87",,"63,874.87"
+1086,,Rotation Medical,,,,,,,,,,,,,,,,,,,,,,
+1087,,,8503,,,,,,,,,,,,,,,,,,,,,
+1088,,,,,,Invoice,,12/06/2018,,14160.0,,"Spare tooling and engineering activities, slide pin set, internal barb slide and internal slide ...",,Rotation Medical:8503,,Svc:Micro Molds,,1.00,,"20,020.00",,"20,020.00",,"20,020.00"
+1089,,,Total 8503,,,,,,,,,,,,,,,1.00,,,,"20,020.00",,"20,020.00"
+1090,,,8504,,,,,,,,,,,,,,,,,,,,,
+1091,,,,,,Invoice,,10/05/2018,,14055.0,,"Spare tooling and engineering activities, slide pin set and slide pin pinch off inserts for Tend...",,Rotation Medical:8504,,Svc:Micro Molds,,1.00,,"17,010.00",,"17,010.00",,"17,010.00"
+1092,,,Total 8504,,,,,,,,,,,,,,,1.00,,,,"17,010.00",,"17,010.00"
+1093,,,8534,,,,,,,,,,,,,,,,,,,,,
+1094,,,,,,Invoice,,12/28/2018,,14190.0,,"Modify core pins and pinch off inserts for Gen. 3, Tendon Staple, DWG #2210-02 Rev. D to target ...",,Rotation Medical:8534,,Svc:Micro Molds,,1.00,,"12,455.00",,"12,455.00",,"12,455.00"
+1095,,,Total 8534,,,,,,,,,,,,,,,1.00,,,,"12,455.00",,"12,455.00"
+1096,,,M3670,,,,,,,,,,,,,,,,,,,,,
+1097,,,,,,Invoice,,01/26/2018,,13670.0,,Bioabsorbable (Tendon Staple) Process development phase 1,,Rotation Medical:M3670,,Svc:Micro Molding,,1.00,,"8,510.00",,"8,510.00",,"8,510.00"
+1098,,,Total M3670,,,,,,,,,,,,,,,1.00,,,,"8,510.00",,"8,510.00"
+1099,,,M3672,,,,,,,,,,,,,,,,,,,,,
+1100,,,,,,Invoice,,04/06/2018,,13773.0,,Warm up study/Process stall study phase 3 for Tendon Staple,,Rotation Medical:M3672,,Svc:Micro Molding,,1.00,,"13,000.00",,"13,000.00",,"13,000.00"
+1101,,,Total M3672,,,,,,,,,,,,,,,1.00,,,,"13,000.00",,"13,000.00"
+1102,,,M3673,,,,,,,,,,,,,,,,,,,,,
+1103,,,,,,Invoice,,04/06/2018,,13774.0,,Gen 3 Tendon Staples phase 4-Validation activities,,Rotation Medical:M3673,,Svc:Micro Molding,,1.00,,"22,880.00",,"22,880.00",,"22,880.00"
+1104,,,,,,Invoice,,04/06/2018,,13774.0,,Credit applied,,Rotation Medical:M3673,,Svc:Micro Molding,,1.00,,"-10,000.00",,"-10,000.00",,"12,880.00"
+1105,,,Total M3673,,,,,,,,,,,,,,,2.00,,,,"12,880.00",,"12,880.00"
+1106,,,M3866,,,,,,,,,,,,,,,,,,,,,
+1107,,,,,,Invoice,,05/18/2018,,13850.0,,Tendon Staple,,Rotation Medical:M3866,,Svc:Micro Molding,,"31,700.00",,1.74,,"55,158.00",,"55,158.00"
+1108,,,,,,Invoice,,07/31/2018,,13958.0,,Tendon Staple,,Rotation Medical:M3866,,Svc:Micro Molding,,"68,300.00",,1.74,,"118,842.00",,"174,000.00"
+1109,,,Total M3866,,,,,,,,,,,,,,,"100,000.00",,,,"174,000.00",,"174,000.00"
+1110,,,M3902,,,,,,,,,,,,,,,,,,,,,
+1111,,,,,,Invoice,,05/31/2018,,13861.0,,Double Barbed Bone Staple,,Rotation Medical:M3902,,Svc:Micro Molding,,"25,000.00",,1.889,,"47,225.00",,"47,225.00"
+1112,,,Total M3902,,,,,,,,,,,,,,,"25,000.00",,,,"47,225.00",,"47,225.00"
+1113,,,M3957,,,,,,,,,,,,,,,,,,,,,
+1114,,,,,,Invoice,,11/08/2018,,14113.0,,Requalification for Bone Staple,,Rotation Medical:M3957,,Svc:Micro Molding,,1.00,,"5,000.00",,"5,000.00",,"5,000.00"
+1115,,,Total M3957,,,,,,,,,,,,,,,1.00,,,,"5,000.00",,"5,000.00"
+1116,,,M3958,,,,,,,,,,,,,,,,,,,,,
+1117,,,,,,Invoice,,10/05/2018,,14048.0,,Requalification for Tendon Staple,,Rotation Medical:M3958,,Svc:Micro Molding,,1.00,,"5,000.00",,"5,000.00",,"5,000.00"
+1118,,,Total M3958,,,,,,,,,,,,,,,1.00,,,,"5,000.00",,"5,000.00"
+1119,,,M4004,,,,,,,,,,,,,,,,,,,,,
+1120,,,,,,Invoice,,07/26/2018,,13953.0,,"Staple, Double Barbed Bone 676 Rev. Q",,Rotation Medical:M4004,,Svc:Micro Molding,,"7,800.00",,1.889,,"14,734.20",,"14,734.20"
+1121,,,,,,Invoice,,09/07/2018,,14005.0,,"Staple, Double Barbed Bone 676 Rev. Q",,Rotation Medical:M4004,,Svc:Micro Molding,,"22,200.00",,1.889,,"41,935.80",,"56,670.00"
+1122,,,Total M4004,,,,,,,,,,,,,,,"30,000.00",,,,"56,670.00",,"56,670.00"
+1123,,,M4016,,,,,,,,,,,,,,,,,,,,,
+1124,,,,,,Invoice,,08/31/2018,,13997.0,,Gen 3 Tendon Staple 2210-02 Rev. D,,Rotation Medical:M4016,,Svc:Micro Molding,,"50,000.00",,1.74,,"87,000.00",,"87,000.00"
+1125,,,,,,Invoice,,09/14/2018,,14022.0,,Gen 3 Tendon Staple 2210-02 Rev. D,,Rotation Medical:M4016,,Svc:Micro Molding,,"50,000.00",,1.74,,"87,000.00",,"174,000.00"
+1126,,,Total M4016,,,,,,,,,,,,,,,"100,000.00",,,,"174,000.00",,"174,000.00"
+1127,,,M4120,,,,,,,,,,,,,,,,,,,,,
+1128,,,,,,Invoice,,12/13/2018,,14179.0,,"676 Rev. R Stable, Double Barbed Bone",,Rotation Medical:M4120,,Svc:Micro Molding,,"34,005.00",,1.889,,"64,235.45",,"64,235.45"
+1129,,,Total M4120,,,,,,,,,,,,,,,"34,005.00",,,,"64,235.45",,"64,235.45"
+1130,,,M4152,,,,,,,,,,,,,,,,,,,,,
+1131,,,,,,Invoice,,12/28/2018,,14191.0,,2210-02 Rev. D  Gen 3 Tendon Staple,,Rotation Medical:M4152,,Svc:Micro Molding,,"12,954.00",,1.74,,"22,539.96",,"22,539.96"
+1132,,,Total M4152,,,,,,,,,,,,,,,"12,954.00",,,,"22,539.96",,"22,539.96"
+1133,,Total Rotation Medical,,,,,,,,,,,,,,,,"301,968.00",,,,"632,545.41",,"632,545.41"
+1134,,Signum Surgical,,,,,,,,,,,,,,,,,,,,,,
+1135,,,8474,,,,,,,,,,,,,,,,,,,,,
+1136,,,,,,Invoice,,02/16/2018,,13715.0,,(25) Progress Samples. Inserts in an MTD owned frame to produce screw includes Mold Trial 1 (MT1),,Signum Surgical:8474,,Svc:Micro Molding,,0.50,,"97,670.00",,"48,835.00",,"48,835.00"
+1137,,,Total 8474,,,,,,,,,,,,,,,0.50,,,,"48,835.00",,"48,835.00"
+1138,,,M3787,,,,,,,,,,,,,,,,,,,,,
+1139,,,,,,Invoice,,04/19/2018,,13805.0,,"Process development, MT2 for 1 material type (32) samples",,Signum Surgical:M3787,,Svc:Micro Molding,,1.00,,"10,195.00",,"10,195.00",,"10,195.00"
+1140,,,,,,Credit Memo,,06/04/2018,,13877.0,,Credit issued for bank fees incurred during wire transfer,,Signum Surgical:M3787,,Svc:Micro Molding,,-1.00,,25.00,,-25.00,,"10,170.00"
+1141,,,Total M3787,,,,,,,,,,,,,,,0.00,,,,"10,170.00",,"10,170.00"
+1142,,,M3981,,,,,,,,,,,,,,,,,,,,,
+1143,,,,,,Invoice,,07/05/2018,,13928.0,,MT2 for screw implant ES001 Rev. 1.20,,Signum Surgical:M3981,,Svc:Micro Molding,,"1,150.00",,8.468,,"9,738.20",,"9,738.20"
+1144,,,Total M3981,,,,,,,,,,,,,,,"1,150.00",,,,"9,738.20",,"9,738.20"
+1145,,,M4096,,,,,,,,,,,,,,,,,,,,,
+1146,,,,,,Invoice,,11/12/2018,,14121.0,,ES001 Rev. 3 Implants,,Signum Surgical:M4096,,Svc:Micro Molding,,"1,000.00",,10.73,,"10,730.00",,"10,730.00"
+1147,,,,,,Invoice,,11/12/2018,,14121.0,,Shipping  ,,Signum Surgical:M4096,,Freight (Shipping  ),,1.00,,10.00,,10.00,,"10,740.00"
+1148,,,Total M4096,,,,,,,,,,,,,,,"1,001.00",,,,"10,740.00",,"10,740.00"
+1149,,Total Signum Surgical,,,,,,,,,,,,,,,,"2,151.50",,,,"79,483.20",,"79,483.20"
+1150,,Spirox,,,,,,,,,,,,,,,,,,,,,,
+1151,,,M3658,,,,,,,,,,,,,,,,,,,,,
+1152,,,,,,Invoice,,05/04/2018,,13827.0,,(MT2) #MS21098 Rev. 1 Victoria Absorbable Nasal Implant (32) Progress samples,,Spirox:M3658,,Svc:Micro Molding,,1.00,,"7,100.00",,"7,100.00",,"7,100.00"
+1153,,,Total M3658,,,,,,,,,,,,,,,1.00,,,,"7,100.00",,"7,100.00"
+1154,,,M3659,,,,,,,,,,,,,,,,,,,,,
+1155,,,,,,Invoice,,08/24/2018,,13991.0,,Victoria absorbable nasal implant #MS21098 Rev. 1 validation activities,,Spirox:M3659,,Svc:Micro Molding,,1.00,,"51,140.00",,"51,140.00",,"51,140.00"
+1156,,,Total M3659,,,,,,,,,,,,,,,1.00,,,,"51,140.00",,"51,140.00"
+1157,,,M3801,,,,,,,,,,,,,,,,,,,,,
+1158,,,,,,Invoice,,01/12/2018,,13642.0,,Set up Victoria Nasal Implant tooling to perform MT1 using Purac Purasorb PLDL 7028,,Spirox:M3801,,Svc:Micro Molding,,1.00,,"6,500.00",,"6,500.00",,"6,500.00"
+1159,,,Total M3801,,,,,,,,,,,,,,,1.00,,,,"6,500.00",,"6,500.00"
+1160,,,M3901,,,,,,,,,,,,,,,,,,,,,
+1161,,,,,,Invoice,,03/30/2018,,13769.0,,DOE study on mold temperature using Purac Purasorb PLDL 7028 with single cavity victoria nasal i...,,Spirox:M3901,,Svc:Micro Molding,,1.00,,"12,125.00",,"12,125.00",,"12,125.00"
+1162,,,Total M3901,,,,,,,,,,,,,,,1.00,,,,"12,125.00",,"12,125.00"
+1163,,,M3936,,,,,,,,,,,,,,,,,,,,,
+1164,,,,,,Invoice,,04/30/2018,,13824.0,,Perform 3 additional RM tests from parts produced during DOE study on (1) process variable using...,,Spirox:M3936,,Svc:Micro Molding,,1.00,,"2,250.00",,"2,250.00",,"2,250.00"
+1165,,,Total M3936,,,,,,,,,,,,,,,1.00,,,,"2,250.00",,"2,250.00"
+1166,,,M4027,,,,,,,,,,,,,,,,,,,,,
+1167,,,,,,Invoice,,08/17/2018,,13984.0,,Production samples MS21098 Rev. 2,,Spirox:M4027,,Svc:Micro Molding,,650.00,,11.09,,"7,208.50",,"7,208.50"
+1168,,,Total M4027,,,,,,,,,,,,,,,650.00,,,,"7,208.50",,"7,208.50"
+1169,,,M4079,,,,,,,,,,,,,,,,,,,,,
+1170,,,,,,Invoice,,11/29/2018,,14148.0,,Engineering services for Victoria Nasal Implant per proposal 10298. Includes (32) progress sampl...,,Spirox:M4079,,Svc:Micro Molding,,1.00,,"11,770.00",,"11,770.00",,"11,770.00"
+1171,,,Total M4079,,,,,,,,,,,,,,,1.00,,,,"11,770.00",,"11,770.00"
+1172,,Total Spirox,,,,,,,,,,,,,,,,656.00,,,,"98,093.50",,"98,093.50"
+1173,,StabilizOrtho,,,,,,,,,,,,,,,,,,,,,,
+1174,,,8508,,,,,,,,,,,,,,,,,,,,,
+1175,,,,,,Invoice,,07/05/2018,,13927.0,,Tooling updates to polymer locking screw in preparation for 1st production run,,StabilizOrtho:8508,,Svc:Micro Molds,,1.00,,"4,500.00",,"4,500.00",,"4,500.00"
+1176,,,Total 8508,,,,,,,,,,,,,,,1.00,,,,"4,500.00",,"4,500.00"
+1177,,,M3888,,,,,,,,,,,,,,,,,,,,,
+1178,,,,,,Invoice,,04/09/2018,,13786.0,,Validation activities OQ/PQ,,StabilizOrtho:M3888,,Svc:Micro Molding,,0.08333,,"34,350.00",,"2,862.39",,"2,862.39"
+1179,,,,,,Invoice,,05/07/2018,,13833.0,,Validation activities OQ/PQ,,StabilizOrtho:M3888,,Svc:Micro Molding,,0.08333,,"34,350.00",,"2,862.39",,"5,724.77"
+1180,,,,,,Invoice,,06/19/2018,,13907.0,,Validation activities OQ/PQ,,StabilizOrtho:M3888,,Svc:Micro Molding,,0.08333,,"34,350.00",,"2,862.39",,"8,587.16"
+1181,,,,,,Invoice,,07/23/2018,,13948.0,,Validation activities OQ/PQ,,StabilizOrtho:M3888,,Svc:Micro Molding,,0.08333,,"34,350.00",,"2,862.39",,"11,449.54"
+1182,,,,,,Invoice,,08/14/2018,,13983.0,,Validation activities OQ/PQ,,StabilizOrtho:M3888,,Svc:Micro Molding,,0.08333,,"34,350.00",,"2,862.39",,"14,311.93"
+1183,,,,,,Invoice,,10/04/2018,,14051.0,,Validation activities OQ/PQ,,StabilizOrtho:M3888,,Svc:Micro Molding,,0.08333,,"34,350.00",,"2,862.39",,"17,174.31"
+1184,,,,,,Invoice,,10/04/2018,,14052.0,,Validation activities OQ/PQ,,StabilizOrtho:M3888,,Svc:Micro Molding,,0.08333,,"34,350.00",,"2,862.39",,"20,036.70"
+1185,,,Total M3888,,,,,,,,,,,,,,,0.58331,,,,"20,036.70",,"20,036.70"
+1186,,Total StabilizOrtho,,,,,,,,,,,,,,,,1.58331,,,,"24,536.70",,"24,536.70"
+1187,,Teleflex Medical - TX,,,,,,,,,,,,,,,,,,,,,,
+1188,,,M3780,,,,,,,,,,,,,,,,,,,,,
+1189,,,,,,Invoice,,01/05/2018,,13618.0,,Pressure Port Caps DWG #MP-0514-MA Rev. 01,,Teleflex Medical - TX:M3780,,Svc:Micro Molding,,"50,000.00",,0.192,,"9,600.00",,"9,600.00"
+1190,,,Total M3780,,,,,,,,,,,,,,,"50,000.00",,,,"9,600.00",,"9,600.00"
+1191,,,M3869,,,,,,,,,,,,,,,,,,,,,
+1192,,,,,,Invoice,,04/06/2018,,13776.0,,Pressure Port Cap DWG # MP-0514-MA Rev. 01,,Teleflex Medical - TX:M3869,,Svc:Micro Molding,,"30,000.00",,0.192,,"5,760.00",,"5,760.00"
+1193,,,Total M3869,,,,,,,,,,,,,,,"30,000.00",,,,"5,760.00",,"5,760.00"
+1194,,,M3955,,,,,,,,,,,,,,,,,,,,,
+1195,,,,,,Invoice,,07/05/2018,,13922.0,,Pressure Port Cap MP-0514-MA Rev. 01,,Teleflex Medical - TX:M3955,,Svc:Micro Molding,,"30,000.00",,0.192,,"5,760.00",,"5,760.00"
+1196,,,Total M3955,,,,,,,,,,,,,,,"30,000.00",,,,"5,760.00",,"5,760.00"
+1197,,,M3996,,,,,,,,,,,,,,,,,,,,,
+1198,,,,,,Invoice,,09/07/2018,,14004.0,,MP-0514-MA Rev. 01 Pressure Port Cap,,Teleflex Medical - TX:M3996,,Svc:Micro Molding,,"30,000.00",,0.192,,"5,760.00",,"5,760.00"
+1199,,,Total M3996,,,,,,,,,,,,,,,"30,000.00",,,,"5,760.00",,"5,760.00"
+1200,,,M4046,,,,,,,,,,,,,,,,,,,,,
+1201,,,,,,Invoice,,11/08/2018,,14105.0,,Pressure Port Caps MP-0514-MA Rev. 01,,Teleflex Medical - TX:M4046,,Svc:Micro Molding,,"30,000.00",,0.192,,"5,760.00",,"5,760.00"
+1202,,,Total M4046,,,,,,,,,,,,,,,"30,000.00",,,,"5,760.00",,"5,760.00"
+1203,,,M4082,,,,,,,,,,,,,,,,,,,,,
+1204,,,,,,Invoice,,11/30/2018,,14153.0,,MP-0514-MA Pressure Port Cap,,Teleflex Medical - TX:M4082,,Svc:Micro Molding,,"30,000.00",,0.192,,"5,760.00",,"5,760.00"
+1205,,,Total M4082,,,,,,,,,,,,,,,"30,000.00",,,,"5,760.00",,"5,760.00"
+1206,,Total Teleflex Medical - TX,,,,,,,,,,,,,,,,"200,000.00",,,,"38,400.00",,"38,400.00"
+1207,,Totex,,,,,,,,,,,,,,,,,,,,,,
+1208,,,M3928,,,,,,,,,,,,,,,,,,,,,
+1209,,,,,,Invoice,,04/06/2018,,13782.0,,DM Connector Cap,,Totex:M3928,,Svc:Micro Molding,,"10,000.00",,1.409,,"14,090.00",,"14,090.00"
+1210,,,Total M3928,,,,,,,,,,,,,,,"10,000.00",,,,"14,090.00",,"14,090.00"
+1211,,,M3931,,,,,,,,,,,,,,,,,,,,,
+1212,,,,,,Invoice,,07/13/2018,,13942.0,,DM Cap Connector U80302,,Totex:M3931,,Svc:Micro Molding,,"10,000.00",,1.409,,"14,090.00",,"14,090.00"
+1213,,,Total M3931,,,,,,,,,,,,,,,"10,000.00",,,,"14,090.00",,"14,090.00"
+1214,,Total Totex,,,,,,,,,,,,,,,,"20,000.00",,,,"28,180.00",,"28,180.00"
+1215,,UFP Technologies Inc.,,,,,,,,,,,,,,,,,,,,,,
+1216,,,M3778,,,,,,,,,,,,,,,,,,,,,
+1217,,,,,,Invoice,,01/05/2018,,13621.0,,"Tubing Anchor Adapter P/N M710368, Document #E-09-2241-03",,UFP Technologies Inc.:M3778,,Svc:Micro Molding,,"12,000.00",,0.727,,"8,724.00",,"8,724.00"
+1218,,,Total M3778,,,,,,,,,,,,,,,"12,000.00",,,,"8,724.00",,"8,724.00"
+1219,,,M3779,,,,,,,,,,,,,,,,,,,,,
+1220,,,,,,Invoice,,01/05/2018,,13700.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"3,738.00"
+1221,,,,,,Invoice,,01/12/2018,,13630.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"7,476.00"
+1222,,,,,,Invoice,,01/12/2018,,13631.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"11,214.00"
+1223,,,,,,Invoice,,01/12/2018,,13632.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,500.00,,3.738,,"1,869.00",,"13,083.00"
+1224,,,,,,Invoice,,01/19/2018,,13647.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"16,821.00"
+1225,,,,,,Invoice,,01/19/2018,,13649.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"20,559.00"
+1226,,,,,,Invoice,,01/19/2018,,13651.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,500.00,,3.738,,"1,869.00",,"22,428.00"
+1227,,,,,,Invoice,,01/26/2018,,13660.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"26,166.00"
+1228,,,,,,Invoice,,01/26/2018,,13665.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"29,904.00"
+1229,,,,,,Invoice,,01/26/2018,,13666.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,500.00,,3.738,,"1,869.00",,"31,773.00"
+1230,,,,,,Invoice,,01/31/2018,,13671.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"35,511.00"
+1231,,,,,,Invoice,,01/31/2018,,13677.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"39,249.00"
+1232,,,,,,Invoice,,02/02/2018,,13681.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,500.00,,3.738,,"1,869.00",,"41,118.00"
+1233,,,,,,Invoice,,02/09/2018,,13688.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"44,856.00"
+1234,,,,,,Invoice,,02/09/2018,,13692.0,,"Needle Loop complex fitting P/N M710369, Document #E-09-2240-06",,UFP Technologies Inc.:M3779,,Svc:Micro Molding,,500.00,,3.738,,"1,869.00",,"46,725.00"
+1235,,,Total M3779,,,,,,,,,,,,,,,"12,500.00",,,,"46,725.00",,"46,725.00"
+1236,,,M3836,,,,,,,,,,,,,,,,,,,,,
+1237,,,,,,Invoice,,02/16/2018,,13703.0,,Needle Loop Complex Fitting #E-09-2240-06 Part #M710369,,UFP Technologies Inc.:M3836,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"3,738.00"
+1238,,,,,,Invoice,,02/16/2018,,13704.0,,Needle Loop Complex Fitting #E-09-2240-06 Part #M710369,,UFP Technologies Inc.:M3836,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"7,476.00"
+1239,,,,,,Invoice,,02/16/2018,,13714.0,,Needle Loop Complex Fitting #E-09-2240-06 Part #M710369,,UFP Technologies Inc.:M3836,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"11,214.00"
+1240,,,,,,Invoice,,02/22/2018,,13721.0,,Needle Loop Complex Fitting #E-09-2240-06 Part #M710369,,UFP Technologies Inc.:M3836,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"14,952.00"
+1241,,,,,,Invoice,,02/28/2018,,13727.0,,Needle Loop Complex Fitting #E-09-2240-06 Part #M710369,,UFP Technologies Inc.:M3836,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"18,690.00"
+1242,,,,,,Invoice,,02/28/2018,,13734.0,,Needle Loop Complex Fitting #E-09-2240-06 Part #M710369,,UFP Technologies Inc.:M3836,,Svc:Micro Molding,,500.00,,3.738,,"1,869.00",,"20,559.00"
+1243,,,Total M3836,,,,,,,,,,,,,,,"5,500.00",,,,"20,559.00",,"20,559.00"
+1244,,,M3837,,,,,,,,,,,,,,,,,,,,,
+1245,,,,,,Invoice,,02/16/2018,,13702.0,,"(10,000) Tubing Anchor Adapters #E-09-2241-03 Part #M710368",,UFP Technologies Inc.:M3837,,Svc:Micro Molding,,"10,000.00",,0.727,,"7,270.00",,"7,270.00"
+1246,,,Total M3837,,,,,,,,,,,,,,,"10,000.00",,,,"7,270.00",,"7,270.00"
+1247,,,M3873,,,,,,,,,,,,,,,,,,,,,
+1248,,,,,,Invoice,,03/09/2018,,13738.0,,Needle Loop Complex Fitting,,UFP Technologies Inc.:M3873,,Svc:Micro Molding,,500.00,,3.738,,"1,869.00",,"1,869.00"
+1249,,,Total M3873,,,,,,,,,,,,,,,500.00,,,,"1,869.00",,"1,869.00"
+1250,,,M3874,,,,,,,,,,,,,,,,,,,,,
+1251,,,,,,Invoice,,03/30/2018,,13767.0,,Needle Loop Complex Fitting,,UFP Technologies Inc.:M3874,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"3,738.00"
+1252,,,Total M3874,,,,,,,,,,,,,,,"1,000.00",,,,"3,738.00",,"3,738.00"
+1253,,,M3875,,,,,,,,,,,,,,,,,,,,,
+1254,,,,,,Invoice,,03/30/2018,,13768.0,,Needle Loop Complex Fitting,,UFP Technologies Inc.:M3875,,Svc:Micro Molding,,500.00,,3.738,,"1,869.00",,"1,869.00"
+1255,,,Total M3875,,,,,,,,,,,,,,,500.00,,,,"1,869.00",,"1,869.00"
+1256,,,M3910,,,,,,,,,,,,,,,,,,,,,
+1257,,,,,,Invoice,,04/06/2018,,13779.0,,Tubing Anchor,,UFP Technologies Inc.:M3910,,Svc:Micro Molding,,"2,000.00",,0.874,,"1,748.00",,"1,748.00"
+1258,,,Total M3910,,,,,,,,,,,,,,,"2,000.00",,,,"1,748.00",,"1,748.00"
+1259,,,M3911,,,,,,,,,,,,,,,,,,,,,
+1260,,,,,,Invoice,,05/11/2018,,13831.0,,Tubing Anchor,,UFP Technologies Inc.:M3911,,Svc:Micro Molding,,"3,000.00",,0.874,,"2,622.00",,"2,622.00"
+1261,,,Total M3911,,,,,,,,,,,,,,,"3,000.00",,,,"2,622.00",,"2,622.00"
+1262,,,M3912,,,,,,,,,,,,,,,,,,,,,
+1263,,,,,,Invoice,,04/06/2018,,13771.0,,Needle Loops,,UFP Technologies Inc.:M3912,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"3,738.00"
+1264,,,,,,Invoice,,04/06/2018,,13778.0,,Needle Loops,,UFP Technologies Inc.:M3912,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"7,476.00"
+1265,,,,,,Invoice,,04/13/2018,,13783.0,,Needle Loops,,UFP Technologies Inc.:M3912,,Svc:Micro Molding,,500.00,,3.738,,"1,869.00",,"9,345.00"
+1266,,,Total M3912,,,,,,,,,,,,,,,"2,500.00",,,,"9,345.00",,"9,345.00"
+1267,,,M3937,,,,,,,,,,,,,,,,,,,,,
+1268,,,,,,Invoice,,06/22/2018,,13909.0,,Tubing Anchors M710368,,UFP Technologies Inc.:M3937,,Svc:Micro Molding,,"5,000.00",,0.727,,"3,635.00",,"3,635.00"
+1269,,,Total M3937,,,,,,,,,,,,,,,"5,000.00",,,,"3,635.00",,"3,635.00"
+1270,,,M3938,,,,,,,,,,,,,,,,,,,,,
+1271,,,,,,Invoice,,05/18/2018,,13848.0,,Tubing Anchors M710368,,UFP Technologies Inc.:M3938,,Svc:Micro Molding,,"5,000.00",,0.727,,"3,635.00",,"3,635.00"
+1272,,,Total M3938,,,,,,,,,,,,,,,"5,000.00",,,,"3,635.00",,"3,635.00"
+1273,,,M3939,,,,,,,,,,,,,,,,,,,,,
+1274,,,,,,Invoice,,05/11/2018,,13838.0,,Needle Loops M710369,,UFP Technologies Inc.:M3939,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"3,738.00"
+1275,,,,,,Invoice,,05/18/2018,,13847.0,,Needle Loops M710369,,UFP Technologies Inc.:M3939,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"7,476.00"
+1276,,,,,,Invoice,,05/24/2018,,13857.0,,Needle Loops M710369,,UFP Technologies Inc.:M3939,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"11,214.00"
+1277,,,,,,Invoice,,05/24/2018,,13858.0,,Needle Loops M710369 Rev E-09-2240-06,,UFP Technologies Inc.:M3939,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"14,952.00"
+1278,,,,,,Invoice,,05/31/2018,,13864.0,,Needle Loops M710369,,UFP Technologies Inc.:M3939,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"18,690.00"
+1279,,,,,,Invoice,,06/08/2018,,13874.0,,Needle Loops M710369,,UFP Technologies Inc.:M3939,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"22,428.00"
+1280,,,,,,Invoice,,06/15/2018,,13889.0,,Needle Loops M710369,,UFP Technologies Inc.:M3939,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"26,166.00"
+1281,,,,,,Invoice,,06/15/2018,,13891.0,,Needle Loops M710369,,UFP Technologies Inc.:M3939,,Svc:Micro Molding,,500.00,,3.738,,"1,869.00",,"28,035.00"
+1282,,,Total M3939,,,,,,,,,,,,,,,"7,500.00",,,,"28,035.00",,"28,035.00"
+1283,,,M3953,,,,,,,,,,,,,,,,,,,,,
+1284,,,,,,Invoice,,06/22/2018,,13901.0,,Needle Loops M710369,,UFP Technologies Inc.:M3953,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"3,738.00"
+1285,,,,,,Invoice,,06/22/2018,,13902.0,,Needle Loops M710369,,UFP Technologies Inc.:M3953,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"7,476.00"
+1286,,,,,,Invoice,,06/29/2018,,13915.0,,Needle Loops M710369,,UFP Technologies Inc.:M3953,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"11,214.00"
+1287,,,Total M3953,,,,,,,,,,,,,,,"3,000.00",,,,"11,214.00",,"11,214.00"
+1288,,,M3977,,,,,,,,,,,,,,,,,,,,,
+1289,,,,,,Invoice,,06/29/2018,,13917.0,,Needle Loops M710369,,UFP Technologies Inc.:M3977,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"3,738.00"
+1290,,,Total M3977,,,,,,,,,,,,,,,"1,000.00",,,,"3,738.00",,"3,738.00"
+1291,,,M3978,,,,,,,,,,,,,,,,,,,,,
+1292,,,,,,Invoice,,07/05/2018,,13932.0,,Needle Loops M710369,,UFP Technologies Inc.:M3978,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"3,738.00"
+1293,,,Total M3978,,,,,,,,,,,,,,,"1,000.00",,,,"3,738.00",,"3,738.00"
+1294,,,M3979,,,,,,,,,,,,,,,,,,,,,
+1295,,,,,,Invoice,,07/05/2018,,13933.0,,Needle Loops M710369,,UFP Technologies Inc.:M3979,,Svc:Micro Molding,,500.00,,3.738,,"1,869.00",,"1,869.00"
+1296,,,Total M3979,,,,,,,,,,,,,,,500.00,,,,"1,869.00",,"1,869.00"
+1297,,,M4005,,,,,,,,,,,,,,,,,,,,,
+1298,,,,,,Invoice,,08/02/2018,,13963.0,,Tubing Anchors M710368,,UFP Technologies Inc.:M4005,,Svc:Micro Molding,,"15,000.00",,0.727,,"10,905.00",,"10,905.00"
+1299,,,Total M4005,,,,,,,,,,,,,,,"15,000.00",,,,"10,905.00",,"10,905.00"
+1300,,,M4006,,,,,,,,,,,,,,,,,,,,,
+1301,,,,,,Invoice,,07/31/2018,,13957.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"3,738.00"
+1302,,,,,,Invoice,,08/02/2018,,13962.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"7,476.00"
+1303,,,,,,Invoice,,08/10/2018,,13970.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"11,214.00"
+1304,,,,,,Invoice,,08/10/2018,,13973.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"14,952.00"
+1305,,,,,,Invoice,,08/17/2018,,13979.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"18,690.00"
+1306,,,,,,Invoice,,08/17/2018,,13981.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"22,428.00"
+1307,,,,,,Invoice,,08/24/2018,,13988.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"26,166.00"
+1308,,,,,,Invoice,,08/24/2018,,13989.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"29,904.00"
+1309,,,,,,Invoice,,08/31/2018,,13994.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"33,642.00"
+1310,,,,,,Invoice,,08/31/2018,,13999.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"37,380.00"
+1311,,,,,,Invoice,,09/07/2018,,14007.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,210.00,,3.738,,784.98,,"38,164.98"
+1312,,,,,,Invoice,,10/19/2018,,14071.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"41,902.98"
+1313,,,,,,Invoice,,10/19/2018,,14078.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,500.00",,3.738,,"5,607.00",,"47,509.98"
+1314,,,,,,Invoice,,10/26/2018,,14082.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,500.00",,3.738,,"5,607.00",,"53,116.98"
+1315,,,,,,Invoice,,10/26/2018,,14090.0,,Needle Loops M710369,,UFP Technologies Inc.:M4006,,Svc:Micro Molding,,"1,290.00",,3.738,,"4,822.02",,"57,939.00"
+1316,,,Total M4006,,,,,,,,,,,,,,,"15,500.00",,,,"57,939.00",,"57,939.00"
+1317,,,M4040,,,,,,,,,,,,,,,,,,,,,
+1318,,,,,,Invoice,,11/01/2018,,14103.0,,"Tubing Anchors, M710368",,UFP Technologies Inc.:M4040,,Svc:Micro Molding,,"7,000.00",,0.727,,"5,089.00",,"5,089.00"
+1319,,,Total M4040,,,,,,,,,,,,,,,"7,000.00",,,,"5,089.00",,"5,089.00"
+1320,,,M4041,,,,,,,,,,,,,,,,,,,,,
+1321,,,,,,Invoice,,10/31/2018,,14094.0,,"Needle Loops, M710369",,UFP Technologies Inc.:M4041,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"3,738.00"
+1322,,,Total M4041,,,,,,,,,,,,,,,"1,000.00",,,,"3,738.00",,"3,738.00"
+1323,,,M4042,,,,,,,,,,,,,,,,,,,,,
+1324,,,,,,Invoice,,11/21/2018,,14130.0,,"Tubing Anchors, M710368",,UFP Technologies Inc.:M4042,,Svc:Micro Molding,,"7,000.00",,0.727,,"5,089.00",,"5,089.00"
+1325,,,Total M4042,,,,,,,,,,,,,,,"7,000.00",,,,"5,089.00",,"5,089.00"
+1326,,,M4043,,,,,,,,,,,,,,,,,,,,,
+1327,,,,,,Invoice,,11/01/2018,,14102.0,,"Needle Loops, M710369",,UFP Technologies Inc.:M4043,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"3,738.00"
+1328,,,,,,Invoice,,11/08/2018,,14107.0,,"Needle Loops, M710369",,UFP Technologies Inc.:M4043,,Svc:Micro Molding,,"1,500.00",,3.738,,"5,607.00",,"9,345.00"
+1329,,,,,,Invoice,,11/08/2018,,14111.0,,"Needle Loops, M710369",,UFP Technologies Inc.:M4043,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"13,083.00"
+1330,,,,,,Invoice,,11/15/2018,,14124.0,,"Needle Loops, M710369",,UFP Technologies Inc.:M4043,,Svc:Micro Molding,,"1,500.00",,3.738,,"5,607.00",,"18,690.00"
+1331,,,,,,Invoice,,11/15/2018,,14128.0,,"Needle Loops, M710369",,UFP Technologies Inc.:M4043,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"22,428.00"
+1332,,,Total M4043,,,,,,,,,,,,,,,"6,000.00",,,,"22,428.00",,"22,428.00"
+1333,,,M4081,,,,,,,,,,,,,,,,,,,,,
+1334,,,,,,Invoice,,11/21/2018,,14131.0,,M710369 Needle Loop Complex Fitting,,UFP Technologies Inc.:M4081,,Svc:Micro Molding,,"1,500.00",,3.738,,"5,607.00",,"5,607.00"
+1335,,,,,,Invoice,,11/21/2018,,14133.0,,M710369 Needle Loop Complex Fitting,,UFP Technologies Inc.:M4081,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"9,345.00"
+1336,,,,,,Invoice,,11/29/2018,,14141.0,,M710369 Needle Loop Complex Fitting,,UFP Technologies Inc.:M4081,,Svc:Micro Molding,,"1,500.00",,3.738,,"5,607.00",,"14,952.00"
+1337,,,,,,Invoice,,11/29/2018,,14146.0,,M710369 Needle Loop Complex Fitting,,UFP Technologies Inc.:M4081,,Svc:Micro Molding,,"1,000.00",,3.738,,"3,738.00",,"18,690.00"
+1338,,,Total M4081,,,,,,,,,,,,,,,"5,000.00",,,,"18,690.00",,"18,690.00"
+1339,,Total UFP Technologies Inc.,,,,,,,,,,,,,,,,"129,000.00",,,,"284,211.00",,"284,211.00"
+1340,,Vascular Solutions,,,,,,,,,,,,,,,,,,,,,,
+1341,,,M3864,,,,,,,,,,,,,,,,,,,,,
+1342,,,,,,Invoice,,02/22/2018,,13717.0,,Specimens for TST dogbone tensile Rev. X02 with PLG 7525 material,,Vascular Solutions:M3864,,Svc:Micro Molding,,1.00,,"3,100.00",,"3,100.00",,"3,100.00"
+1343,,,Total M3864,,,,,,,,,,,,,,,1.00,,,,"3,100.00",,"3,100.00"
+1344,,,M3865,,,,,,,,,,,,,,,,,,,,,
+1345,,,,,,Invoice,,02/22/2018,,13718.0,,Up to (300) parts of TST dogbone tensile Rev. X02 with PLG 7525 material,,Vascular Solutions:M3865,,Svc:Micro Molding,,1.00,,900.00,,900.00,,900.00
+1346,,,Total M3865,,,,,,,,,,,,,,,1.00,,,,900.00,,900.00
+1347,,Total Vascular Solutions,,,,,,,,,,,,,,,,2.00,,,,"4,000.00",,"4,000.00"
+1348,,Via Surgical,,,,,,,,,,,,,,,,,,,,,,
+1349,,,8518,,,,,,,,,,,,,,,,,,,,,
+1350,,,,,,Invoice,,12/06/2018,,14161.0,,"Suture Clip-cavity insert-1 run until mold is stabilized, 32 pc capability study of 1.45 dimensi...",,Via Surgical:8518,,Svc:Micro Molds,,1.00,,"6,850.00",,"6,850.00",,"6,850.00"
+1351,,,Total 8518,,,,,,,,,,,,,,,1.00,,,,"6,850.00",,"6,850.00"
+1352,,,8519,,,,,,,,,,,,,,,,,,,,,
+1353,,,,,,Invoice,,12/06/2018,,14162.0,,"Suture Clip-Arrow Cross Slide-1 run until mold is stabilized, 32 pc capability study of 1.45 dim...",,Via Surgical:8519,,Svc:Micro Molds,,1.00,,"4,225.00",,"4,225.00",,"4,225.00"
+1354,,,Total 8519,,,,,,,,,,,,,,,1.00,,,,"4,225.00",,"4,225.00"
+1355,,,8520,,,,,,,,,,,,,,,,,,,,,
+1356,,,,,,Invoice,,12/06/2018,,14163.0,,"Suture Clip-Arrow Slide Action_2-1 run until mold is stabilized, 3 pc FAI",,Via Surgical:8520,,Svc:Micro Molds,,1.00,,"3,450.00",,"3,450.00",,"3,450.00"
+1357,,,Total 8520,,,,,,,,,,,,,,,1.00,,,,"3,450.00",,"3,450.00"
+1358,,,8521,,,,,,,,,,,,,,,,,,,,,
+1359,,,,,,Invoice,,12/06/2018,,14164.0,,"Suture Clip-Wedge-1 run until mold is stabilized, 3 pc FAI",,Via Surgical:8521,,Svc:Micro Molds,,1.00,,"4,800.00",,"4,800.00",,"4,800.00"
+1360,,,,,,Credit Memo,,12/12/2018,,14176.0,,credit issued for bank fees incurred during wire transfer,,Via Surgical:8521,,Svc:Micro Molds,,-1.00,,40.00,,-40.00,,"4,760.00"
+1361,,,Total 8521,,,,,,,,,,,,,,,0.00,,,,"4,760.00",,"4,760.00"
+1362,,,M3800,,,,,,,,,,,,,,,,,,,,,
+1363,,,,,,Credit Memo,,01/18/2018,,13661.0,,Credit issued for bank fees incurred during wire transfer,,Via Surgical:M3800,,Svc:Micro Molding,,-1.00,,42.00,,-42.00,,-42.00
+1364,,,Total M3800,,,,,,,,,,,,,,,-1.00,,,,-42.00,,-42.00
+1365,,,M3871,,,,,,,,,,,,,,,,,,,,,
+1366,,,,,,Invoice,,04/13/2018,,13793.0,,Requalification activities for Suture Clip SP DWG # P069 Rev. 5 with Chronoflex C material (32) ...,,Via Surgical:M3871,,Svc:Micro Molding,,1.00,,"3,600.00",,"3,600.00",,"3,600.00"
+1367,,,,,,Credit Memo,,04/17/2018,,13804.0,,Credit issues for fees incurred during wire transfer,,Via Surgical:M3871,,Svc:Micro Molding,,-1.00,,42.00,,-42.00,,"3,558.00"
+1368,,,Total M3871,,,,,,,,,,,,,,,0.00,,,,"3,558.00",,"3,558.00"
+1369,,,M3872,,,,,,,,,,,,,,,,,,,,,
+1370,,,,,,Invoice,,04/16/2018,,13795.0,,Suture Clip SP,,Via Surgical:M3872,,Svc:Micro Molding,,"25,000.00",,0.833,,"20,825.00",,"20,825.00"
+1371,,,,,,Credit Memo,,06/15/2018,,13906.0,,Credit issued for bank fees incurred during wire transfer,,Via Surgical:M3872,,Svc:Micro Molding,,-1.00,,42.00,,-42.00,,"20,783.00"
+1372,,,Total M3872,,,,,,,,,,,,,,,"24,999.00",,,,"20,783.00",,"20,783.00"
+1373,,,M3898,,,,,,,,,,,,,,,,,,,,,
+1374,,,,,,Invoice,,06/13/2018,,13892.0,,"Bioabsorbable process development, IV test material, moisture sensitivity test and temp study. (...",,Via Surgical:M3898,,Svc:Micro Molding,,1.00,,"11,550.00",,"11,550.00",,"11,550.00"
+1375,,,Total M3898,,,,,,,,,,,,,,,1.00,,,,"11,550.00",,"11,550.00"
+1376,,,M3899,,,,,,,,,,,,,,,,,,,,,
+1377,,,,,,Invoice,,06/13/2018,,13894.0,,Process development (MT2) includes (32) progress samples,,Via Surgical:M3899,,Svc:Micro Molding,,1.00,,"12,660.00",,"12,660.00",,"12,660.00"
+1378,,,,,,Credit Memo,,08/10/2018,,13978.0,,Credit issued for fees incurred during wire transfer,,Via Surgical:M3899,,Svc:Micro Molding,,-1.00,,42.00,,-42.00,,"12,618.00"
+1379,,,Total M3899,,,,,,,,,,,,,,,0.00,,,,"12,618.00",,"12,618.00"
+1380,,,M4017,,,,,,,,,,,,,,,,,,,,,
+1381,,,,,,Invoice,,08/29/2018,,13998.0,,Suture Clip SP P069,,Via Surgical:M4017,,Svc:Micro Molding,,"9,927.00",,0.744,,"7,385.69",,"7,385.69"
+1382,,,,,,Credit Memo,,09/27/2018,,14038.0,,credit issued for bank fees incurred during wire transfer,,Via Surgical:M4017,,Svc:Micro Molding,,-1.00,,42.00,,-42.00,,"7,343.69"
+1383,,,,,,Invoice,,11/27/2018,,14139.0,,Suture Clip SP P069,,Via Surgical:M4017,,Svc:Micro Molding,,"10,000.00",,0.744,,"7,440.00",,"14,783.69"
+1384,,,,,,Credit Memo,,12/19/2018,,14187.0,,Credit issue for bank fees incurred during wire transfer,,Via Surgical:M4017,,Svc:Micro Molding,,-1.00,,40.00,,-40.00,,"14,743.69"
+1385,,,Total M4017,,,,,,,,,,,,,,,"19,925.00",,,,"14,743.69",,"14,743.69"
+1386,,,M4065,,,,,,,,,,,,,,,,,,,,,
+1387,,,,,,Invoice,,11/27/2018,,14138.0,,Suture Clip-Re-qualification costs-non-bioabsorbable. Includes (32 pcs) re-qualification samples,,Via Surgical:M4065,,Svc:Micro Molding,,1.00,,"3,600.00",,"3,600.00",,"3,600.00"
+1388,,,Total M4065,,,,,,,,,,,,,,,1.00,,,,"3,600.00",,"3,600.00"
+1389,,Total Via Surgical,,,,,,,,,,,,,,,,"44,928.00",,,,"86,095.69",,"86,095.69"
+1390,TOTAL,,,,,,,,,,,,,,,,,"9,113,500.08331",,,,"8,810,555.49",,"8,810,555.49"
