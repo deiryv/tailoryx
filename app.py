@@ -402,7 +402,7 @@ def main():
 
     # Create the user prompt within prompt_placeholder
     with prompt_placeholder:
-        st.markdown("**Chat**")
+        st.markdown("**Chat with TailoryX**")
         cols = st.columns((6, 1))
         cols[0].text_input(
             "Chat",
