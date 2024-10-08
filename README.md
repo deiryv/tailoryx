@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://kma-static-server.netlify.app/public/coca-cola-logo.svg" height="375px"/>
+<img src="./static/logo.png" height="150px"/>
 
-# Coca-Cola Knowledge Management Assistant (KMA)
+# TailoryX
 
-Streamlit web app providing a Large Language Model (LLM) chatbot with a custom knowledge base for The Coca-Cola Company
+Streamlit web app providing a Large Language Model (LLM) chatbot with a custom knowledge base for TailoryX
 
 <img src="./public/made-with-python.svg" height="30"/>
 <img src="./public/makes-people-smile.svg" height="30"/>
