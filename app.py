@@ -24,7 +24,7 @@ class Message:
     Class to contain & track messages
     """
 
-    origin: Literal["human", "AI", "dataframe", "bar", "line"]
+    origin: Literal["human", "AI", "dataframe", "bar", "line", "hist"]
     message: str
 
 
@@ -402,7 +402,7 @@ def main():
 
     # Create the user prompt within prompt_placeholder
     with prompt_placeholder:
-        st.markdown("**Chat with me**")
+        st.markdown("**Chat**")
         cols = st.columns((6, 1))
         cols[0].text_input(
             "Chat",
